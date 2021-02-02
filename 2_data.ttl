@@ -1,0 +1,4818 @@
+@prefix ns0: <http://permid.org/ontology/common/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns1: <http://permid.org/ontology/currency/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://permid.org/1-500322>
+  ns0:hasPermId "500322"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Comorian Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500148> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KMc"^^xsd:string .
+
+<https://permid.org/1-500309>
+  ns1:isCurrencySubunitOf <https://permid.org/1-500134> ;
+  skos:prefLabel "Centavo(Brazil)", "Brazilian Centavo" ;
+  ns1:isISOHistorical false ;
+  a ns1:CurrencySubunit ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:subUnitLC "BRc"^^xsd:string ;
+  ns0:hasPermId "500309"^^xsd:string ;
+  ns1:subUnitX "BRX"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float .
+
+<https://permid.org/1-500445>
+  ns0:hasPermId "500445"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Uruguayan Centesimo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500270> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "UYc"^^xsd:string .
+
+<https://permid.org/1-500327>
+  ns0:hasPermId "500327"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Cuban Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500153> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CUc"^^xsd:string .
+
+<https://permid.org/1-500525>
+  ns0:hasPermId "500525"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "IEX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Irish Penny" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500516> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "IEp"^^xsd:string .
+
+<https://permid.org/1-500407>
+  ns0:hasPermId "500407"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Peruvian Centimo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500229> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "PEc"^^xsd:string .
+
+<https://permid.org/1-500379>
+  ns0:hasPermId "500379"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Lithuanian Centas" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500202> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "LTc"^^xsd:string .
+
+<https://permid.org/1-500301>
+  ns0:hasPermId "500301"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Belizean Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500124> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BZc"^^xsd:string .
+
+<https://permid.org/1-500425>
+  ns1:subUnitLC "LKc"^^xsd:string ;
+  a ns1:CurrencySubunit ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500249> ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Sri Lankan Cent" ;
+  ns1:isISOHistorical false ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns0:hasPermId "500425"^^xsd:string .
+
+<https://permid.org/1-500289>
+  ns0:hasPermId "500289"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Angolan Centimo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500112> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "AOc"^^xsd:string .
+
+<https://permid.org/1-500400>
+  ns0:hasPermId "500400"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Nicaraguan Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500222> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "NIc"^^xsd:string .
+
+<https://permid.org/1-500406>
+  ns0:hasPermId "500406"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Paraguayan Centimo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500228> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "PYc"^^xsd:string .
+
+<https://permid.org/1-500391>
+  ns0:hasPermId "500391"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Mexican Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500212> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MXc"^^xsd:string .
+
+<https://permid.org/1-500300>
+  skos:prefLabel "Belarusian Kopek", "Belarusian Kapeyka" ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  a ns1:CurrencySubunit ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-1002807781> ;
+  ns0:hasPermId "500300"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:subUnitX "BYX"^^xsd:string ;
+  ns1:subUnitLC "BYk"^^xsd:string .
+
+<https://permid.org/1-500306>
+  ns0:hasPermId "500306"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bolivian Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500129> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BOc"^^xsd:string .
+
+<https://permid.org/1-500333>
+  ns0:hasPermId "500333"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Dominican Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500158> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "DOc"^^xsd:string .
+
+<https://permid.org/1-500296>
+  ns0:hasPermId "500296"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bahamian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500119> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BSc"^^xsd:string .
+
+<https://permid.org/1-500413>
+  ns0:hasPermId "500413"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Rwandan Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500236> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "RWc"^^xsd:string .
+
+<https://permid.org/1-500419>
+  ns0:hasPermId "500419"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Seychelles Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500242> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SCc"^^xsd:string .
+
+<https://permid.org/1-500323>
+  ns0:hasPermId "500323"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Congolese Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500149> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CDc"^^xsd:string .
+
+<https://permid.org/1-500286>
+  ns0:hasPermId "500286"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Algerian Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500109> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "DZc"^^xsd:string .
+
+<https://permid.org/1-500332>
+  ns0:hasPermId "500332"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Djiboutian Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500157> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "DJc"^^xsd:string .
+
+<https://permid.org/1-500446>
+  ns0:hasPermId "500446"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Tiyin" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500451> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "UZt"^^xsd:string .
+
+<https://permid.org/1-500337>
+  ns0:hasPermId "500337"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500162> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "EEs"^^xsd:string .
+
+<https://permid.org/1-500294>
+  ns0:hasPermId "500294"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "AUX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Australian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500117> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "AUc"^^xsd:string .
+
+<https://permid.org/1-500308>
+  ns0:hasPermId "500308"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "øre(Svalbard And Jan Mayen)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500133> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "NOo"^^xsd:string .
+
+<https://permid.org/1-500330>
+  ns0:hasPermId "500330"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Haléř" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500155> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CZh"^^xsd:string .
+
+<https://permid.org/1-500435>
+  ns0:hasPermId "500435"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Satang" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500260> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "THs"^^xsd:string .
+
+<https://permid.org/1-500354>
+  ns0:hasPermId "500354"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Eyrir" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500179> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ISe"^^xsd:string .
+
+<https://permid.org/1-500307>
+  ns0:hasPermId "500307"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "BWX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Botswana Thebe" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500132> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BWt"^^xsd:string .
+
+<https://permid.org/1-500453>
+  ns0:hasPermId "500453"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Penny(Gibraltar)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500170> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "GIp"^^xsd:string .
+
+<https://permid.org/1-500415>
+  ns0:hasPermId "500415"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sene" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500238> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "WSs"^^xsd:string .
+
+<https://permid.org/1-500362>
+  ns0:hasPermId "500362"^^xsd:string ;
+  ns1:subunitFactor "10"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Dirham(Jordan)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500187> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "JOd"^^xsd:string .
+
+<https://permid.org/1-500439>
+  ns0:hasPermId "500439"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "TRX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Turkish Kurus" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500264> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TRk"^^xsd:string .
+
+<https://permid.org/1-500396>
+  ns0:hasPermId "500396"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Pya" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500218> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MMp"^^xsd:string .
+
+<https://permid.org/1-500414>
+  ns0:hasPermId "500414"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Penny(Saint Helena)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500237> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SHp"^^xsd:string .
+
+<https://permid.org/1-500448>
+  ns0:hasPermId "500448"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Xu" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500274> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "VNx"^^xsd:string .
+
+<https://permid.org/1-500377>
+  ns0:hasPermId "500377"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Dirham(Libyan Arab Jamahiriya)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500200> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "LYd"^^xsd:string .
+
+<https://permid.org/1-500352>
+  ns0:hasPermId "500352"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "HKX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Hong Kong Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500177> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "HKc"^^xsd:string .
+
+<https://permid.org/1-500287>
+  ns0:hasPermId "500287"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "USX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "US Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500110> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "USc"^^xsd:string .
+
+<https://permid.org/1-500339>
+  ns0:hasPermId "500339"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Penny(Falkland Islands , Malvinas)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500164> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "FKp"^^xsd:string .
+
+<https://permid.org/1-500556>
+  ns0:hasPermId "500556"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Ngwee" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500554> ;
+  a ns1:CurrencySubunit .
+
+<https://permid.org/1-500370>
+  ns1:subUnitLC "KGt"^^xsd:string ;
+  a ns1:CurrencySubunit ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500193> ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Tyiyn" ;
+  ns1:isISOHistorical false ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns0:hasPermId "500370"^^xsd:string .
+
+<https://permid.org/1-500447>
+  ns0:hasPermId "500447"^^xsd:string ;
+  ns1:subunitFactor "10"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Hào" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500274> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "VNh"^^xsd:string .
+
+<https://permid.org/1-500329>
+  ns0:hasPermId "500329"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Mil (Cyprus)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500154> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CYm"^^xsd:string .
+
+<https://permid.org/1-500304>
+  ns0:hasPermId "500304"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Paisa(India)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500127> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "INp"^^xsd:string .
+
+<https://permid.org/1-500295>
+  ns0:hasPermId "500295"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Qəpik" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500118> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "AZq"^^xsd:string .
+
+<https://permid.org/1-500350>
+  ns0:hasPermId "500350"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Honduran Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500176> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "HNc"^^xsd:string .
+
+<https://permid.org/1-500303>
+  ns0:hasPermId "500303"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bermudian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500126> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BMc"^^xsd:string .
+
+<https://permid.org/1-500312>
+  ns0:hasPermId "500312"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Burundian Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500137> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BIc"^^xsd:string .
+
+<https://permid.org/1-500399>
+  ns0:hasPermId "500399"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Netherlands Antillean Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500221> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ANc"^^xsd:string .
+
+<https://permid.org/1-500420>
+  ns0:hasPermId "500420"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sierra Leonean Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500243> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SLc"^^xsd:string .
+
+<https://permid.org/1-500302>
+  ns0:hasPermId "500302"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Togolese Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500125> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "XOc"^^xsd:string .
+
+<https://permid.org/1-500336>
+  ns0:hasPermId "500336"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Eritrean Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500161> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ERc"^^xsd:string .
+
+<https://permid.org/1-500293>
+  ns0:hasPermId "500293"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Aruban Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500116> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "AWc"^^xsd:string .
+
+<https://permid.org/1-500317>
+  ns0:hasPermId "500317"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Cayman Islands Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500142> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KYc"^^xsd:string .
+
+<https://permid.org/1-1003939166>
+  ns0:hasPermId "1003939166"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "VEX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Venezuelan Centimo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-1003934988> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "VEc"^^xsd:string .
+
+<https://permid.org/1-500325>
+  ns1:subUnitLC "CRc"^^xsd:string ;
+  a ns1:CurrencySubunit ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500151> ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Costa Rican Centimo" ;
+  ns1:isISOHistorical false ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns0:hasPermId "500325"^^xsd:string .
+
+<https://permid.org/1-500387>
+  ns0:hasPermId "500387"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Maltese Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500209> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MTc"^^xsd:string .
+
+<https://permid.org/1-500551>
+  ns0:hasPermId "500551"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Belgian Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500499> ;
+  a ns1:CurrencySubunit .
+
+<https://permid.org/1-500291>
+  ns0:hasPermId "500291"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Argentinian Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500114> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ARc"^^xsd:string .
+
+<https://permid.org/1-500349>
+  ns0:hasPermId "500349"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Haitian Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500175> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "HTc"^^xsd:string .
+
+<https://permid.org/1-500404>
+  ns0:hasPermId "500404"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Panamanian Centesimo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500226> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "PAc"^^xsd:string .
+
+<https://permid.org/1-500550>
+  ns0:hasPermId "500550"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "French Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500509> ;
+  a ns1:CurrencySubunit .
+
+<https://permid.org/1-500290>
+  ns0:hasPermId "500290"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Saint Vincent And The Grenadines Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500113> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "XCc"^^xsd:string .
+
+<https://permid.org/1-500395>
+  ns0:hasPermId "500395"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Mozambican Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500217> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MZc"^^xsd:string .
+
+<https://permid.org/1-500441>
+  ns0:hasPermId "500441"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Ugandan Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500266> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "UGc"^^xsd:string .
+
+<https://permid.org/1-500428>
+  ns0:hasPermId "500428"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Swazi Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500252> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SZc"^^xsd:string .
+
+<https://permid.org/1-500437>
+  ns0:hasPermId "500437"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Trinidad And Tobago Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500262> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TTc"^^xsd:string .
+
+<https://permid.org/1-500366>
+  ns0:hasPermId "500366"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Kenyan Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500189> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KEc"^^xsd:string .
+
+<https://permid.org/1-500341>
+  ns0:hasPermId "500341"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Wallisian Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500166> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "XPc"^^xsd:string .
+
+<https://permid.org/1-500347>
+  ns0:hasPermId "500347"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Guinean Centime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500172> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "GNc"^^xsd:string .
+
+<https://permid.org/1-500328>
+  ns0:hasPermId "500328"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Cypriot Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500154> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CYc"^^xsd:string .
+
+<https://permid.org/1-500427>
+  ns0:hasPermId "500427"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Surinamese Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500251> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SRc"^^xsd:string .
+
+<https://permid.org/1-500402>
+  ns0:hasPermId "500402"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:subUnitX "OMX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Omani Baisa" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500224> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "OMb"^^xsd:string .
+
+<https://permid.org/1-500340>
+  ns0:hasPermId "500340"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Fijian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500165> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "FJc"^^xsd:string .
+
+<https://permid.org/1-500411>
+  ns0:hasPermId "500411"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "ROX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Romanian Ban" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500234> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ROb"^^xsd:string .
+
+<https://permid.org/1-500318>
+  ns0:hasPermId "500318"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Chilean Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500143> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CLc"^^xsd:string .
+
+<https://permid.org/1-500393>
+  ns0:hasPermId "500393"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Mongo (мөнгө)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500215> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MNm"^^xsd:string .
+
+<https://permid.org/1-500417>
+  ns0:hasPermId "500417"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "SAX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Saudi Halala" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500240> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SAh"^^xsd:string .
+
+<https://permid.org/1-500321>
+  ns0:hasPermId "500321"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Colombian Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500146> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "COc"^^xsd:string .
+
+<https://permid.org/1-500454>
+  ns0:hasPermId "500454"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Guatemalan Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500171> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "GTc"^^xsd:string .
+
+<https://permid.org/1-500389>
+  ns0:hasPermId "500389"^^xsd:string ;
+  ns1:subunitFactor "5"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Khoums" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-1003613270> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MRk"^^xsd:string .
+
+<https://permid.org/1-500299>
+  ns0:hasPermId "500299"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Barbadian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500122> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BBc"^^xsd:string .
+
+<https://permid.org/1-500416>
+  ns0:hasPermId "500416"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sao Tomean Centimo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-1003534519> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "STc"^^xsd:string .
+
+<https://permid.org/1-500434>
+  ns0:hasPermId "500434"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Tanzanian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500259> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TZc"^^xsd:string .
+
+<https://permid.org/1-500316>
+  ns0:hasPermId "500316"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Cape Verdean Centavo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500141> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CVc"^^xsd:string .
+
+<https://permid.org/1-500397>
+  ns0:hasPermId "500397"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "NAX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Namibian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500219> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "NAc"^^xsd:string .
+
+<https://permid.org/1-500443>
+  ns0:hasPermId "500443"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "AEX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "UAE Fils" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500268> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "AEf"^^xsd:string .
+
+<https://permid.org/1-500359>
+  ns0:hasPermId "500359"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Jamaican Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500185> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "JMc"^^xsd:string .
+
+<https://permid.org/1-500334>
+  ns0:hasPermId "500334"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Piastre(Egypt)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500159> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "EGp"^^xsd:string .
+
+<https://permid.org/1-500371>
+  ns1:subUnitLC "LAa"^^xsd:string ;
+  a ns1:CurrencySubunit ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500194> ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Att" ;
+  ns1:isISOHistorical false ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns0:hasPermId "500371"^^xsd:string .
+
+<https://permid.org/1-500348>
+  ns0:hasPermId "500348"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Guyanese Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500174> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "GYc"^^xsd:string .
+
+<https://permid.org/1-500376>
+  ns0:hasPermId "500376"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Liberian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500199> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "LRc"^^xsd:string .
+
+<https://permid.org/1-500385>
+  ns0:hasPermId "500385"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "MYX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Malaysian Sen" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500207> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MYc"^^xsd:string .
+
+<https://permid.org/1-500403>
+  ns0:hasPermId "500403"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Paisa(Pakistan)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500225> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "PKp"^^xsd:string .
+
+<https://permid.org/1-500412>
+  ns0:hasPermId "500412"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Russian Kopek" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500235> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "RUk"^^xsd:string .
+
+<https://permid.org/1-500421>
+  ns0:hasPermId "500421"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "SGX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Singapore Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500244> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SGc"^^xsd:string .
+
+<https://permid.org/1-500384>
+  ns0:hasPermId "500384"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Ngwee" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500276> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ZMn"^^xsd:string .
+
+<https://permid.org/1-500365>
+  ns0:hasPermId "500365"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Tiyn (тиын)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500188> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KZt"^^xsd:string .
+
+<https://permid.org/1-500374>
+  ns0:hasPermId "500374"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "ZAX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "South African Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500197> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ZAc"^^xsd:string .
+
+<https://permid.org/1-500426>
+  ns0:hasPermId "500426"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Dirham(Sudan)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500250> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SDd"^^xsd:string .
+
+<https://permid.org/1-500284>
+  ns0:hasPermId "500284"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Pul" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500107> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "AFp"^^xsd:string .
+
+<https://permid.org/1-500355>
+  ns0:hasPermId "500355"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sen(Indonesia)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500180> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "IDs"^^xsd:string .
+
+<https://permid.org/1-500320>
+  ns0:hasPermId "500320"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Fen (分)(China)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500145> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CNf"^^xsd:string .
+
+<https://permid.org/1-500398>
+  ns0:hasPermId "500398"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Paisa(Nepal)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500220> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "NPp"^^xsd:string .
+
+<https://permid.org/1-500373>
+  ns0:hasPermId "500373"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Piastre(Lebanon)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500196> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "LBp"^^xsd:string .
+
+<https://permid.org/1-500444>
+  ns0:hasPermId "500444"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "GBX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "British Penny" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500269> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "GBp"^^xsd:string .
+
+<https://permid.org/1-500382>
+  ns0:hasPermId "500382"^^xsd:string ;
+  ns1:subunitFactor "5"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Iraimbilanja" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500205> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MGi"^^xsd:string .
+
+<https://permid.org/1-500310>
+  ns0:hasPermId "500310"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sen(Brunei Darussalam)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500135> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BNs"^^xsd:string .
+
+<https://permid.org/1-500298>
+  ns0:hasPermId "500298"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Paisa(Bangladesh)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500121> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BDp"^^xsd:string .
+
+<https://permid.org/1-500449>
+  ns0:hasPermId "500449"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Fils(Yemen)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500275> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "YEf"^^xsd:string .
+
+<https://permid.org/1-500297>
+  ns0:hasPermId "500297"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:subUnitX "BHX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bahraini Fils" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500120> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BHf"^^xsd:string .
+
+<https://permid.org/1-500390>
+  ns0:hasPermId "500390"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "MUX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Mauritian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500211> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MUc"^^xsd:string .
+
+<https://permid.org/1-500429>
+  ns0:hasPermId "500429"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "öre" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500253> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SEo"^^xsd:string .
+
+<https://permid.org/1-500423>
+  ns0:hasPermId "500423"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Stotin" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500246> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SIs"^^xsd:string .
+
+<https://permid.org/1-500358>
+  ns1:subUnitLC "ILa"^^xsd:string ;
+  a ns1:CurrencySubunit ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500184> ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Israeli Agora" ;
+  ns1:isISOHistorical false ;
+  ns1:subUnitX "ILX"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns0:hasPermId "500358"^^xsd:string .
+
+<https://permid.org/1-500380>
+  ns0:hasPermId "500380"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Avo" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500203> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MOa"^^xsd:string .
+
+<https://permid.org/1-500432>
+  ns0:hasPermId "500432"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Fen (分)(Taiwan, Province Of China)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500257> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TWf"^^xsd:string .
+
+<https://permid.org/1-500361>
+  ns0:hasPermId "500361"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Rin" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500186> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "JPr"^^xsd:string .
+
+<https://permid.org/1-500409>
+  ns0:hasPermId "500409"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Grosz" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500231> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "PLg"^^xsd:string .
+
+<https://permid.org/1-500338>
+  ns0:hasPermId "500338"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Santim (Ethiopia)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500163> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ETs"^^xsd:string .
+
+<https://permid.org/1-500266>
+  ns0:hasPermId "500266"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "UGX"^^xsd:string ;
+  ns1:iso4217Numeric "800"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/226074> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/226074> ;
+  skos:prefLabel "Ugandan Shilling" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500250>
+  ns0:hasPermId "500250"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "SDD"^^xsd:string ;
+  ns1:iso4217Numeric "736"^^xsd:string ;
+  skos:prefLabel "Sudanese Dinar" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500185>
+  ns0:hasPermId "500185"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "JMD"^^xsd:string ;
+  ns1:iso4217Numeric "388"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3489940> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3489940> ;
+  skos:prefLabel "Jamaican Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500160>
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Salvadoran Colon" ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3585968> ;
+  ns1:iso4217Numeric "222"^^xsd:string ;
+  ns1:iso4217 "SVC"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500160"^^xsd:string .
+
+<https://permid.org/1-500194>
+  ns0:hasPermId "500194"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "LAK"^^xsd:string ;
+  ns1:iso4217Numeric "418"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1655842> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1655842> ;
+  skos:prefLabel "Lao Kip" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500212>
+  ns0:hasPermId "500212"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MXN"^^xsd:string ;
+  ns1:iso4217Numeric "484"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3996063> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3996063> ;
+  skos:prefLabel "Mexican Peso" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500534>
+  ns0:hasPermId "500534"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "TMT"^^xsd:string ;
+  ns1:iso4217Numeric "934"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1218197> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1218197> ;
+  skos:prefLabel "Turkmenistani New Manat" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500283>
+  ns0:hasPermId "500283"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "XFO"^^xsd:string ;
+  skos:prefLabel "Gold - Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500236>
+  ns0:hasPermId "500236"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "RWF"^^xsd:string ;
+  ns1:iso4217Numeric "646"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/49518> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/49518> ;
+  skos:prefLabel "Rwandan Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500524>
+  ns0:hasPermId "500524"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BRR"^^xsd:string ;
+  ns1:iso4217Numeric "987"^^xsd:string ;
+  skos:prefLabel "Brazilian Cruzeiro Real (Aug 1993-Jul 1994)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500533>
+  ns0:hasPermId "500533"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ZWR"^^xsd:string ;
+  ns1:iso4217Numeric "935"^^xsd:string ;
+  skos:prefLabel "Zimbabwean Dollar (Aug 2008-Jun 2009)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1000285985>
+  ns0:hasPermId "1000285985"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "International Dollar" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500201>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2658434>, <http://sws.geonames.org/3042058> ;
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217Numeric "756"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Swiss Franc" ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2658434>, <http://sws.geonames.org/3042058> ;
+  ns0:hasPermId "500201"^^xsd:string ;
+  ns1:iso4217 "CHF"^^xsd:string .
+
+<https://permid.org/1-500471>
+  ns0:hasPermId "500471"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "AZM"^^xsd:string ;
+  ns1:iso4217Numeric "31"^^xsd:string ;
+  skos:prefLabel "Azerbaijani Manat (to Jan 2006)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500548>
+  ns0:hasPermId "500548"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XUA"^^xsd:string ;
+  ns1:iso4217Numeric "965"^^xsd:string ;
+  skos:prefLabel "ADB Unit of Account" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500504>
+  ns0:hasPermId "500504"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "SDP"^^xsd:string ;
+  skos:prefLabel "Sudanese Pound (to Jun 1992)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500154>
+  ns0:hasPermId "500154"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "CYP"^^xsd:string ;
+  ns1:iso4217Numeric "196"^^xsd:string ;
+  skos:prefLabel "Cypriot Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500528>
+  ns0:hasPermId "500528"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XXX"^^xsd:string ;
+  ns1:iso4217Numeric "999"^^xsd:string ;
+  skos:prefLabel "Transactions Involving No Currency" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500277>
+  ns0:hasPermId "500277"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ZWD"^^xsd:string ;
+  ns1:iso4217Numeric "716"^^xsd:string ;
+  skos:prefLabel "Zimbabwean Dollar (1980-Jul 2008)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500537>
+  ns0:hasPermId "500537"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "MXP"^^xsd:string ;
+  skos:prefLabel "Mexican Peso (to 1993)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003162595>
+  ns0:hasPermId "1003162595"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Ether" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500181>
+  ns0:hasPermId "500181"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XDR"^^xsd:string ;
+  ns1:iso4217Numeric "960"^^xsd:string ;
+  skos:prefLabel "IMF Special Drawing Rights" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500527>
+  ns0:hasPermId "500527"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "TJR"^^xsd:string ;
+  ns1:iso4217Numeric "762"^^xsd:string ;
+  skos:prefLabel "Tajikistani Ruble (to Apr 2001)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500484>
+  ns0:hasPermId "500484"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "NIC"^^xsd:string ;
+  skos:prefLabel "Nicaraguan Cordoba (to Oct 1990)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500248>
+  ns0:hasPermId "500248"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SOS"^^xsd:string ;
+  ns1:iso4217Numeric "706"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/51537> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/51537> ;
+  skos:prefLabel "Somali Shilling" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500499>
+  ns0:hasPermId "500499"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BEF"^^xsd:string ;
+  ns1:iso4217Numeric "56"^^xsd:string ;
+  skos:prefLabel "Belgian Franc" ;
+  ns1:decimalPlaces 1.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500544>
+  ns0:hasPermId "500544"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Chinese Yuan Offshore" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500256>
+  ns0:hasPermId "500256"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SYP"^^xsd:string ;
+  ns1:iso4217Numeric "760"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/163843> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/163843> ;
+  skos:prefLabel "Syrian Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500138>
+  ns0:hasPermId "500138"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KHR"^^xsd:string ;
+  ns1:iso4217Numeric "116"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1831722> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1831722> ;
+  skos:prefLabel "Cambodian Riel" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500246>
+  ns0:hasPermId "500246"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "SIT"^^xsd:string ;
+  ns1:iso4217Numeric "705"^^xsd:string ;
+  skos:prefLabel "Slovenian Tolar" ;
+  ns1:decimalPlaces 1.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500463>
+  ns0:hasPermId "500463"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "LUC"^^xsd:string ;
+  ns1:iso4217Numeric "989"^^xsd:string ;
+  skos:prefLabel "Luxembourg Convertible Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500221>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/8505032>, <http://sws.geonames.org/7626836>, <http://sws.geonames.org/7609695> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/8505032>, <http://sws.geonames.org/7626836>, <http://sws.geonames.org/7609695> ;
+  ns0:hasPermId "500221"^^xsd:string ;
+  ns1:iso4217 "ANG"^^xsd:string ;
+  a ns1:Currency ;
+  ns1:iso4217Numeric "532"^^xsd:string ;
+  skos:prefLabel "Netherlands Antillean Guilder" ;
+  ns1:isISOHistorical false ;
+  ns1:decimalPlaces 2.0 .
+
+<https://permid.org/1-500165>
+  ns0:hasPermId "500165"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "FJD"^^xsd:string ;
+  ns1:iso4217Numeric "242"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2205218> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2205218> ;
+  skos:prefLabel "Fijian Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500487>
+  ns0:hasPermId "500487"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "YUD"^^xsd:string ;
+  skos:prefLabel "Yugoslavian New Dinar (to Jan 1990)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500121>
+  ns0:hasPermId "500121"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BDT"^^xsd:string ;
+  ns1:iso4217Numeric "50"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1210997> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1210997> ;
+  skos:prefLabel "Bangladeshi Taka" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1000302195>
+  ns0:hasPermId "1000302195"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Equity Index Currency Basket" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500130>
+  ns0:hasPermId "500130"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BOV"^^xsd:string ;
+  ns1:iso4217Numeric "984"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3923057> ;
+  skos:prefLabel "Bolivian Mvdol" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500458>
+  ns0:hasPermId "500458"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "PLZ"^^xsd:string ;
+  ns1:iso4217Numeric "616"^^xsd:string ;
+  skos:prefLabel "Polish Zloty (to Jan 1997)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500198>
+  ns0:hasPermId "500198"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "LSL"^^xsd:string ;
+  ns1:iso4217Numeric "426"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/932692> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/932692> ;
+  skos:prefLabel "Lesotho Loti" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500173>
+  ns0:hasPermId "500173"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "GWP"^^xsd:string ;
+  ns1:iso4217Numeric "624"^^xsd:string ;
+  skos:prefLabel "Guinea-Bissau Peso" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500272>
+  a ns1:Currency ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Vanuatu Vatu" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2134431> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2134431> ;
+  ns1:iso4217Numeric "548"^^xsd:string ;
+  ns1:iso4217 "VUV"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500272"^^xsd:string .
+
+<https://permid.org/1-500259>
+  ns0:hasPermId "500259"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "TZS"^^xsd:string ;
+  ns1:iso4217Numeric "834"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/149590> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/149590> ;
+  skos:prefLabel "Tanzanian Shilling" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500197>
+  a ns1:Currency ;
+  ns1:isCurrencyOf <http://sws.geonames.org/953987>, <http://sws.geonames.org/932692>, <http://sws.geonames.org/3355338> ;
+  skos:prefLabel "South African Rand" ;
+  ns1:iso4217Numeric "710"^^xsd:string ;
+  ns1:iso4217 "ZAR"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/953987> ;
+  ns0:hasPermId "500197"^^xsd:string ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:isISOHistorical false .
+
+<https://permid.org/1-500457>
+  ns0:hasPermId "500457"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "GHS"^^xsd:string ;
+  ns1:iso4217Numeric "936"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2300660> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2300660> ;
+  skos:prefLabel "Ghanaian Cedi" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500215>
+  ns0:hasPermId "500215"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MNT"^^xsd:string ;
+  ns1:iso4217Numeric "496"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2029969> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2029969> ;
+  skos:prefLabel "Mongolian Tugrik" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500249>
+  ns0:hasPermId "500249"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "LKR"^^xsd:string ;
+  ns1:iso4217Numeric "144"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1227603> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1227603> ;
+  skos:prefLabel "Sri Lankan Rupee" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500509>
+  ns0:hasPermId "500509"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "FRF"^^xsd:string ;
+  ns1:iso4217Numeric "250"^^xsd:string ;
+  skos:prefLabel "French Franc" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500460>
+  ns0:hasPermId "500460"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BRB"^^xsd:string ;
+  skos:prefLabel "Brazilian Cruzeiro (pre 1986)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500171>
+  ns0:hasPermId "500171"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "GTQ"^^xsd:string ;
+  ns1:iso4217Numeric "320"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3595528> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3595528> ;
+  skos:prefLabel "Guatemalan Quetzal" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500152>
+  ns0:hasPermId "500152"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "HRK"^^xsd:string ;
+  ns1:iso4217Numeric "191"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3202326> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3202326> ;
+  skos:prefLabel "Croatian Kuna" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500180>
+  ns0:hasPermId "500180"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "IDR"^^xsd:string ;
+  ns1:iso4217Numeric "360"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1643084> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1643084> ;
+  skos:prefLabel "Indonesian Rupiah" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500474>
+  ns0:hasPermId "500474"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "FIM"^^xsd:string ;
+  ns1:iso4217Numeric "246"^^xsd:string ;
+  skos:prefLabel "Finnish Markka" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500238>
+  ns0:hasPermId "500238"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "WST"^^xsd:string ;
+  ns1:iso4217Numeric "882"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/4034894> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/4034894> ;
+  skos:prefLabel "Samoan Tala" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500483>
+  ns0:hasPermId "500483"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ZAL"^^xsd:string ;
+  ns1:iso4217Numeric "991"^^xsd:string ;
+  skos:prefLabel "South African Financial Rand" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500222>
+  ns0:hasPermId "500222"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "NIO"^^xsd:string ;
+  ns1:iso4217Numeric "558"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3617476> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3617476> ;
+  skos:prefLabel "Nicaraguan Cordoba Oro" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1001318901>
+  ns0:hasPermId "1001318901"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3439705> ;
+  skos:prefLabel "Uruguayan Peso en Unidades Reajustables" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500231>
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Polish Zloty" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/798544> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/798544> ;
+  ns1:iso4217Numeric "985"^^xsd:string ;
+  ns1:iso4217 "PLN"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500231"^^xsd:string .
+
+<https://permid.org/1-500479>
+  ns0:hasPermId "500479"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "SUR"^^xsd:string ;
+  skos:prefLabel "USSR Ruble" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500175>
+  ns0:hasPermId "500175"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "HTG"^^xsd:string ;
+  ns1:iso4217Numeric "332"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3723988> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3723988> ;
+  skos:prefLabel "Haitian Gourde" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500109>
+  ns0:hasPermId "500109"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "DZD"^^xsd:string ;
+  ns1:iso4217Numeric "12"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2589581> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2589581> ;
+  skos:prefLabel "Algerian Dinar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500112>
+  ns0:hasPermId "500112"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "AOA"^^xsd:string ;
+  ns1:iso4217Numeric "973"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3351879> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3351879> ;
+  skos:prefLabel "Angolan Kwanza" ;
+  ns1:decimalPlaces 1.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500140>
+  ns0:hasPermId "500140"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CAD"^^xsd:string ;
+  ns1:iso4217Numeric "124"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/6251999> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/6251999> ;
+  skos:prefLabel "Canadian Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500217>
+  ns0:hasPermId "500217"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MZN"^^xsd:string ;
+  ns1:iso4217Numeric "943"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1036973> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1036973> ;
+  skos:prefLabel "Mozambican Metical" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500174>
+  ns0:hasPermId "500174"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "GYD"^^xsd:string ;
+  ns1:iso4217Numeric "328"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3378535> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3378535> ;
+  skos:prefLabel "Guyanese Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500539>
+  ns0:hasPermId "500539"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "UGS"^^xsd:string ;
+  skos:prefLabel "Ugandan Shilling (to 1987)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500164>
+  ns0:hasPermId "500164"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "FKP"^^xsd:string ;
+  ns1:iso4217Numeric "238"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3474414> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3474414> ;
+  skos:prefLabel "Falkland Islands Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500529>
+  ns0:hasPermId "500529"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "USN"^^xsd:string ;
+  ns1:iso4217Numeric "997"^^xsd:string ;
+  skos:prefLabel "US Dollar Next Day" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500480>
+  ns0:hasPermId "500480"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ECV"^^xsd:string ;
+  ns1:iso4217Numeric "983"^^xsd:string ;
+  skos:prefLabel "Ecuador Unidad de Valor Constante" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500538>
+  ns0:hasPermId "500538"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "CSK"^^xsd:string ;
+  ns1:iso4217Numeric "200"^^xsd:string ;
+  skos:prefLabel "Czechoslovak Koruna" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500107>
+  ns0:hasPermId "500107"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "AFN"^^xsd:string ;
+  ns1:iso4217Numeric "971"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1149361> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1149361> ;
+  skos:prefLabel "Afghan Afghani" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500470>
+  ns0:hasPermId "500470"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "MLF"^^xsd:string ;
+  ns1:iso4217Numeric "466"^^xsd:string ;
+  skos:prefLabel "Malian Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500541>
+  ns0:hasPermId "500541"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "AOK"^^xsd:string ;
+  skos:prefLabel "Angolan Kwanza (to 1990)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500466>
+  ns0:hasPermId "500466"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "UAK"^^xsd:string ;
+  ns1:iso4217Numeric "804"^^xsd:string ;
+  skos:prefLabel "Ukrainian Karbovanet" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500518>
+  ns0:hasPermId "500518"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "XEU"^^xsd:string ;
+  ns1:iso4217Numeric "954"^^xsd:string ;
+  skos:prefLabel "European Currency Unit" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500530>
+  ns0:hasPermId "500530"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "USS"^^xsd:string ;
+  ns1:iso4217Numeric "998"^^xsd:string ;
+  skos:prefLabel "US Dollar Same Day" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500251>
+  ns0:hasPermId "500251"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SRD"^^xsd:string ;
+  ns1:iso4217Numeric "968"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3382998> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3382998> ;
+  skos:prefLabel "Surinamese Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500526>
+  ns0:hasPermId "500526"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XTS"^^xsd:string ;
+  ns1:iso4217Numeric "963"^^xsd:string ;
+  skos:prefLabel "Reserved for Testing" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500170>
+  ns0:hasPermId "500170"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "GIP"^^xsd:string ;
+  ns1:iso4217Numeric "292"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2411586> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2411586> ;
+  skos:prefLabel "Gibraltar Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500489>
+  ns0:hasPermId "500489"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "DDM"^^xsd:string ;
+  ns1:iso4217Numeric "278"^^xsd:string ;
+  skos:prefLabel "East German Mark" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500157>
+  ns0:hasPermId "500157"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "DJF"^^xsd:string ;
+  ns1:iso4217Numeric "262"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/223816> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/223816> ;
+  skos:prefLabel "Djiboutian Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500500>
+  ns0:hasPermId "500500"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BRE"^^xsd:string ;
+  ns1:iso4217Numeric "76"^^xsd:string ;
+  skos:prefLabel "Brazilian Cruzeiro (1990-1993)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500553>
+  ns0:hasPermId "500553"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Thomson Reuters Test Currency" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500128>
+  ns0:hasPermId "500128"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BTN"^^xsd:string ;
+  ns1:iso4217Numeric "64"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1252634> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1252634> ;
+  skos:prefLabel "Bhutanese Ngultrum" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500469>
+  ns0:hasPermId "500469"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BAD"^^xsd:string ;
+  ns1:iso4217Numeric "70"^^xsd:string ;
+  skos:prefLabel "Bosnia and Herzegovina Dinar (to Jul 1997)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500515>
+  a ns1:Currency ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Timor Escudo" ;
+  ns1:iso4217Numeric "626"^^xsd:string ;
+  ns1:iso4217 "TPE"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns0:hasPermId "500515"^^xsd:string .
+
+<https://permid.org/1-500208>
+  ns0:hasPermId "500208"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MVR"^^xsd:string ;
+  ns1:iso4217Numeric "462"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1282028> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1282028> ;
+  skos:prefLabel "Maldivian Rufiyaa" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500193>
+  ns0:hasPermId "500193"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KGS"^^xsd:string ;
+  ns1:iso4217Numeric "417"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1527747> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1527747> ;
+  skos:prefLabel "Kyrgyzstani Som" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500118>
+  ns0:hasPermId "500118"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "AZN"^^xsd:string ;
+  ns1:iso4217Numeric "944"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/587116> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/587116> ;
+  skos:prefLabel "Azerbaijani Manat" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500264>
+  ns0:hasPermId "500264"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "TRY"^^xsd:string ;
+  ns1:iso4217Numeric "949"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/298795> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/298795> ;
+  skos:prefLabel "Turkish Lira" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500211>
+  ns0:hasPermId "500211"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MUR"^^xsd:string ;
+  ns1:iso4217Numeric "480"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/934292> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/934292> ;
+  skos:prefLabel "Mauritian Rupee" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500468>
+  ns0:hasPermId "500468"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BEC"^^xsd:string ;
+  ns1:iso4217Numeric "993"^^xsd:string ;
+  skos:prefLabel "Belgian Convertible Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500189>
+  ns0:hasPermId "500189"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KES"^^xsd:string ;
+  ns1:iso4217Numeric "404"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/192950> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/192950> ;
+  skos:prefLabel "Kenyan Shilling" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500477>
+  ns0:hasPermId "500477"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BRC"^^xsd:string ;
+  skos:prefLabel "Brazilian Cruzado (1986-1989)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500519>
+  ns0:hasPermId "500519"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ZWN"^^xsd:string ;
+  ns1:iso4217Numeric "942"^^xsd:string ;
+  skos:prefLabel "Zimbabwean Dollar (Aug 2006-Sep 2006)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500243>
+  ns0:hasPermId "500243"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SLL"^^xsd:string ;
+  ns1:iso4217Numeric "694"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2403846> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2403846> ;
+  skos:prefLabel "Sierra Leonean Leone" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500205>
+  ns0:hasPermId "500205"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MGA"^^xsd:string ;
+  ns1:iso4217Numeric "969"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1062947> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1062947> ;
+  skos:prefLabel "Malagasy Ariary" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500115>
+  ns0:hasPermId "500115"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "AMD"^^xsd:string ;
+  ns1:iso4217Numeric "51"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/174982> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/174982> ;
+  skos:prefLabel "Armenian Dram" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500502>
+  ns0:hasPermId "500502"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ESB"^^xsd:string ;
+  ns1:iso4217Numeric "995"^^xsd:string ;
+  skos:prefLabel "Spanish Peseta Account B" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500508>
+  ns0:hasPermId "500508"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ESA"^^xsd:string ;
+  ns1:iso4217Numeric "996"^^xsd:string ;
+  skos:prefLabel "Spanish Peseta Account A" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500517>
+  ns0:hasPermId "500517"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "MZM"^^xsd:string ;
+  ns1:iso4217Numeric "508"^^xsd:string ;
+  skos:prefLabel "Mozambican Metical (to Jun 2006)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500247>
+  ns0:hasPermId "500247"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SBD"^^xsd:string ;
+  ns1:iso4217Numeric "90"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2103350> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2103350> ;
+  skos:prefLabel "Solomon Islands Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500151>
+  ns0:hasPermId "500151"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CRC"^^xsd:string ;
+  ns1:iso4217Numeric "188"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3624060> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3624060> ;
+  skos:prefLabel "Costa Rican Colon" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500516>
+  ns0:hasPermId "500516"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "IEP"^^xsd:string ;
+  ns1:iso4217Numeric "372"^^xsd:string ;
+  skos:prefLabel "Irish Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500147>
+  ns0:hasPermId "500147"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "COU"^^xsd:string ;
+  ns1:iso4217Numeric "970"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3686110> ;
+  skos:prefLabel "Colombian Unidad de Valor Real" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500218>
+  ns0:hasPermId "500218"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MMK"^^xsd:string ;
+  ns1:iso4217Numeric "104"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1327865> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1327865> ;
+  skos:prefLabel "Myanma Kyat" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500506>
+  ns0:hasPermId "500506"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "AOR"^^xsd:string ;
+  ns1:iso4217Numeric "982"^^xsd:string ;
+  skos:prefLabel "Angolan Kwanza Reajustado" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500255>
+  ns0:hasPermId "500255"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CHE"^^xsd:string ;
+  ns1:iso4217Numeric "947"^^xsd:string ;
+  skos:prefLabel "Swiss WIR Euro" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1002197671>
+  ns0:hasPermId "1002197671"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Yugoslavian Dinar (Jan 1994)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500131>
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Bosnia and Herzegovina Convertible Mark" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3277605> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3277605> ;
+  ns1:iso4217Numeric "977"^^xsd:string ;
+  ns1:iso4217 "BAM"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500131"^^xsd:string .
+
+<https://permid.org/1-500472>
+  ns0:hasPermId "500472"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BRN"^^xsd:string ;
+  skos:prefLabel "Brazilian New Cruzado (1989-1990)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500146>
+  ns0:hasPermId "500146"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "COP"^^xsd:string ;
+  ns1:iso4217Numeric "170"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3686110> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3686110> ;
+  skos:prefLabel "Colombian Peso" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500226>
+  ns0:hasPermId "500226"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "PAB"^^xsd:string ;
+  ns1:iso4217Numeric "590"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3703430> ;
+  skos:prefLabel "Panamanian Balboa" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500514>
+  ns0:hasPermId "500514"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "PEI"^^xsd:string ;
+  skos:prefLabel "Peruvian Inti" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500282>
+  ns0:hasPermId "500282"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "XFU"^^xsd:string ;
+  skos:prefLabel "UIC Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500253>
+  ns0:hasPermId "500253"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SEK"^^xsd:string ;
+  ns1:iso4217Numeric "752"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2661886> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2661886> ;
+  skos:prefLabel "Swedish Krona" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500182>
+  ns0:hasPermId "500182"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "IRR"^^xsd:string ;
+  ns1:iso4217Numeric "364"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/130758> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/130758> ;
+  skos:prefLabel "Iranian Rial" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500206>
+  ns0:hasPermId "500206"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MWK"^^xsd:string ;
+  ns1:iso4217Numeric "454"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/927384> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/927384> ;
+  skos:prefLabel "Malawian Kwacha" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500262>
+  ns0:hasPermId "500262"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "TTD"^^xsd:string ;
+  ns1:iso4217Numeric "780"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3573591> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3573591> ;
+  skos:prefLabel "Trinidad and Tobago Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500485>
+  ns0:hasPermId "500485"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ZRN"^^xsd:string ;
+  ns1:iso4217Numeric "180"^^xsd:string ;
+  skos:prefLabel "Zaire Zaire" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500503>
+  ns0:hasPermId "500503"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "LUL"^^xsd:string ;
+  ns1:iso4217Numeric "988"^^xsd:string ;
+  skos:prefLabel "Luxembourg Financial Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500125>
+  ns1:iso4217 "XOF"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2245662>, <http://sws.geonames.org/2361809>, <http://sws.geonames.org/2395170>, <http://sws.geonames.org/2363686>, <http://sws.geonames.org/2287781>, <http://sws.geonames.org/2372248>, <http://sws.geonames.org/2453866>, <http://sws.geonames.org/2440476> ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2395170>, <http://sws.geonames.org/2245662>, <http://sws.geonames.org/2361809>, <http://sws.geonames.org/2287781>, <http://sws.geonames.org/2372248>, <http://sws.geonames.org/2440476>, <http://sws.geonames.org/2363686>, <http://sws.geonames.org/2453866> ;
+  ns1:iso4217Numeric "952"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  a ns1:Currency ;
+  skos:prefLabel "West African CFA Franc" ;
+  ns0:hasPermId "500125"^^xsd:string .
+
+<https://permid.org/1-500153>
+  ns0:hasPermId "500153"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CUP"^^xsd:string ;
+  ns1:iso4217Numeric "192"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3562981> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3562981> ;
+  skos:prefLabel "Cuban Peso" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500280>
+  ns0:hasPermId "500280"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XBC"^^xsd:string ;
+  ns1:iso4217Numeric "957"^^xsd:string ;
+  skos:prefLabel "European Unit of Account 9" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500511>
+  ns0:hasPermId "500511"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ATS"^^xsd:string ;
+  ns1:iso4217Numeric "40"^^xsd:string ;
+  skos:prefLabel "Austrian Schilling" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500158>
+  ns0:hasPermId "500158"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "DOP"^^xsd:string ;
+  ns1:iso4217Numeric "214"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3508796> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3508796> ;
+  skos:prefLabel "Dominican Peso" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500142>
+  ns0:hasPermId "500142"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KYD"^^xsd:string ;
+  ns1:iso4217Numeric "136"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3580718> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3580718> ;
+  skos:prefLabel "Cayman Islands Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500241>
+  ns0:hasPermId "500241"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "RSD"^^xsd:string ;
+  ns1:iso4217Numeric "941"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/6290252> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/6290252> ;
+  skos:prefLabel "Serbian Dinar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500132>
+  ns0:hasPermId "500132"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BWP"^^xsd:string ;
+  ns1:iso4217Numeric "72"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/933860> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/933860> ;
+  skos:prefLabel "Botswana Pula" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500203>
+  ns0:hasPermId "500203"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MOP"^^xsd:string ;
+  ns1:iso4217Numeric "446"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1821275> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1821275> ;
+  skos:prefLabel "Macanese Pataca" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500209>
+  ns0:hasPermId "500209"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "MTL"^^xsd:string ;
+  ns1:iso4217Numeric "470"^^xsd:string ;
+  skos:prefLabel "Maltese Lira" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500119>
+  ns0:hasPermId "500119"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BSD"^^xsd:string ;
+  ns1:iso4217Numeric "44"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3572887> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3572887> ;
+  skos:prefLabel "Bahamian Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500482>
+  ns0:hasPermId "500482"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "GEK"^^xsd:string ;
+  ns1:iso4217Numeric "268"^^xsd:string ;
+  skos:prefLabel "Georgian Coupon" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500274>
+  ns0:hasPermId "500274"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "VND"^^xsd:string ;
+  ns1:iso4217Numeric "704"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1562822> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1562822> ;
+  skos:prefLabel "Vietnamese Dong" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500227>
+  ns0:hasPermId "500227"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "PGK"^^xsd:string ;
+  ns1:iso4217Numeric "598"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2088628> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2088628> ;
+  skos:prefLabel "Papua New Guinean Kina" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500543>
+  ns0:hasPermId "500543"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XSU"^^xsd:string ;
+  ns1:iso4217Numeric "994"^^xsd:string ;
+  skos:prefLabel "Sucre" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500137>
+  ns0:hasPermId "500137"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BIF"^^xsd:string ;
+  ns1:iso4217Numeric "108"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/433561> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/433561> ;
+  skos:prefLabel "Burundian Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500490>
+  ns0:hasPermId "500490"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "SRG"^^xsd:string ;
+  ns1:iso4217Numeric "740"^^xsd:string ;
+  skos:prefLabel "Surinamese Guilder" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500279>
+  ns0:hasPermId "500279"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XBB"^^xsd:string ;
+  ns1:iso4217Numeric "956"^^xsd:string ;
+  skos:prefLabel "European Monetary Unit" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500108>
+  ns0:hasPermId "500108"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "ALL"^^xsd:string ;
+  ns1:iso4217Numeric "8"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/783754> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/783754> ;
+  skos:prefLabel "Albanian Lek" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500136>
+  ns0:hasPermId "500136"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BGN"^^xsd:string ;
+  ns1:iso4217Numeric "975"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/732800> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/732800> ;
+  skos:prefLabel "Bulgarian Lev" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500216>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2542007>, <http://sws.geonames.org/2461445> ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MAD"^^xsd:string ;
+  ns0:hasPermId "500216"^^xsd:string ;
+  ns1:iso4217Numeric "504"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2542007>, <http://sws.geonames.org/2461445> ;
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Moroccan Dirham" ;
+  a ns1:Currency .
+
+<https://permid.org/1-500467>
+  ns0:hasPermId "500467"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "NLG"^^xsd:string ;
+  ns1:iso4217Numeric "528"^^xsd:string ;
+  skos:prefLabel "Netherlands Guilder" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500135>
+  ns0:hasPermId "500135"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BND"^^xsd:string ;
+  ns1:iso4217Numeric "96"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1820814> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1820814> ;
+  skos:prefLabel "Bruneian Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500163>
+  ns0:hasPermId "500163"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "ETB"^^xsd:string ;
+  ns1:iso4217Numeric "230"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/337996> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/337996> ;
+  skos:prefLabel "Ethiopian Birr" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500531>
+  ns0:hasPermId "500531"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "YUN"^^xsd:string ;
+  ns1:iso4217Numeric "890"^^xsd:string ;
+  skos:prefLabel "Yugoslavian Dinar (Jan 1990-Jul 1992)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1002197665>
+  ns0:hasPermId "1002197665"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "PEH"^^xsd:string ;
+  skos:prefLabel "Peruvian Sol (to Feb 1985)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500134>
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Brazilian Real" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3469034> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3469034> ;
+  ns1:iso4217Numeric "986"^^xsd:string ;
+  ns1:iso4217 "BRL"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500134"^^xsd:string .
+
+<https://permid.org/1-500196>
+  ns0:hasPermId "500196"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "LBP"^^xsd:string ;
+  ns1:iso4217Numeric "422"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/272103> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/272103> ;
+  skos:prefLabel "Lebanese Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500465>
+  ns0:hasPermId "500465"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ECS"^^xsd:string ;
+  ns1:iso4217Numeric "218"^^xsd:string ;
+  skos:prefLabel "Ecuador Sucre" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500493>
+  ns0:hasPermId "500493"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ADP"^^xsd:string ;
+  ns1:iso4217Numeric "20"^^xsd:string ;
+  skos:prefLabel "Andorran Peseta" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500133>
+  ns1:isCurrencyOf <http://sws.geonames.org/3144096>, <http://sws.geonames.org/607072> ;
+  ns1:iso4217 "NOK"^^xsd:string ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3144096>, <http://sws.geonames.org/607072>, <http://sws.geonames.org/3371123> ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217Numeric "578"^^xsd:string ;
+  skos:prefLabel "Norwegian Krone" ;
+  a ns1:Currency ;
+  ns0:hasPermId "500133"^^xsd:string .
+
+<https://permid.org/1-500195>
+  ns0:hasPermId "500195"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "LVL"^^xsd:string ;
+  ns1:iso4217Numeric "428"^^xsd:string ;
+  skos:prefLabel "Latvian Lats" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500507>
+  ns0:hasPermId "500507"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ARA"^^xsd:string ;
+  skos:prefLabel "Argentinian Austral" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500123>
+  ns0:hasPermId "500123"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BYR"^^xsd:string ;
+  ns1:iso4217Numeric "974"^^xsd:string ;
+  skos:prefLabel "Belarusian Ruble (Jan 2000-Dec 2016)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003934993>
+  ns0:hasPermId "1003934993"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3923057> ;
+  skos:prefLabel "Bolivian Unidad de Fomento de Vivienda" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500113>
+  ns1:decimalPlaces 2.0 ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3578097>, <http://sws.geonames.org/3576468>, <http://sws.geonames.org/3575174>, <http://sws.geonames.org/3580239>, <http://sws.geonames.org/3575830>, <http://sws.geonames.org/3576396>, <http://sws.geonames.org/3577815> ;
+  ns0:hasPermId "500113"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3577815>, <http://sws.geonames.org/3575174>, <http://sws.geonames.org/3576468>, <http://sws.geonames.org/3573511>, <http://sws.geonames.org/3576396>, <http://sws.geonames.org/3580239>, <http://sws.geonames.org/3578097>, <http://sws.geonames.org/3575830> ;
+  a ns1:Currency ;
+  ns1:iso4217Numeric "951"^^xsd:string ;
+  skos:prefLabel "East Caribbean Dollar" ;
+  ns1:iso4217 "XCD"^^xsd:string .
+
+<https://permid.org/1-1002807781>
+  ns0:hasPermId "1002807781"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BYN"^^xsd:string ;
+  ns1:iso4217Numeric "933"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/630336> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/630336> ;
+  skos:prefLabel "Belarusian Ruble" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500237>
+  ns0:hasPermId "500237"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SHP"^^xsd:string ;
+  ns1:iso4217Numeric "654"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3370751> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3370751> ;
+  skos:prefLabel "Saint Helena Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500166>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/4030656>, <http://sws.geonames.org/4034749> ;
+  ns1:iso4217Numeric "953"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2139685>, <http://sws.geonames.org/4030656>, <http://sws.geonames.org/4034749> ;
+  a ns1:Currency ;
+  ns1:iso4217 "XPF"^^xsd:string ;
+  skos:prefLabel "CFP Franc" ;
+  ns0:hasPermId "500166"^^xsd:string ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isISOHistorical false .
+
+<https://permid.org/1-500265>
+  a ns1:Currency ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Turkmenistani Manat (to Dec 2009)" ;
+  ns1:iso4217Numeric "795"^^xsd:string ;
+  ns1:iso4217 "TMM"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns0:hasPermId "500265"^^xsd:string .
+
+<https://permid.org/1-500491>
+  ns0:hasPermId "500491"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "European Unit of Account" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500462>
+  ns0:hasPermId "500462"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bilateral Rwanda Belgian Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500542>
+  ns0:hasPermId "500542"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Transnistrian Ruble" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500111>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1024031>, <http://sws.geonames.org/3570311>, <http://sws.geonames.org/597427>, <http://sws.geonames.org/1546748>, <http://sws.geonames.org/3381670>, <http://sws.geonames.org/3175395>, <http://sws.geonames.org/146669>, <http://sws.geonames.org/3579143>, <http://sws.geonames.org/3424932>, <http://sws.geonames.org/2921044>, <http://sws.geonames.org/2993457>, <http://sws.geonames.org/3168068>, <http://sws.geonames.org/2264397>, <http://sws.geonames.org/3194884>, <http://sws.geonames.org/2963597>, <http://sws.geonames.org/2510769>, <http://sws.geonames.org/660013>, <http://sws.geonames.org/3190538>, <http://sws.geonames.org/2782113>, <http://sws.geonames.org/3164670>, <http://sws.geonames.org/2562770>, <http://sws.geonames.org/3041565>, <http://sws.geonames.org/935317>, <http://sws.geonames.org/458258>, <http://sws.geonames.org/3057568>, <http://sws.geonames.org/661882>, <http://sws.geonames.org/831053>, <http://sws.geonames.org/390903>, <http://sws.geonames.org/3578421>, <http://sws.geonames.org/3578476> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/597427>, <http://sws.geonames.org/3057568>, <http://sws.geonames.org/3194884>, <http://sws.geonames.org/2562770>, <http://sws.geonames.org/2993457>, <http://sws.geonames.org/660013>, <http://sws.geonames.org/453733>, <http://sws.geonames.org/458258>, <http://sws.geonames.org/2782113>, <http://sws.geonames.org/3017382>, <http://sws.geonames.org/3424932>, <http://sws.geonames.org/3579143>, <http://sws.geonames.org/3570311>, <http://sws.geonames.org/146669>, <http://sws.geonames.org/1546748>, <http://sws.geonames.org/3190538>, <http://sws.geonames.org/2264397>, <http://sws.geonames.org/3164670>, <http://sws.geonames.org/935317>, <http://sws.geonames.org/2921044>, <http://sws.geonames.org/3578421>, <http://sws.geonames.org/2510769>, <http://sws.geonames.org/3175395>, <http://sws.geonames.org/390903>, <http://sws.geonames.org/2960313>, <http://sws.geonames.org/2963597>, <http://sws.geonames.org/3168068>, <http://sws.geonames.org/1024031>, <http://sws.geonames.org/3041565>, <http://sws.geonames.org/2750405>, <http://sws.geonames.org/3381670>, <http://sws.geonames.org/831053>, <http://sws.geonames.org/3578476>, <http://sws.geonames.org/661882> ;
+  skos:prefLabel "Euro" ;
+  a ns1:Currency ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "EUR"^^xsd:string ;
+  ns0:hasPermId "500111"^^xsd:string ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217Numeric "978"^^xsd:string .
+
+<https://permid.org/1-500117>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2155115>, <http://sws.geonames.org/2078138>, <http://sws.geonames.org/4030945>, <http://sws.geonames.org/1547314>, <http://sws.geonames.org/2110297>, <http://sws.geonames.org/2077456>, <http://sws.geonames.org/1547376>, <http://sws.geonames.org/2110425> ;
+  skos:prefLabel "Australian Dollar" ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2110297>, <http://sws.geonames.org/4030945>, <http://sws.geonames.org/1547376>, <http://sws.geonames.org/2155115>, <http://sws.geonames.org/2077456>, <http://sws.geonames.org/2078138>, <http://sws.geonames.org/2110425>, <http://sws.geonames.org/1547314> ;
+  ns1:iso4217Numeric "36"^^xsd:string ;
+  ns1:iso4217 "AUD"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500117"^^xsd:string ;
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 .
+
+<https://permid.org/1-500126>
+  ns0:hasPermId "500126"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BMD"^^xsd:string ;
+  ns1:iso4217Numeric "60"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3573345> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3573345> ;
+  skos:prefLabel "Bermudian Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500547>
+  ns0:hasPermId "500547"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3042225> ;
+  skos:prefLabel "Isle of Man Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500234>
+  ns0:hasPermId "500234"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "RON"^^xsd:string ;
+  ns1:iso4217Numeric "946"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/798549> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/798549> ;
+  skos:prefLabel "Romanian Leu" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500116>
+  ns0:hasPermId "500116"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "AWG"^^xsd:string ;
+  ns1:iso4217Numeric "533"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3577279> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3577279> ;
+  skos:prefLabel "Aruban Florin" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500191>
+  ns0:hasPermId "500191"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KRW"^^xsd:string ;
+  ns1:iso4217Numeric "410"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1835841> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1835841> ;
+  skos:prefLabel "Korean (South) Won" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500144>
+  ns0:hasPermId "500144"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CLF"^^xsd:string ;
+  ns1:iso4217Numeric "990"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3895114> ;
+  skos:prefLabel "Chilean Unidad de Fomento" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003910466>
+  ns0:hasPermId "1003910466"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Neurotoken" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500190>
+  ns0:hasPermId "500190"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KPW"^^xsd:string ;
+  ns1:iso4217Numeric "408"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1873107> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1873107> ;
+  skos:prefLabel "Korean (North) Won" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003936197>
+  ns0:hasPermId "1003936197"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Ven" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500229>
+  ns0:hasPermId "500229"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "PEN"^^xsd:string ;
+  ns1:iso4217Numeric "604"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3932488> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3932488> ;
+  skos:prefLabel "Peruvian Sol" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500356>
+  ns0:hasPermId "500356"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Dinar" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500182> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "IRd"^^xsd:string .
+
+<https://permid.org/1-500331>
+  ns0:hasPermId "500331"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "øre(Greenland)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500156> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "DKo"^^xsd:string .
+
+<https://permid.org/1-500383>
+  ns0:hasPermId "500383"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "MWX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Malawian Tambala" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500206> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MWt"^^xsd:string .
+
+<https://permid.org/1-500410>
+  ns0:hasPermId "500410"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "QAX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Qatari Dirham" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500232> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "QAd"^^xsd:string .
+
+<https://permid.org/1-500335>
+  ns0:hasPermId "500335"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Millieme" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500159> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "EGm"^^xsd:string .
+
+<https://permid.org/1-500388>
+  ns0:hasPermId "500388"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Mil (Malta)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500209> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MTm"^^xsd:string .
+
+<https://permid.org/1-500552>
+  ns0:hasPermId "500552"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Pfennig" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500478> ;
+  a ns1:CurrencySubunit .
+
+<https://permid.org/1-500344>
+  ns0:hasPermId "500344"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Pesewa" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500457> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "GHp"^^xsd:string .
+
+<https://permid.org/1-500424>
+  ns0:hasPermId "500424"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Cent(Solomon Islands)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500247> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SBc"^^xsd:string .
+
+<https://permid.org/1-500353>
+  ns0:hasPermId "500353"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Fillér" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500178> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "HUf"^^xsd:string .
+
+<https://permid.org/1-500288>
+  ns0:hasPermId "500288"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "EUX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Euro Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500111> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "EUc"^^xsd:string .
+
+<https://permid.org/1-500405>
+  ns0:hasPermId "500405"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Toea" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500227> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "PGt"^^xsd:string .
+
+<https://permid.org/1-500315>
+  ns0:hasPermId "500315"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "CAX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Canadian Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500140> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CAc"^^xsd:string .
+
+<https://permid.org/1-500343>
+  ns0:hasPermId "500343"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Tetri" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500168> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "GEt"^^xsd:string .
+
+<https://permid.org/1-500324>
+  ns1:subUnitLC "NZc"^^xsd:string ;
+  a ns1:CurrencySubunit ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500150> ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "New Zealand Cent" ;
+  ns1:isISOHistorical false ;
+  ns1:subUnitX "NZX"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns0:hasPermId "500324"^^xsd:string .
+
+<https://permid.org/1-500305>
+  ns0:hasPermId "500305"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Chhertum (alias \"Chetrum\")" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500128> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BTc"^^xsd:string .
+
+<https://permid.org/1-500386>
+  ns0:hasPermId "500386"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "laari" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500208> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MVl"^^xsd:string .
+
+<https://permid.org/1-500314>
+  ns0:hasPermId "500314"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sen(Cambodia)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500138> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KHs"^^xsd:string .
+
+<https://permid.org/1-500422>
+  ns0:hasPermId "500422"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Halier" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500245> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SKh"^^xsd:string .
+
+<https://permid.org/1-500450>
+  ns0:hasPermId "500450"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "ZWX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Zimbabwean Cent" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500536> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ZWc"^^xsd:string .
+
+<https://permid.org/1-500431>
+  ns0:hasPermId "500431"^^xsd:string ;
+  ns1:subunitFactor "10"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Jiao" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500257> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TWj"^^xsd:string .
+
+<https://permid.org/1-500313>
+  ns0:hasPermId "500313"^^xsd:string ;
+  ns1:subunitFactor "10"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Kak" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500138> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KHk"^^xsd:string .
+
+<https://permid.org/1-500394>
+  ns0:hasPermId "500394"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Santim (Western Sahara)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500216> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MAs"^^xsd:string .
+
+<https://permid.org/1-500418>
+  ns0:hasPermId "500418"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Para" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500241> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "RSp"^^xsd:string .
+
+<https://permid.org/1-500440>
+  ns0:hasPermId "500440"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Tennesi" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500534> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TMt"^^xsd:string .
+
+<https://permid.org/1-1003962491>
+  ns0:hasPermId "1003962491"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Waves" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962497>
+  ns0:hasPermId "1003962497"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Cardano" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500510>
+  ns0:hasPermId "500510"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Zaire Belgian Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500498>
+  ns0:hasPermId "500498"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "ADF"^^xsd:string ;
+  skos:prefLabel "Andorran Franc" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962487>
+  ns0:hasPermId "1003962487"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Vechain" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962505>
+  ns0:hasPermId "1003962505"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "eXMR Monero" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962471>
+  ns0:hasPermId "1003962471"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "aelf" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962477>
+  ns0:hasPermId "1003962477"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Neo" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500202>
+  ns0:hasPermId "500202"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "LTL"^^xsd:string ;
+  ns1:iso4217Numeric "440"^^xsd:string ;
+  skos:prefLabel "Lithuanian Litas" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003934988>
+  ns0:hasPermId "1003934988"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "VES"^^xsd:string ;
+  ns1:iso4217Numeric "928"^^xsd:string ;
+  skos:prefLabel "Venezuelan Bolivar Soberano" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500505>
+  ns0:hasPermId "500505"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Special Foreign Belgian Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962495>
+  ns0:hasPermId "1003962495"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Zcash" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962503>
+  ns0:hasPermId "1003962503"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Ethereum Classic" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962509>
+  ns0:hasPermId "1003962509"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "IOTA" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962485>
+  ns0:hasPermId "1003962485"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Tron" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500523>
+  ns0:hasPermId "500523"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bilateral Burundi Belgian Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962475>
+  ns0:hasPermId "1003962475"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Nano" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962493>
+  ns0:hasPermId "1003962493"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bitcoin Gold" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962483>
+  ns0:hasPermId "1003962483"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Stellar" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500475>
+  a ns1:Currency ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Special Convertible Belgian Franc" ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500475"^^xsd:string .
+
+<https://permid.org/1-1003962507>
+  ns0:hasPermId "1003962507"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Icon" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500162>
+  ns0:hasPermId "500162"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "EEK"^^xsd:string ;
+  ns1:iso4217Numeric "233"^^xsd:string ;
+  skos:prefLabel "Estonian Kroon" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962489>
+  ns0:hasPermId "1003962489"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Verge" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962473>
+  ns0:hasPermId "1003962473"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Lisk" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962479>
+  ns0:hasPermId "1003962479"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "OmiseGo" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500375>
+  ns0:hasPermId "500375"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sente" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500198> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "LSs"^^xsd:string .
+
+<https://permid.org/1-500285>
+  ns0:hasPermId "500285"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Qindarkë (alias \"qindar leku\")" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500108> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "ALq"^^xsd:string .
+
+<https://permid.org/1-500408>
+  ns0:hasPermId "500408"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sentimo (formerly centavo)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500230> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "PHs"^^xsd:string .
+
+<https://permid.org/1-500430>
+  ns0:hasPermId "500430"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Piastre(Syrian Arab Republic)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500256> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "SYp"^^xsd:string .
+
+<https://permid.org/1-500436>
+  ns0:hasPermId "500436"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Seniti" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500261> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TOs"^^xsd:string .
+
+<https://permid.org/1-500401>
+  ns1:subUnitLC "NGk"^^xsd:string ;
+  a ns1:CurrencySubunit ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500223> ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Kobo" ;
+  ns1:isISOHistorical false ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns0:hasPermId "500401"^^xsd:string .
+
+<https://permid.org/1-500364>
+  ns0:hasPermId "500364"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Fils(Jordan)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500187> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "JOf"^^xsd:string .
+
+<https://permid.org/1-500311>
+  ns0:hasPermId "500311"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Stotinka" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500136> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "BGs"^^xsd:string .
+
+<https://permid.org/1-500392>
+  ns0:hasPermId "500392"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Ban (Moldova)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500214> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MDb"^^xsd:string .
+
+<https://permid.org/1-500326>
+  ns0:hasPermId "500326"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:subUnitX "HRX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Croatian Lipa" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500152> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "HRl"^^xsd:string .
+
+<https://permid.org/1-500363>
+  ns0:hasPermId "500363"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Qirsh / Piastre (Jordan)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500187> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "JOq"^^xsd:string .
+
+<https://permid.org/1-500292>
+  ns0:hasPermId "500292"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Luma" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500115> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "AMl"^^xsd:string .
+
+<https://permid.org/1-500369>
+  ns0:hasPermId "500369"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:subUnitX "KWX"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Kuwaiti Fils" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500192> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KWf"^^xsd:string .
+
+<https://permid.org/1-500372>
+  ns0:hasPermId "500372"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Santīms" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500195> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "LVs"^^xsd:string .
+
+<https://permid.org/1-500378>
+  ns0:hasPermId "500378"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Rappen/Centime/Centesimo/Rap" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500201> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "CHr"^^xsd:string .
+
+<https://permid.org/1-500381>
+  ns0:hasPermId "500381"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Deni" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500204> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "MKd"^^xsd:string .
+
+<https://permid.org/1-500433>
+  ns0:hasPermId "500433"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Diram" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500258> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TJd"^^xsd:string .
+
+<https://permid.org/1-500368>
+  ns0:hasPermId "500368"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Jeon" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500191> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KRj"^^xsd:string .
+
+<https://permid.org/1-500442>
+  ns0:hasPermId "500442"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Kopiyka (копійка)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500267> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "UAk"^^xsd:string .
+
+<https://permid.org/1-500367>
+  ns0:hasPermId "500367"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Chon" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500190> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "KPc"^^xsd:string .
+
+<https://permid.org/1-500438>
+  ns0:hasPermId "500438"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Millime" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500263> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "TNm"^^xsd:string .
+
+<https://permid.org/1-500342>
+  ns0:hasPermId "500342"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Butut" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500167> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "GMb"^^xsd:string .
+
+<https://permid.org/1-500351>
+  ns0:hasPermId "500351"^^xsd:string ;
+  ns1:subunitFactor "10"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Hou" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500177> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "HKh"^^xsd:string .
+
+<https://permid.org/1-500357>
+  ns0:hasPermId "500357"^^xsd:string ;
+  ns1:subunitFactor "1000"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Fils(Iraq)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500183> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "IQf"^^xsd:string .
+
+<https://permid.org/1-500360>
+  ns0:hasPermId "500360"^^xsd:string ;
+  ns1:subunitFactor "100"^^xsd:float ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Sen(Japan)" ;
+  ns1:decimalPlaces 0.0 ;
+  ns1:isCurrencySubunitOf <https://permid.org/1-500186> ;
+  a ns1:CurrencySubunit ;
+  ns1:subUnitLC "JPs"^^xsd:string .
+
+<https://permid.org/1-500161>
+  ns0:hasPermId "500161"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "ERN"^^xsd:string ;
+  ns1:iso4217Numeric "232"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/338010> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/338010> ;
+  skos:prefLabel "Eritrean Nafka" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1001255858>
+  ns0:hasPermId "1001255858"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bitcoin" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500219>
+  ns0:hasPermId "500219"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "NAD"^^xsd:string ;
+  ns1:iso4217Numeric "516"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3355338> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3355338> ;
+  skos:prefLabel "Namibian Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500129>
+  ns0:hasPermId "500129"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BOB"^^xsd:string ;
+  ns1:iso4217Numeric "68"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3923057> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3923057> ;
+  skos:prefLabel "Bolivian Boliviano" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500275>
+  ns0:hasPermId "500275"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "YER"^^xsd:string ;
+  ns1:iso4217Numeric "886"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/69543> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/69543> ;
+  skos:prefLabel "Yemeni Rial" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500492>
+  ns0:hasPermId "500492"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "RUR"^^xsd:string ;
+  ns1:iso4217Numeric "810"^^xsd:string ;
+  skos:prefLabel "Russian Ruble (to Dec 1997)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500473>
+  ns0:hasPermId "500473"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "YDD"^^xsd:string ;
+  ns1:iso4217Numeric "720"^^xsd:string ;
+  skos:prefLabel "Yemeni Dinar (to Sep 1991)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500240>
+  ns0:hasPermId "500240"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SAR"^^xsd:string ;
+  ns1:iso4217Numeric "682"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/102358> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/102358> ;
+  skos:prefLabel "Saudi Riyal" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500150>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2186224>, <http://sws.geonames.org/4030699>, <http://sws.geonames.org/4031074>, <http://sws.geonames.org/1899402>, <http://sws.geonames.org/4036232> ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "New Zealand Dollar" ;
+  ns1:isCurrencyOf <http://sws.geonames.org/4031074>, <http://sws.geonames.org/4030699>, <http://sws.geonames.org/2186224>, <http://sws.geonames.org/4036232>, <http://sws.geonames.org/1899402> ;
+  a ns1:Currency ;
+  ns0:hasPermId "500150"^^xsd:string ;
+  ns1:iso4217Numeric "554"^^xsd:string ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217 "NZD"^^xsd:string .
+
+<https://permid.org/1-500199>
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Liberian Dollar" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2275384> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2275384> ;
+  ns1:iso4217Numeric "430"^^xsd:string ;
+  ns1:iso4217 "LRD"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500199"^^xsd:string .
+
+<https://permid.org/1-500459>
+  ns0:hasPermId "500459"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ITL"^^xsd:string ;
+  ns1:iso4217Numeric "380"^^xsd:string ;
+  skos:prefLabel "Italian Lira" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500481>
+  ns0:hasPermId "500481"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "YUM"^^xsd:string ;
+  ns1:iso4217Numeric "891"^^xsd:string ;
+  skos:prefLabel "Yugoslavian Dinar (Jan 1994-Jul 2003)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500245>
+  ns0:hasPermId "500245"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "SKK"^^xsd:string ;
+  ns1:iso4217Numeric "703"^^xsd:string ;
+  skos:prefLabel "Slovak Koruna" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500155>
+  ns0:hasPermId "500155"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CZK"^^xsd:string ;
+  ns1:iso4217Numeric "203"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3077311> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3077311> ;
+  skos:prefLabel "Czech Koruna" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500183>
+  ns0:hasPermId "500183"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "IQD"^^xsd:string ;
+  ns1:iso4217Numeric "368"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/99237> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/99237> ;
+  skos:prefLabel "Iraqi Dinar" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500225>
+  ns0:hasPermId "500225"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "PKR"^^xsd:string ;
+  ns1:iso4217Numeric "586"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1168579> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1168579> ;
+  skos:prefLabel "Pakistani Rupee" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500495>
+  ns0:hasPermId "500495"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "TRL"^^xsd:string ;
+  ns1:iso4217Numeric "792"^^xsd:string ;
+  skos:prefLabel "Turkish Lira (to Dec 2005)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500281>
+  ns0:hasPermId "500281"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XBD"^^xsd:string ;
+  ns1:iso4217Numeric "958"^^xsd:string ;
+  skos:prefLabel "European Unit of Account 17" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500169>
+  ns0:hasPermId "500169"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "GHC"^^xsd:string ;
+  ns1:iso4217Numeric "288"^^xsd:string ;
+  skos:prefLabel "Ghanaian Cedi (to Jan 2008)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500172>
+  ns0:hasPermId "500172"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "GNF"^^xsd:string ;
+  ns1:iso4217Numeric "324"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2420477> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2420477> ;
+  skos:prefLabel "Guinean Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500224>
+  ns0:hasPermId "500224"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "OMR"^^xsd:string ;
+  ns1:iso4217Numeric "512"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/286963> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/286963> ;
+  skos:prefLabel "Omani Rial" ;
+  ns1:decimalPlaces 3.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500494>
+  ns0:hasPermId "500494"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ESP"^^xsd:string ;
+  ns1:iso4217Numeric "724"^^xsd:string ;
+  skos:prefLabel "Spanish Peseta" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500540>
+  ns0:hasPermId "500540"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "UYP"^^xsd:string ;
+  skos:prefLabel "Uruguayan Peso (to 1993)" ;
+  ns1:decimalPlaces 3.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500456>
+  ns0:hasPermId "500456"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "MGF"^^xsd:string ;
+  ns1:iso4217Numeric "450"^^xsd:string ;
+  skos:prefLabel "Malagasy Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500124>
+  ns0:hasPermId "500124"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BZD"^^xsd:string ;
+  ns1:iso4217Numeric "84"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3582678> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3582678> ;
+  skos:prefLabel "Belizean Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500139>
+  ns1:iso4217Numeric "950"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/239880>, <http://sws.geonames.org/2309096>, <http://sws.geonames.org/2233387>, <http://sws.geonames.org/2260494>, <http://sws.geonames.org/2434508> ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2400553>, <http://sws.geonames.org/2434508>, <http://sws.geonames.org/2260494>, <http://sws.geonames.org/239880>, <http://sws.geonames.org/2309096>, <http://sws.geonames.org/2233387> ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Central African CFA Franc" ;
+  ns0:hasPermId "500139"^^xsd:string ;
+  a ns1:Currency ;
+  ns1:iso4217 "XAF"^^xsd:string .
+
+<https://permid.org/1-500186>
+  ns0:hasPermId "500186"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "JPY"^^xsd:string ;
+  ns1:iso4217Numeric "392"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1861060> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1861060> ;
+  skos:prefLabel "Japanese Yen" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003613270>
+  ns0:hasPermId "1003613270"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MRU"^^xsd:string ;
+  ns1:iso4217Numeric "929"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2378080> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2378080> ;
+  skos:prefLabel "Mauritanian Ouguiya" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500232>
+  ns0:hasPermId "500232"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "QAR"^^xsd:string ;
+  ns1:iso4217Numeric "634"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/289688> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/289688> ;
+  skos:prefLabel "Qatari Rial" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500114>
+  ns0:hasPermId "500114"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "ARS"^^xsd:string ;
+  ns1:iso4217Numeric "32"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3865483> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3865483> ;
+  skos:prefLabel "Argentinian Peso" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500148>
+  ns0:hasPermId "500148"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KMF"^^xsd:string ;
+  ns1:iso4217Numeric "174"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/921929> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/921929> ;
+  skos:prefLabel "Comorian Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500501>
+  ns0:hasPermId "500501"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "GQE"^^xsd:string ;
+  ns1:iso4217Numeric "226"^^xsd:string ;
+  skos:prefLabel "Equatorial Guinea Ekwele" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003520816>
+  ns0:hasPermId "1003520816"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Bitcoin Cash" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003883370>
+  ns0:hasPermId "1003883370"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Litecoin" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500156>
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Danish Krone" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3425505>, <http://sws.geonames.org/2622320>, <http://sws.geonames.org/2623032> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2622320>, <http://sws.geonames.org/3425505> ;
+  ns1:iso4217 "DKK"^^xsd:string ;
+  ns1:iso4217Numeric "208"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500156"^^xsd:string ;
+  a ns1:Currency .
+
+<https://permid.org/1-500549>
+  ns0:hasPermId "500549"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SSP"^^xsd:string ;
+  ns1:iso4217Numeric "728"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/7909807> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/7909807> ;
+  skos:prefLabel "South Sudanese Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003534519>
+  ns0:hasPermId "1003534519"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "STN"^^xsd:string ;
+  ns1:iso4217Numeric "930"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2410758> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2410758> ;
+  skos:prefLabel "Sao Tomean Dobra" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1002197667>
+  ns0:hasPermId "1002197667"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Yugoslavian Dinar (Jul 1992-Oct 1993)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500273>
+  ns0:hasPermId "500273"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "VEB"^^xsd:string ;
+  ns1:iso4217Numeric "862"^^xsd:string ;
+  skos:prefLabel "Venezuelan Bolivar (to Jun 2008)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500254>
+  ns0:hasPermId "500254"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CHW"^^xsd:string ;
+  ns1:iso4217Numeric "948"^^xsd:string ;
+  skos:prefLabel "Swiss WIR Franc" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500145>
+  ns0:hasPermId "500145"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CNY"^^xsd:string ;
+  ns1:iso4217Numeric "156"^^xsd:string ;
+  skos:prefLabel "Chinese Yuan" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500120>
+  ns0:hasPermId "500120"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BHD"^^xsd:string ;
+  ns1:iso4217Numeric "48"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/290291> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/290291> ;
+  skos:prefLabel "Bahraini Dinar" ;
+  ns1:decimalPlaces 3.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500513>
+  ns0:hasPermId "500513"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "AON"^^xsd:string ;
+  ns1:iso4217Numeric "24"^^xsd:string ;
+  skos:prefLabel "Angolan New Kwanza (to Feb 2000)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500110>
+  ns1:isCurrencyOf <http://sws.geonames.org/3577718>, <http://sws.geonames.org/6252001>, <http://sws.geonames.org/4796775>, <http://sws.geonames.org/3658394>, <http://sws.geonames.org/3585968>, <http://sws.geonames.org/2081918>, <http://sws.geonames.org/2080185>, <http://sws.geonames.org/1282588>, <http://sws.geonames.org/4041468>, <http://sws.geonames.org/4566966>, <http://sws.geonames.org/1966436>, <http://sws.geonames.org/3703430>, <http://sws.geonames.org/6254930>, <http://sws.geonames.org/1559582>, <http://sws.geonames.org/4043988> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1966436>, <http://sws.geonames.org/4043988>, <http://sws.geonames.org/5854968>, <http://sws.geonames.org/2081918>, <http://sws.geonames.org/1282588>, <http://sws.geonames.org/1559582>, <http://sws.geonames.org/7626844>, <http://sws.geonames.org/4566966>, <http://sws.geonames.org/3658394>, <http://sws.geonames.org/3585968>, <http://sws.geonames.org/4041468>, <http://sws.geonames.org/2080185>, <http://sws.geonames.org/3703430>, <http://sws.geonames.org/6252001>, <http://sws.geonames.org/3577718> ;
+  ns1:iso4217 "USD"^^xsd:string ;
+  skos:prefLabel "US Dollar" ;
+  a ns1:Currency ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217Numeric "840"^^xsd:string ;
+  ns0:hasPermId "500110"^^xsd:string ;
+  ns1:decimalPlaces 2.0 .
+
+<https://permid.org/1-500451>
+  ns0:hasPermId "500451"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "UZS"^^xsd:string ;
+  ns1:iso4217Numeric "860"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1512440> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1512440> ;
+  skos:prefLabel "Uzbekistani Sum" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003883373>
+  ns0:hasPermId "1003883373"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Ripple" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500258>
+  ns0:hasPermId "500258"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "TJS"^^xsd:string ;
+  ns1:iso4217Numeric "972"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1220409> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1220409> ;
+  skos:prefLabel "Tajikistani Somoni" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500233>
+  ns0:hasPermId "500233"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ROL"^^xsd:string ;
+  ns1:iso4217Numeric "642"^^xsd:string ;
+  skos:prefLabel "Romanian Leu (to Jun 2005)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500242>
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Seychelles Rupee" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/241170> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/241170> ;
+  ns1:iso4217Numeric "690"^^xsd:string ;
+  ns1:iso4217 "SCR"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500242"^^xsd:string .
+
+<https://permid.org/1-500276>
+  ns0:hasPermId "500276"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "ZMK"^^xsd:string ;
+  ns1:iso4217Numeric "894"^^xsd:string ;
+  skos:prefLabel "Zambian Kwacha (to Dec 2012)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500554>
+  ns0:hasPermId "500554"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "ZMW"^^xsd:string ;
+  ns1:iso4217Numeric "967"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/895949> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/895949> ;
+  skos:prefLabel "Zambian Kwacha" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500535>
+  ns0:hasPermId "500535"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CUC"^^xsd:string ;
+  ns1:iso4217Numeric "931"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3562981> ;
+  skos:prefLabel "Cuban Convertible Peso" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500464>
+  ns0:hasPermId "500464"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "LUF"^^xsd:string ;
+  ns1:iso4217Numeric "442"^^xsd:string ;
+  skos:prefLabel "Luxembourg Franc" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500184>
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/6254930>, <http://sws.geonames.org/294640> ;
+  ns1:iso4217 "ILS"^^xsd:string ;
+  ns1:iso4217Numeric "376"^^xsd:string ;
+  skos:prefLabel "Israeli New Sheqel" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/6254930>, <http://sws.geonames.org/294640> ;
+  ns0:hasPermId "500184"^^xsd:string .
+
+<https://permid.org/1-500478>
+  ns0:hasPermId "500478"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "DEM"^^xsd:string ;
+  ns1:iso4217Numeric "276"^^xsd:string ;
+  skos:prefLabel "Deutsche Mark" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500127>
+  ns1:decimalPlaces 2.0 ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1269750> ;
+  ns1:iso4217 "INR"^^xsd:string ;
+  a ns1:Currency ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1269750>, <http://sws.geonames.org/1252634> ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Indian Rupee" ;
+  ns0:hasPermId "500127"^^xsd:string ;
+  ns1:iso4217Numeric "356"^^xsd:string .
+
+<https://permid.org/1-500220>
+  ns0:hasPermId "500220"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "NPR"^^xsd:string ;
+  ns1:iso4217Numeric "524"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1282988> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1282988> ;
+  skos:prefLabel "Nepalese Rupee" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500496>
+  ns0:hasPermId "500496"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "PTE"^^xsd:string ;
+  ns1:iso4217Numeric "620"^^xsd:string ;
+  skos:prefLabel "Portuguese Escudo" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500207>
+  ns0:hasPermId "500207"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MYR"^^xsd:string ;
+  ns1:iso4217Numeric "458"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1733045> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1733045> ;
+  skos:prefLabel "Malaysian Ringgit" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500263>
+  ns0:hasPermId "500263"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "TND"^^xsd:string ;
+  ns1:iso4217Numeric "788"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2464461> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2464461> ;
+  skos:prefLabel "Tunisian Dinar" ;
+  ns1:decimalPlaces 3.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500192>
+  ns0:hasPermId "500192"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KWD"^^xsd:string ;
+  ns1:iso4217Numeric "414"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/285570> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/285570> ;
+  skos:prefLabel "Kuwaiti Dinar" ;
+  ns1:decimalPlaces 3.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500179>
+  ns0:hasPermId "500179"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "ISK"^^xsd:string ;
+  ns1:iso4217Numeric "352"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2629691> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2629691> ;
+  skos:prefLabel "Icelandic Krona" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500461>
+  a ns1:Currency ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Belgian Financial Franc" ;
+  ns1:iso4217Numeric "992"^^xsd:string ;
+  ns1:iso4217 "BEL"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns0:hasPermId "500461"^^xsd:string .
+
+<https://permid.org/1-500188>
+  ns0:hasPermId "500188"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "KZT"^^xsd:string ;
+  ns1:iso4217Numeric "398"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1522867> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1522867> ;
+  skos:prefLabel "Kazakhstani Tenge" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500476>
+  ns0:hasPermId "500476"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "CSD"^^xsd:string ;
+  ns1:iso4217Numeric "891"^^xsd:string ;
+  skos:prefLabel "Serbian Dinar (to Oct 2006)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500268>
+  ns0:hasPermId "500268"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "AED"^^xsd:string ;
+  ns1:iso4217Numeric "784"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/290557> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/290557> ;
+  skos:prefLabel "UAE Dirham" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500159>
+  ns0:hasPermId "500159"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "EGP"^^xsd:string ;
+  ns1:iso4217Numeric "818"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/357994> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/357994> ;
+  skos:prefLabel "Egyptian Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500187>
+  a ns1:Currency ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Jordanian Dinar" ;
+  ns1:decimalPlaces 3.0 ;
+  ns1:iso4217Numeric "400"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/6254930>, <http://sws.geonames.org/248816> ;
+  ns1:iso4217 "JOD"^^xsd:string ;
+  ns0:hasPermId "500187"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/248816> .
+
+<https://permid.org/1-500546>
+  ns0:hasPermId "500546"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3624060> ;
+  skos:prefLabel "Costa Rican Unidad de Desarrollo" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500168>
+  ns0:hasPermId "500168"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "GEL"^^xsd:string ;
+  ns1:iso4217Numeric "981"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/614540> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/614540> ;
+  skos:prefLabel "Georgian Lari" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500214>
+  ns0:hasPermId "500214"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MDL"^^xsd:string ;
+  ns1:iso4217Numeric "498"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/617790> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/617790> ;
+  skos:prefLabel "Moldovan Leu" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500149>
+  ns0:hasPermId "500149"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CDF"^^xsd:string ;
+  ns1:iso4217Numeric "976"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/203312> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/203312> ;
+  skos:prefLabel "Congolese Franc" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500177>
+  ns0:hasPermId "500177"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "HKD"^^xsd:string ;
+  ns1:iso4217Numeric "344"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1819730> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1819730> ;
+  skos:prefLabel "Hong Kong Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500270>
+  ns0:hasPermId "500270"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "UYU"^^xsd:string ;
+  ns1:iso4217Numeric "858"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3439705> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3439705> ;
+  skos:prefLabel "Uruguayan Peso" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500223>
+  ns0:hasPermId "500223"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "NGN"^^xsd:string ;
+  ns1:iso4217Numeric "566"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2328926> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2328926> ;
+  skos:prefLabel "Nigerian Naira" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500545>
+  ns0:hasPermId "500545"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BOP"^^xsd:string ;
+  skos:prefLabel "Bolivian Peso (to Dec 1986)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500520>
+  ns0:hasPermId "500520"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "UYI"^^xsd:string ;
+  ns1:iso4217Numeric "940"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3439705> ;
+  skos:prefLabel "Uruguayan Peso en Unidades Indexadas" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500167>
+  ns0:hasPermId "500167"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "GMD"^^xsd:string ;
+  ns1:iso4217Numeric "270"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2413451> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2413451> ;
+  skos:prefLabel "Gambian Dalasi" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500260>
+  ns0:hasPermId "500260"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "THB"^^xsd:string ;
+  ns1:iso4217Numeric "764"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1605651> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1605651> ;
+  skos:prefLabel "Thai Baht" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500213>
+  ns0:hasPermId "500213"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "MXV"^^xsd:string ;
+  ns1:iso4217Numeric "979"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3996063> ;
+  skos:prefLabel "Mexican Unidad de Inversion" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500176>
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  skos:prefLabel "Honduran Lempira" ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3608932> ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3608932> ;
+  ns1:iso4217Numeric "340"^^xsd:string ;
+  ns1:iso4217 "HNL"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500176"^^xsd:string .
+
+<https://permid.org/1-1002197669>
+  ns0:hasPermId "1002197669"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Yugoslavian Dinar (Oct 1993-Jan 1994)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500228>
+  ns0:hasPermId "500228"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "PYG"^^xsd:string ;
+  ns1:iso4217Numeric "600"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3437598> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3437598> ;
+  skos:prefLabel "Paraguayan Guarani" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500141>
+  ns0:hasPermId "500141"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CVE"^^xsd:string ;
+  ns1:iso4217Numeric "132"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3374766> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3374766> ;
+  skos:prefLabel "Cape Verdean Escudo" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500488>
+  ns0:hasPermId "500488"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BGL"^^xsd:string ;
+  ns1:iso4217Numeric "100"^^xsd:string ;
+  skos:prefLabel "Bulgarian Lev (to Jul 1999)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500122>
+  ns0:hasPermId "500122"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "BBD"^^xsd:string ;
+  ns1:iso4217Numeric "52"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3374084> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3374084> ;
+  skos:prefLabel "Barbadian Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500497>
+  ns0:hasPermId "500497"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "AFA"^^xsd:string ;
+  ns1:iso4217Numeric "4"^^xsd:string ;
+  skos:prefLabel "Afghan Afghani (to Jan 2003)" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003239620>
+  ns0:hasPermId "1003239620"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3865483> ;
+  skos:prefLabel "Argentinian Unidades de Valor Adquisitivo" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500235>
+  ns0:hasPermId "500235"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "RUB"^^xsd:string ;
+  ns1:iso4217Numeric "643"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2017370> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2017370> ;
+  skos:prefLabel "Russian Ruble" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500486>
+  ns0:hasPermId "500486"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "HRD"^^xsd:string ;
+  skos:prefLabel "Croatian Dinar" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500278>
+  ns0:hasPermId "500278"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XBA"^^xsd:string ;
+  ns1:iso4217Numeric "955"^^xsd:string ;
+  skos:prefLabel "European Composite Unit" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500200>
+  ns0:hasPermId "500200"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "LYD"^^xsd:string ;
+  ns1:iso4217Numeric "434"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2215636> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2215636> ;
+  skos:prefLabel "Libyan Dinar" ;
+  ns1:decimalPlaces 3.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500522>
+  ns0:hasPermId "500522"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "BYB"^^xsd:string ;
+  ns1:iso4217Numeric "112"^^xsd:string ;
+  skos:prefLabel "Belarusian Ruble (to Dec 1999)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500178>
+  ns0:hasPermId "500178"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "HUF"^^xsd:string ;
+  ns1:iso4217Numeric "348"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/719819> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/719819> ;
+  skos:prefLabel "Hungarian Forint" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500512>
+  ns0:hasPermId "500512"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:iso4217 "GRD"^^xsd:string ;
+  ns1:iso4217Numeric "300"^^xsd:string ;
+  skos:prefLabel "Greek Drachma" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500521>
+  ns0:hasPermId "500521"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SDG"^^xsd:string ;
+  ns1:iso4217Numeric "938"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/366755> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/366755> ;
+  skos:prefLabel "Sudanese Pound" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500143>
+  ns0:hasPermId "500143"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "CLP"^^xsd:string ;
+  ns1:iso4217Numeric "152"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3895114> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3895114> ;
+  skos:prefLabel "Chilean Peso" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500267>
+  ns0:hasPermId "500267"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "UAH"^^xsd:string ;
+  ns1:iso4217Numeric "980"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/690791> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/690791> ;
+  skos:prefLabel "Ukrainian Hryvnia" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500555>
+  ns0:hasPermId "500555"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Russian Ruble Dual-Currency Basket" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500536>
+  ns0:hasPermId "500536"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "ZWL"^^xsd:string ;
+  ns1:iso4217Numeric "932"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/878675> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/878675> ;
+  skos:prefLabel "Zimbabwean Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500257>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1668284> ;
+  skos:prefLabel "New Taiwan Dollar", "Taiwanese Dollar", "Taiwan Dollar" ;
+  ns0:hasPermId "500257"^^xsd:string ;
+  ns1:iso4217 "TWD"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1668284> ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217Numeric "901"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  a ns1:Currency .
+
+<https://permid.org/1-500204>
+  skos:prefLabel "North Macedonian Denar", "Macedonian Denar" ;
+  a ns1:Currency ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/718075> ;
+  ns0:hasPermId "500204"^^xsd:string ;
+  ns1:iso4217Numeric "807"^^xsd:string ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217 "MKD"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/718075> .
+
+<https://permid.org/1-500455>
+  ns0:hasPermId "500455"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XPD"^^xsd:string ;
+  ns1:iso4217Numeric "964"^^xsd:string ;
+  skos:prefLabel "Palladium", "Palladium (one troy ounce)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500346>
+  ns0:hasPermId "500346"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XPT"^^xsd:string ;
+  ns1:iso4217Numeric "962"^^xsd:string ;
+  skos:prefLabel "Platinum", "Platinum (one troy ounce)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962481>
+  ns0:hasPermId "1003962481"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "QTUM" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003959570>
+  ns0:hasPermId "1003959570"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "UYW"^^xsd:string ;
+  ns1:iso4217Numeric "927"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3439705> ;
+  skos:prefLabel "Uruguayan Unidad Previsional" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500345>
+  ns0:hasPermId "500345"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XAG"^^xsd:string ;
+  ns1:iso4217Numeric "961"^^xsd:string ;
+  skos:prefLabel "Silver", "Silver (one troy ounce)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500230>
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1694008> ;
+  ns0:hasPermId "500230"^^xsd:string ;
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217Numeric "608"^^xsd:string ;
+  ns1:iso4217 "PHP"^^xsd:string ;
+  skos:prefLabel "Philippine Piso", "Philippine Peso" ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1694008> .
+
+<https://permid.org/1-500452>
+  ns0:hasPermId "500452"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "XAU"^^xsd:string ;
+  ns1:iso4217Numeric "959"^^xsd:string ;
+  skos:prefLabel "Gold", "Gold (Currency)", "Gold (one troy ounce)" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500210>
+  a ns1:Currency ;
+  ns0:hasPermId "500210"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2378080> ;
+  skos:prefLabel "Mauritanian Ouguiya (to Jun 2018)", "Mauritanian Ouguiya" ;
+  ns1:iso4217Numeric "478"^^xsd:string ;
+  ns1:iso4217 "MRO"^^xsd:string ;
+  ns1:isISOHistorical true ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2378080> ;
+  ns1:decimalPlaces 1.0 .
+
+<https://permid.org/1-500269>
+  ns1:iso4217Numeric "826"^^xsd:string ;
+  skos:prefLabel "British Pound", "British Pound Sterling" ;
+  ns0:hasPermId "500269"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2635167>, <http://sws.geonames.org/3042225>, <http://sws.geonames.org/3042142>, <http://sws.geonames.org/3474415>, <http://sws.geonames.org/3042362> ;
+  a ns1:Currency ;
+  ns1:isISOHistorical false ;
+  ns1:isCurrencyOf <http://sws.geonames.org/3474415>, <http://sws.geonames.org/3042362>, <http://sws.geonames.org/2635167>, <http://sws.geonames.org/3042225>, <http://sws.geonames.org/3042142> ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217 "GBP"^^xsd:string .
+
+<https://permid.org/1-500244>
+  ns0:hasPermId "500244"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  ns1:iso4217 "SGD"^^xsd:string ;
+  ns1:iso4217Numeric "702"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/1880251> ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/1880251> ;
+  skos:prefLabel "Singapore Dollar" ;
+  ns1:decimalPlaces 2.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500532>
+  ns1:isCurrencyOf <http://sws.geonames.org/3625428> ;
+  skos:prefLabel "Venezuelan Bolivar Fuerte", "Venezuelan Bolivar" ;
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217Numeric "937"^^xsd:string ;
+  ns1:iso4217 "VEF"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/3625428> ;
+  ns0:hasPermId "500532"^^xsd:string ;
+  ns1:isISOHistorical true .
+
+<https://permid.org/1-1004064727>
+  ns0:hasPermId "1004064727"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Cryptocurrency" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962499>
+  ns0:hasPermId "1003962499"^^xsd:string ;
+  ns1:isISOHistorical false ;
+  skos:prefLabel "Dash", "Digital Cash" ;
+  ns1:decimalPlaces 0.0 ;
+  a ns1:Currency .
+
+<https://permid.org/1-500252>
+  ns1:iso4217 "SZL"^^xsd:string ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "500252"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/934841> ;
+  ns1:iso4217Numeric "748"^^xsd:string ;
+  skos:prefLabel "Eswatini Lilangeni", "Swazi Lilangeni" ;
+  ns1:isCurrencyOf <http://sws.geonames.org/934841> ;
+  a ns1:Currency .
+
+<https://permid.org/1-1003962501>
+  a ns1:Currency ;
+  ns1:decimalPlaces 0.0 ;
+  skos:prefLabel "Digix DAO" ;
+  ns1:isISOHistorical false ;
+  ns0:hasPermId "1003962501"^^xsd:string .
+
+<https://permid.org/1-500239>
+  ns1:iso4217Numeric "678"^^xsd:string ;
+  ns1:isCurrencyOf <http://sws.geonames.org/2410758> ;
+  skos:prefLabel "Sao Tomean Dobra (to Jun 2018)", "Sao Tomean Dobra" ;
+  a ns1:Currency ;
+  ns1:decimalPlaces 2.0 ;
+  ns1:iso4217 "STD"^^xsd:string ;
+  ns1:isPrimaryCurrencyOf <http://sws.geonames.org/2410758> ;
+  ns1:isISOHistorical true ;
+  ns0:hasPermId "500239"^^xsd:string .

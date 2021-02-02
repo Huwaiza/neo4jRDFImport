@@ -1,0 +1,1971 @@
+@prefix ns0: <http://permid.org/ontology/financial/> .
+@prefix ns1: <http://permid.org/ontology/common/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+<https://permid.org/1-21475418260>
+  a <http://permid.org/ontology/financial/Instrument> ;
+  ns0:hasAssetClass <https://permid.org/1-302107> ;
+  ns0:isIssuedBy <https://permid.org/1-4298040310> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "Structural Monitoring Systems Ord Shs"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475418261> ;
+  ns1:hasPermId "21475418260"^^xsd:string .
+
+<https://permid.org/1-21772918517>
+  ns1:hasPermId "21772918517"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-25727312801> ;
+  ns1:hasName "Ninebot CDR"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-5076951726> ;
+  ns0:hasAssetClass <https://permid.org/1-302107> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589959406>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-303220> ;
+  ns0:isIssuedBy <https://permid.org/1-4295886203> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns1:hasName "ABS CBN Holdings Phillipine Depositary Receipts Representing 1 Ord Shs"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55838794243> ;
+  ns1:hasPermId "8589959406"^^xsd:string .
+
+<https://permid.org/1-8590006477>
+  ns1:hasPermId "8590006477"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55838823469> ;
+  ns1:hasName "GMA Holdings PDR"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4298054807> ;
+  ns0:hasAssetClass <https://permid.org/1-303220> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590975306>
+  ns1:hasPermId "8590975306"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55843056139> ;
+  ns1:hasName "Sunshine Heart CDI"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297238706> ;
+  ns0:hasAssetClass <https://permid.org/1-302369> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475419594>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-302369> ;
+  ns0:isIssuedBy <https://permid.org/1-4297238706> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "Sunshine Heart CDI"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475419595> ;
+  ns1:hasPermId "21475419594"^^xsd:string .
+
+<https://permid.org/1-21475419597>
+  ns1:hasPermId "21475419597"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475419598> ;
+  ns1:hasName "Guinness Peat Group BNS"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295895881> ;
+  ns0:hasAssetClass <https://permid.org/1-302369> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589993343>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-303307> ;
+  ns0:isIssuedBy <https://permid.org/1-4295861010> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "New Flyer Industries Income Deposit Securities"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55838840583> ;
+  ns1:hasPermId "8589993343"^^xsd:string .
+
+<https://permid.org/1-8589937946>
+  ns1:hasPermId "8589937946"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835821442> ;
+  ns1:hasName "Fomento Economico Mexicano Ub Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884507> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590010462>
+  ns1:hasPermId "8590010462"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835814791> ;
+  ns1:hasName "Megacable Holdings CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884478> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590921995>
+  ns1:hasPermId "8590921995"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835819176> ;
+  ns1:hasName "Tv Azteca CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884371> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589971061>
+  ns1:hasPermId "8589971061"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835814507> ;
+  ns1:hasName "Empresas Cablevision CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884491> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21579095744>
+  ns1:hasPermId "21579095744"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21579095743> ;
+  ns1:hasName "La Comer Ubc Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-5048904190> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589978515>
+  ns1:hasPermId "8589978515"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835820905> ;
+  ns1:hasName "Rassini CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884309> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21579095738>
+  a ns0:Instrument ;
+  ns0:isIssuedBy <https://permid.org/1-5048904190> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns1:hasName "La Comer Ub Ord Shs"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21579095737> ;
+  ns1:hasPermId "21579095738"^^xsd:string .
+
+<https://permid.org/1-21474836500>
+  ns1:hasPermId "21474836500"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475039029> ;
+  ns1:hasName "Proteak Uno CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000790340> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590928953>
+  ns1:hasPermId "8590928953"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835818704> ;
+  ns1:hasName "Grupo Televisa CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884308> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590936883>
+  ns1:hasPermId "8590936883"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835800351> ;
+  ns1:hasName "Axtel CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884511> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589937647>
+  ns1:hasPermId "8589937647"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835818584> ;
+  ns1:hasName "Maxcom Telecomunicaciones CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884316> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590933160>
+  ns1:hasPermId "8590933160"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55835816267> ;
+  ns1:hasName "Cemex CPO"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000057902> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589994967>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-302548> ;
+  ns0:isIssuedBy <https://permid.org/1-4295894130> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "Jupiter Second Split Trust PLC Units"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475798673> ;
+  ns1:hasPermId "8589994967"^^xsd:string .
+
+<https://permid.org/1-8589984384>
+  ns1:hasPermId "8589984384"^^xsd:string ;
+  ns1:hasName "Martinska Mliekaren AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295916863> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590020560>
+  ns1:hasPermId "8590020560"^^xsd:string ;
+  ns1:hasName "Spectral MIS SA Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297861935> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590022738>
+  ns1:hasPermId "8590022738"^^xsd:string ;
+  ns1:hasName "Polnonakup Slati Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297797565> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590003913>
+  ns1:hasPermId "8590003913"^^xsd:string ;
+  ns1:hasName "Cevaservis AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295917621> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590021318>
+  ns1:hasPermId "8590021318"^^xsd:string ;
+  ns1:hasName "Santral Holding AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296569773> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589995204>
+  ns1:hasPermId "8589995204"^^xsd:string ;
+  ns1:hasName "Hydrocontact Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295926044> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590021005>
+  ns1:hasPermId "8590021005"^^xsd:string ;
+  ns1:hasName "Harland Simon Group Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295893989> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590026621>
+  ns1:hasPermId "8590026621"^^xsd:string ;
+  ns1:hasName "Gencor Beherend Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297034091> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589974389>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-4295898195> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "Clarke Hooper Ord Shs"^^xsd:string ;
+  ns1:hasPermId "8589974389"^^xsd:string .
+
+<https://permid.org/1-8589985745>
+  ns1:hasPermId "8589985745"^^xsd:string ;
+  ns1:hasName "Almedahl-Fagerhult Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889796> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590011418>
+  ns1:hasPermId "8590011418"^^xsd:string ;
+  ns1:hasName "Aero Slovakia Ordinary Shares"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295943333> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589978262>
+  ns1:hasPermId "8589978262"^^xsd:string ;
+  ns1:hasName "Dopravno/Inz Sluzby AS"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295926093> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590030027>
+  ns1:hasPermId "8590030027"^^xsd:string ;
+  ns1:hasName "Airbreak Leisure Group Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296457591> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590025509>
+  ns1:hasPermId "8590025509"^^xsd:string ;
+  ns1:hasName "Slovenska Grafia Ordinary Shares"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295917884> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590023829>
+  ns1:hasPermId "8590023829"^^xsd:string ;
+  ns1:hasName "Invergordon Distillers Group"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295897952> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590008374>
+  ns1:hasPermId "8590008374"^^xsd:string ;
+  ns1:hasName "Skrutkaren AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295917533> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589989117>
+  ns1:hasPermId "8589989117"^^xsd:string ;
+  ns1:hasName "Altos Hornos  Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889315> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589988871>
+  ns1:hasPermId "8589988871"^^xsd:string ;
+  ns1:hasName "Datema Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295957758> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590026293>
+  ns1:hasPermId "8590026293"^^xsd:string ;
+  ns1:hasName "Geoconsult AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295917283> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590010607>
+  ns1:hasPermId "8590010607"^^xsd:string ;
+  ns1:hasName "Ekoteam Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297916646> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589997912>
+  ns1:hasPermId "8589997912"^^xsd:string ;
+  ns1:hasName "Mercurius Industrier Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295968019> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590013171>
+  ns1:hasPermId "8590013171"^^xsd:string ;
+  ns1:hasName "Cas AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000023104> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590017529>
+  ns1:hasPermId "8590017529"^^xsd:string ;
+  ns1:hasName "Dunkeld Group Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295898023> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590007733>
+  ns1:hasPermId "8590007733"^^xsd:string ;
+  ns1:hasName "Hanover Druce Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296444376> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590029794>
+  ns1:hasPermId "8590029794"^^xsd:string ;
+  ns1:hasName "Drevonabytok AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000013752> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997357>
+  ns1:hasPermId "21730997357"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./NETFLIX 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997332>
+  ns1:hasPermId "21730997332"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TESLA 20-20"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21694499682>
+  ns1:hasPermId "21694499682"^^xsd:string ;
+  ns1:hasName "Arcadis NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884700> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21697876648>
+  ns1:hasPermId "21697876648"^^xsd:string ;
+  ns1:hasName "Koninklijke DSM NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884728> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997340>
+  ns1:hasPermId "21730997340"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TWITTER 20-20"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21696767028>
+  ns1:hasPermId "21696767028"^^xsd:string ;
+  ns1:hasName "Koninklijke Philips NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884721> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997321>
+  ns1:hasPermId "21730997321"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./AIR FRANCE 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21654575319>
+  ns1:hasPermId "21654575319"^^xsd:string ;
+  ns1:hasName "PostNL NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4298008210> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997336>
+  ns1:hasPermId "21730997336"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TRIPADVISOR 20-20"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997345>
+  ns1:hasPermId "21730997345"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./ALIBABA 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21710659178>
+  ns1:hasPermId "21710659178"^^xsd:string ;
+  ns1:hasName "Aegon NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884931> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589954557>
+  ns1:hasPermId "8589954557"^^xsd:string ;
+  ns1:hasName "Axtrade Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4298313882> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997325>
+  ns1:hasPermId "21730997325"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./BPER BANCA 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21693851054>
+  ns1:hasPermId "21693851054"^^xsd:string ;
+  ns1:hasName "Koninklijke BAM Groep NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884551> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21654575317>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-4298008210> ;
+  ns1:hasName "Koninklijke Philips NV"^^xsd:string ;
+  ns1:hasPermId "21654575317"^^xsd:string .
+
+<https://permid.org/1-21654575320>
+  ns1:hasPermId "21654575320"^^xsd:string ;
+  ns1:hasName "Kendrion NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4298008210> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21684763969>
+  ns1:hasPermId "21684763969"^^xsd:string ;
+  ns1:hasName "IHS Nr.2 GS GmbH Inh.Genuß.10/2018-30.10.2033"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-5066598833> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589971747>
+  ns1:hasPermId "8589971747"^^xsd:string ;
+  ns1:hasName "Salomon Inc Fd Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296758772> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21662037846>
+  ns1:hasPermId "21662037846"^^xsd:string ;
+  ns1:hasName "FF VoerEquivalenten"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-5057803544> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997349>
+  ns1:hasPermId "21730997349"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./ENEL 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21693851053>
+  ns1:hasPermId "21693851053"^^xsd:string ;
+  ns1:hasName "PostNL NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884770> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997287>
+  ns1:hasPermId "21730997287"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./AIR FRANCE 20-20"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997361>
+  ns1:hasPermId "21730997361"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./NOKIA OYJ 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21707805012>
+  ns1:hasPermId "21707805012"^^xsd:string ;
+  ns1:hasName "Koninklijke DSM NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884728> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997329>
+  ns1:hasPermId "21730997329"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./NETFLIX 20-20"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997428>
+  ns1:hasPermId "21730997428"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./IBM 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21653178677>
+  ns1:hasPermId "21653178677"^^xsd:string ;
+  ns1:hasName "VKBNIE 0 PERP BOND"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5051066323> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997403>
+  ns1:hasPermId "21730997403"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./ASSIC GEN20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997375>
+  ns1:hasPermId "21730997375"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TRIPADVISOR 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21713041283>
+  ns1:hasPermId "21713041283"^^xsd:string ;
+  ns1:hasName "VORVBK 0 PERP BOND"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295859090> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21764156665>
+  ns1:hasPermId "21764156665"^^xsd:string ;
+  ns1:hasName "Koninklijke DSM NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884728> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997365>
+  ns1:hasPermId "21730997365"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TELECOM IT 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997417>
+  ns1:hasPermId "21730997417"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TELECOM IT 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997399>
+  ns1:hasPermId "21730997399"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./LEONARDO 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997420>
+  ns1:hasPermId "21730997420"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TESLA 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997383>
+  ns1:hasPermId "21730997383"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TWITTER 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997410>
+  ns1:hasPermId "21730997410"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./PRYSMIAN 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21753072588>
+  ns1:hasPermId "21753072588"^^xsd:string ;
+  ns1:hasName "Koninklijke DSM NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295884728> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997406>
+  ns1:hasPermId "21730997406"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./ING GROEP N 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21653178689>
+  ns1:hasPermId "21653178689"^^xsd:string ;
+  ns1:hasName "IMIGON 0 PERP BOND"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5056580519> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997391>
+  ns1:hasPermId "21730997391"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./EDF 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997372>
+  ns1:hasPermId "21730997372"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TESLA 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997378>
+  ns1:hasPermId "21730997378"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TRIPADVISOR 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997353>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns1:hasName "IMI Bonus.Z./FORD MOTOR  20-21"^^xsd:string ;
+  ns1:hasPermId "21730997353"^^xsd:string .
+
+<https://permid.org/1-21730997424>
+  ns1:hasPermId "21730997424"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TESLA 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997387>
+  ns1:hasPermId "21730997387"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./CREDIT AGRIC20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997414>
+  ns1:hasPermId "21730997414"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./SAIPEM 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997367>
+  ns1:hasPermId "21730997367"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./TESLA 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21713041318>
+  ns1:hasPermId "21713041318"^^xsd:string ;
+  ns1:hasName "VORVBK 0 PERP BOND"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295859090> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21730997395>
+  ns1:hasPermId "21730997395"^^xsd:string ;
+  ns1:hasName "IMI Bonus.Z./ENEL 20-21"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4296717602> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025809>
+  ns1:hasPermId "21773025809"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3700 20 0621"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025837>
+  ns1:hasPermId "21773025837"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3500 20 0921"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025794>
+  ns1:hasPermId "21773025794"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3450 20 0621"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025865>
+  ns1:hasPermId "21773025865"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3800 20 0921"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025784>
+  ns1:hasPermId "21773025784"^^xsd:string ;
+  ns1:hasName "BNS SGE DJI 28750 20 0921"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025793>
+  ns1:hasPermId "21773025793"^^xsd:string ;
+  ns1:hasName "BNS SGE NDX 13400 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025783>
+  ns1:hasPermId "21773025783"^^xsd:string ;
+  ns1:hasName "BNS SGE DJI 30250 20 0621"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025789>
+  ns1:hasPermId "21773025789"^^xsd:string ;
+  ns1:hasName "BNS SGE NDX 12700 20 0621"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025900>
+  ns1:hasPermId "21773025900"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3500 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025792>
+  ns1:hasPermId "21773025792"^^xsd:string ;
+  ns1:hasName "BNS SGE NDX 12100 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025779>
+  ns1:hasPermId "21773025779"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3350 20 0621"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025782>
+  ns1:hasPermId "21773025782"^^xsd:string ;
+  ns1:hasName "BNS SGE DJI 28250 20 0621"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025788>
+  ns1:hasPermId "21773025788"^^xsd:string ;
+  ns1:hasName "BNS SGE NDX 11600 20 0621"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025791>
+  ns1:hasPermId "21773025791"^^xsd:string ;
+  ns1:hasName "BNS SGE NDX 13100 20 0921"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025778>
+  ns1:hasPermId "21773025778"^^xsd:string ;
+  ns1:hasName "BNS SGE NDX 11000 20 0921"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025929>
+  ns1:hasPermId "21773025929"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3850 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025781>
+  ns1:hasPermId "21773025781"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3300 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025787>
+  ns1:hasPermId "21773025787"^^xsd:string ;
+  ns1:hasName "BNS SGE DJI 31750 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025790>
+  ns1:hasPermId "21773025790"^^xsd:string ;
+  ns1:hasName "BNS SGE NDX 11900 20 0921"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025777>
+  ns1:hasPermId "21773025777"^^xsd:string ;
+  ns1:hasName "BNS SGE NDX 11000 20 0621"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025780>
+  ns1:hasPermId "21773025780"^^xsd:string ;
+  ns1:hasName "BNS SGE SPX 3450 20 0921"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025786>
+  ns1:hasPermId "21773025786"^^xsd:string ;
+  ns1:hasName "BNS SGE DJI 29250 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025776>
+  ns1:hasPermId "21773025776"^^xsd:string ;
+  ns1:hasName "BNS SGE DJI 28500 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21773025680>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns1:hasName "BNS SGE DJI 28000 20 0921"^^xsd:string ;
+  ns1:hasPermId "21773025680"^^xsd:string .
+
+<https://permid.org/1-21773025785>
+  ns1:hasPermId "21773025785"^^xsd:string ;
+  ns1:hasName "BNS SGE DJI 31000 20 0921"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589944297>
+  ns1:hasPermId "8589944297"^^xsd:string ;
+  ns1:hasName "Belar-Zahoran Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297926088> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475412313>
+  ns1:hasPermId "21475412313"^^xsd:string ;
+  ns1:hasName "Pfizer Health ORD"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295890565> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589950980>
+  ns1:hasPermId "8589950980"^^xsd:string ;
+  ns1:hasName "Osterreichische Magnesit Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297715459> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589961352>
+  ns1:hasPermId "8589961352"^^xsd:string ;
+  ns1:hasName "Garantovany IF Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295926183> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475377436>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-5000024575> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "Barclays Bank Espana Ord Shs"^^xsd:string ;
+  ns1:hasPermId "21475377436"^^xsd:string .
+
+<https://permid.org/1-21475400805>
+  ns1:hasPermId "21475400805"^^xsd:string ;
+  ns1:hasName "Bank Of Oman Bahrian and kuwait Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5001106380> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589952560>
+  ns1:hasPermId "8589952560"^^xsd:string ;
+  ns1:hasName "MS Structured Asset 7% Pref Trust Unit Class A Pref Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296424063> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589957076>
+  ns1:hasPermId "8589957076"^^xsd:string ;
+  ns1:hasName "Oslo Shipholding AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295885324> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589943269>
+  ns1:hasPermId "8589943269"^^xsd:string ;
+  ns1:hasName "Polnonakup Trnavan Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295957506> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589969388>
+  ns1:hasPermId "8589969388"^^xsd:string ;
+  ns1:hasName "CORUM Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297775147> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589940135>
+  ns1:hasPermId "8589940135"^^xsd:string ;
+  ns1:hasName "Sanland Property Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295888419> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475406337>
+  ns1:hasPermId "21475406337"^^xsd:string ;
+  ns1:hasName "Amer Group AF"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866506> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589970441>
+  ns1:hasPermId "8589970441"^^xsd:string ;
+  ns1:hasName "Polypal Europe Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295859266> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475414105>
+  ns1:hasPermId "21475414105"^^xsd:string ;
+  ns1:hasName "BSCH Finance Preferred Stock(KYG165472112)"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297181038> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475413169>
+  ns1:hasPermId "21475413169"^^xsd:string ;
+  ns1:hasName "Pdc Holdings Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297957682> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591040399>
+  ns1:hasPermId "8591040399"^^xsd:string ;
+  ns1:hasName "Bornholmerbanken Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297013553> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589940105>
+  ns1:hasPermId "8589940105"^^xsd:string ;
+  ns1:hasName "Hoskyns Group Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295898406> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589973856>
+  ns1:hasPermId "8589973856"^^xsd:string ;
+  ns1:hasName "Great Southern Group Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295898375> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589954243>
+  ns1:hasPermId "8589954243"^^xsd:string ;
+  ns1:hasName "Anglia Television Group Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295895503> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589957869>
+  ns1:hasPermId "8589957869"^^xsd:string ;
+  ns1:hasName "FAZER MUSIIKKI OY"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866355> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475414723>
+  ns1:hasPermId "21475414723"^^xsd:string ;
+  ns1:hasName "Britax International"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295894509> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589965179>
+  ns1:hasPermId "8589965179"^^xsd:string ;
+  ns1:hasName "Kovomont Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000840512> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589960096>
+  ns1:hasPermId "8589960096"^^xsd:string ;
+  ns1:hasName "Elitex Surany Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295941023> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589973595>
+  ns1:hasPermId "8589973595"^^xsd:string ;
+  ns1:hasName "Chirana Export-Import AS Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295926012> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475397794>
+  ns1:hasPermId "21475397794"^^xsd:string ;
+  ns1:hasName "Rapac Communication & Infra Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295941114> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590647985>
+  ns1:hasPermId "8590647985"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475314157> ;
+  ns1:hasName "Innovest Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884649> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590260136>
+  ns1:hasPermId "8590260136"^^xsd:string ;
+  ns1:hasName "Malhold Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296569757> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590163650>
+  ns1:hasPermId "8590163650"^^xsd:string ;
+  ns1:hasName "Kamsizoglou Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5052524462> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590140714>
+  ns1:hasPermId "8590140714"^^xsd:string ;
+  ns1:hasName "Piren Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889848> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590070415>
+  ns1:hasPermId "8590070415"^^xsd:string ;
+  ns1:hasName "Swiss Bank Corp Par Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296994061> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475226992>
+  ns1:hasPermId "21475226992"^^xsd:string ;
+  ns1:hasName "Inversora Bursatil Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296721695> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590260239>
+  ns1:hasPermId "8590260239"^^xsd:string ;
+  ns1:hasName "Cominvest Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295982550> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591041817>
+  ns1:hasPermId "8591041817"^^xsd:string ;
+  ns1:hasName "Bygg Fast Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889822> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590032080>
+  ns1:hasPermId "8590032080"^^xsd:string ;
+  ns1:hasName "Hunter Saphir Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295897961> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590209943>
+  ns1:hasPermId "8590209943"^^xsd:string ;
+  ns1:hasName "Industrial Selections Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295888397> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591309436>
+  ns1:hasPermId "8591309436"^^xsd:string ;
+  ns1:hasName "N BOSSI OPA"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295875622> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590258080>
+  ns1:hasPermId "8590258080"^^xsd:string ;
+  ns1:hasName "Trimtex Holdings Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296243387> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590140693>
+  ns1:hasPermId "8590140693"^^xsd:string ;
+  ns1:hasName "Fabege Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889872> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590142255>
+  ns1:hasPermId "8590142255"^^xsd:string ;
+  ns1:hasName "Friends Ivory & Sime PLC Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000072692> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591046282>
+  ns1:hasPermId "8591046282"^^xsd:string ;
+  ns1:hasName "Anticimex Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889749> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591047214>
+  ns1:hasPermId "8591047214"^^xsd:string ;
+  ns1:hasName "Cederroth International Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5001217501> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590258075>
+  ns1:hasPermId "8590258075"^^xsd:string ;
+  ns1:hasName "SMT Goupil Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297013515> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589961837>
+  ns1:hasPermId "8589961837"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475258542> ;
+  ns1:hasName "Kalmar Industries Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295890307> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590766191>
+  ns1:hasPermId "8590766191"^^xsd:string ;
+  ns1:hasName "Tele Sudeste Celular Participacoes SA Ordinary"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295859974> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590031838>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-4295889949> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "Ncb AB Ord Shs"^^xsd:string ;
+  ns1:hasPermId "8590031838"^^xsd:string .
+
+<https://permid.org/1-21475287964>
+  ns1:hasPermId "21475287964"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475287965> ;
+  ns1:hasName "Farben Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295884283> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591462583>
+  ns1:hasPermId "8591462583"^^xsd:string ;
+  ns1:hasName "Biosensors International Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295859563> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475344939>
+  ns1:hasPermId "21475344939"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475344940> ;
+  ns1:hasName "TK Ejendomsinvest Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296532275> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590771699>
+  ns1:hasPermId "8590771699"^^xsd:string ;
+  ns1:hasName "Banco Mercantil do Brasil Common Receipt"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295859794> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591322942>
+  ns1:hasPermId "8591322942"^^xsd:string ;
+  ns1:hasName "Protorp Forvaltnings Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889776> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475031838>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-5001221765> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "Rcon 2 Test"^^xsd:string ;
+  ns1:hasPermId "21475031838"^^xsd:string .
+
+<https://permid.org/1-21475306420>
+  ns1:hasPermId "21475306420"^^xsd:string ;
+  ns1:hasName "Peninsular & Oriental Steam Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295895105> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475289615>
+  ns1:hasPermId "21475289615"^^xsd:string ;
+  ns1:hasName "Farmacol Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295886496> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475267241>
+  ns1:hasPermId "21475267241"^^xsd:string ;
+  ns1:hasName "Agima AG fuer Immobilien Anlage Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296457672> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475186460>
+  ns1:hasPermId "21475186460"^^xsd:string ;
+  ns1:hasName "Sallies Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295888740> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475229317>
+  ns1:hasPermId "21475229317"^^xsd:string ;
+  ns1:hasName "Steinhoff International Holdings Commmon Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889008> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475316664>
+  ns1:hasPermId "21475316664"^^xsd:string ;
+  ns1:hasName "Sapa AB Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295890016> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475253855>
+  ns1:hasPermId "21475253855"^^xsd:string ;
+  ns1:hasName "Pressburg Cent Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4298038547> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475272844>
+  ns1:hasPermId "21475272844"^^xsd:string ;
+  ns1:hasName "RCo Investments Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296070601> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475208944>
+  ns1:hasPermId "21475208944"^^xsd:string ;
+  ns1:hasName "RCON 5 Test"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-5001221765> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475228795>
+  ns1:hasPermId "21475228795"^^xsd:string ;
+  ns1:hasName "Avidesa Luis Suner Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296455414> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475238764>
+  ns1:hasPermId "21475238764"^^xsd:string ;
+  ns1:hasName "Beijer Capital Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296461119> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475288946>
+  ns1:hasPermId "21475288946"^^xsd:string ;
+  ns1:hasName "Povazska Cementa Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000068852> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475177087>
+  ns1:hasPermId "21475177087"^^xsd:string ;
+  ns1:hasName "Saga Petroleum Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295885318> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475296739>
+  ns1:hasPermId "21475296739"^^xsd:string ;
+  ns1:hasName "Time Holdings Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4297017718> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475376525>
+  ns1:hasPermId "21475376525"^^xsd:string ;
+  ns1:hasName "Scanmining TO1 Subscription Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295890227> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475294944>
+  ns1:hasPermId "21475294944"^^xsd:string ;
+  ns1:hasName "Dadeko A/S Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295865912> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475234729>
+  ns1:hasPermId "21475234729"^^xsd:string ;
+  ns1:hasName "UkrGraphit Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000072283> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475231084>
+  ns1:hasPermId "21475231084"^^xsd:string ;
+  ns1:hasName "Paul Anderson Fastigheter Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889803> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475248681>
+  ns1:hasPermId "21475248681"^^xsd:string ;
+  ns1:hasName "Kumpulan Sime Darby Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000009738> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475216901>
+  ns1:hasPermId "21475216901"^^xsd:string ;
+  ns1:hasName "Boland Bank Holdings Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296823715> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475211105>
+  ns1:hasPermId "21475211105"^^xsd:string ;
+  ns1:hasName "Gold Fields Ltd Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889097> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475341504>
+  ns1:hasPermId "21475341504"^^xsd:string ;
+  ns1:hasName "Accumulator Invest Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296394138> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475202679>
+  ns1:hasPermId "21475202679"^^xsd:string ;
+  ns1:hasName "Multiq International Paid Subscription Shares"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295890273> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475176436>
+  ns1:hasPermId "21475176436"^^xsd:string ;
+  ns1:hasName "Action Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295898776> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589992716>
+  ns1:hasPermId "8589992716"^^xsd:string ;
+  ns1:hasName "Brabant Res Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295898130> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475286569>
+  ns1:hasPermId "21475286569"^^xsd:string ;
+  ns1:hasName "Swiss Volksbank"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295890968> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590009791>
+  ns1:hasPermId "8590009791"^^xsd:string ;
+  ns1:hasName "Fenner Group Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296361010> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475360562>
+  ns1:hasPermId "21475360562"^^xsd:string ;
+  ns1:hasName "Mercurius Common Stock Fa"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295968019> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475355784>
+  ns1:hasPermId "21475355784"^^xsd:string ;
+  ns1:hasName "Kanhym Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296318368> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589986010>
+  ns1:hasPermId "8589986010"^^xsd:string ;
+  ns1:hasName "Hawthorn Leslie Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295893994> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589980250>
+  ns1:hasPermId "8589980250"^^xsd:string ;
+  ns1:hasName "Televisn & Elect Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889098> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21654575322>
+  ns1:hasPermId "21654575322"^^xsd:string ;
+  ns1:hasName "Boskalis Westminster"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4298008210> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21654575318>
+  ns1:hasPermId "21654575318"^^xsd:string ;
+  ns1:hasName "Arcadis NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4298008210> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475269309>
+  ns1:hasPermId "21475269309"^^xsd:string ;
+  ns1:hasName "Amshoe Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295888365> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21654575321>
+  ns1:hasPermId "21654575321"^^xsd:string ;
+  ns1:hasName "Koninklijke BAM Groep NV"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4298008210> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591049680>
+  ns1:hasPermId "8591049680"^^xsd:string ;
+  ns1:hasName "Investa Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866338> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475159213>
+  ns1:hasPermId "21475159213"^^xsd:string ;
+  ns1:hasName "Colmbia Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5001152608> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475364129>
+  ns1:hasPermId "21475364129"^^xsd:string ;
+  ns1:hasName "Moresa Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296640072> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590226368>
+  ns1:hasPermId "8590226368"^^xsd:string ;
+  ns1:hasName "Bie Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866122> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590275572>
+  ns1:hasPermId "8590275572"^^xsd:string ;
+  ns1:hasName "Imperial Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5000003502> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589952312>
+  ns1:hasPermId "8589952312"^^xsd:string ;
+  ns1:hasName "Sopagri Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866845> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475297055>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-4295968025> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "NORISTAN (SAFR) Ord Shs"^^xsd:string ;
+  ns1:hasPermId "21475297055"^^xsd:string .
+
+<https://permid.org/1-21475216028>
+  ns1:hasPermId "21475216028"^^xsd:string ;
+  ns1:hasName "Cisf Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-5001106873> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8589982048>
+  ns1:hasPermId "8589982048"^^xsd:string ;
+  ns1:hasName "Cmw Group Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295898251> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475220715>
+  ns1:hasPermId "21475220715"^^xsd:string ;
+  ns1:hasName "Sanson Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4296455404> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590261110>
+  ns1:hasPermId "8590261110"^^xsd:string ;
+  ns1:hasName "Banco Progreso"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889655> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475378563>
+  ns1:hasPermId "21475378563"^^xsd:string ;
+  ns1:hasName "Nobiscum Common Stock"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866346> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591288587>
+  ns1:hasPermId "8591288587"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475419639> ;
+  ns1:hasName "Espanola del Zinc En Liquidacion RTS Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889384> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475235797>
+  ns1:hasPermId "21475235797"^^xsd:string ;
+  ns1:hasName "Regnbagen Ord Shs"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295889772> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590054163>
+  ns1:hasPermId "8590054163"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55836047279> ;
+  ns1:hasName "Jardine Strategic Holdings IDR"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295871586> ;
+  ns0:hasAssetClass <https://permid.org/1-302110> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21475012580>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-302110> ;
+  ns0:isIssuedBy <https://permid.org/1-4295895205> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns1:hasName "Standard Chartered Indian Depository Receipt"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475012581> ;
+  ns1:hasPermId "21475012580"^^xsd:string .
+
+<https://permid.org/1-21783894496>
+  ns1:hasPermId "21783894496"^^xsd:string ;
+  ns1:hasName "BNS SGE STOXX50E 3950 20 1221"^^xsd:string ;
+  ns0:isIssuedBy <https://permid.org/1-4295869810> ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21587050567>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-300100> ;
+  ns0:isIssuedBy <https://permid.org/1-4296091204> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns1:hasName "Cuotas Global Rights"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21587050568> ;
+  ns1:hasPermId "21587050567"^^xsd:string .
+
+<https://permid.org/1-21550447058>
+  ns1:hasPermId "21550447058"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21550448685> ;
+  ns1:hasName "Sanoma Corporation Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866513> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21614465469>
+  ns1:hasPermId "21614465469"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21614467858> ;
+  ns1:hasName "Revenio Group Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866557> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21752908721>
+  ns1:hasPermId "21752908721"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21752910292> ;
+  ns1:hasName "Rovio Entertainment Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-5033561328> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21563712822>
+  ns1:hasPermId "21563712822"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21563712826> ;
+  ns1:hasName "Affecto Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866451> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21612317517>
+  a ns0:Instrument ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  ns0:isIssuedBy <https://permid.org/1-4295866573> ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns1:hasName "CapMan Option Rights"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21612317674> ;
+  ns1:hasPermId "21612317517"^^xsd:string .
+
+<https://permid.org/1-21587018162>
+  ns1:hasPermId "21587018162"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21587024121> ;
+  ns1:hasName "Nokian Renkaat 2013B Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866390> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21612313546>
+  ns1:hasPermId "21612313546"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21612316059> ;
+  ns1:hasName "Nokian Renkaat Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866390> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21752908946>
+  ns1:hasPermId "21752908946"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21752915064> ;
+  ns1:hasName "Rovio Entertainment Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-5033561328> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21693149837>
+  ns1:hasPermId "21693149837"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21693152705> ;
+  ns1:hasName "CapMan Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866573> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21753887425>
+  ns1:hasPermId "21753887425"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21753896196> ;
+  ns1:hasName "Sotkamo Silver Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4298014998> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21697418884>
+  ns1:hasPermId "21697418884"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21697422071> ;
+  ns1:hasName "Revenio Group Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866557> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21652304079>
+  ns1:hasPermId "21652304079"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21652307333> ;
+  ns1:hasName "Revenio Group Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866557> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21646828945>
+  ns1:hasPermId "21646828945"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21646840215> ;
+  ns1:hasName "CapMan Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866573> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591397573>
+  ns1:hasPermId "8591397573"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55852993113> ;
+  ns1:hasName "Huhtamaki Oyj Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866419> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591395539>
+  ns1:hasPermId "8591395539"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55838830442> ;
+  ns1:hasName "Kesko 303 Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866517> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590875688>
+  ns1:hasPermId "8590875688"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475421555> ;
+  ns1:hasName "Nokian Renkaat 04C Option Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866390> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591401800>
+  ns1:hasPermId "8591401800"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55853681406> ;
+  ns1:hasName "Lassila & Tikanoja Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866322> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590976251>
+  ns1:hasPermId "8590976251"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475421567> ;
+  ns1:hasName "DIAMYD MEDICAL RT"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295890483> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591397652>
+  ns1:hasPermId "8591397652"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55838855768> ;
+  ns1:hasName "SSH Communications Security Class F Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866404> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591397581>
+  ns1:hasPermId "8591397581"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55853460199> ;
+  ns1:hasName "Cramo Option EW106 Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866393> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591397590>
+  ns1:hasPermId "8591397590"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55853684834> ;
+  ns1:hasName "Sanoma Corporation Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866513> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8590767078>
+  ns1:hasPermId "8590767078"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21475421547> ;
+  ns1:hasName "Paynova TO 7 Subscription Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295985256> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591110664>
+  ns1:hasPermId "8591110664"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55844879174> ;
+  ns1:hasName "Comptel Corporation 106 Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866522> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-21498197444>
+  ns1:hasPermId "21498197444"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-21498197445> ;
+  ns1:hasName "Alma Media Subscription Option"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866434> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .
+
+<https://permid.org/1-8591404408>
+  ns1:hasPermId "8591404408"^^xsd:string ;
+  ns0:hasPrimaryQuote <https://permid.org/1-55859256594> ;
+  ns1:hasName "Alma Media Corp Rights"^^xsd:string ;
+  ns0:hasInstrumentStatus ns0:instrumentStatusInActive ;
+  ns0:isIssuedBy <https://permid.org/1-4295866434> ;
+  ns0:hasAssetClass <https://permid.org/1-302545> ;
+  a ns0:Instrument .

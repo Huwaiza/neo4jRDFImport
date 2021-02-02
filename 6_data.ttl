@@ -1,0 +1,1842 @@
+@prefix ns0: <http://permid.org/ontology/common/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns1: <http://permid.org/ontology/person/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://permid.org/1-10010140>
+  ns0:hasPermId "10010140"^^xsd:string ;
+  ns1:rank "14"^^xsd:string ;
+  skos:prefLabel "Non-Executive Vice Chairman"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10010134>
+  ns0:hasPermId "10010134"^^xsd:string ;
+  ns1:rank "82"^^xsd:string ;
+  skos:prefLabel "Director"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10010139>
+  ns0:hasPermId "10010139"^^xsd:string ;
+  ns1:rank "85"^^xsd:string ;
+  skos:prefLabel "Non-Executive Independent Director"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10010143>
+  ns0:hasPermId "10010143"^^xsd:string ;
+  ns1:rank "67"^^xsd:string ;
+  skos:prefLabel "Executive Director"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10010137>
+  ns0:hasPermId "10010137"^^xsd:string ;
+  ns1:rank "5"^^xsd:string ;
+  skos:prefLabel "Non-Executive Chairman"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10010141>
+  ns0:hasPermId "10010141"^^xsd:string ;
+  ns1:rank "86"^^xsd:string ;
+  skos:prefLabel "Supervisory Board"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10010135>
+  a ns1:DirectorRole ;
+  skos:prefLabel "Independent Director"^^xsd:string ;
+  ns1:rank "84"^^xsd:string ;
+  ns0:hasPermId "10010135"^^xsd:string .
+
+<https://permid.org/1-10010138>
+  ns0:hasPermId "10010138"^^xsd:string ;
+  ns1:rank "83"^^xsd:string ;
+  skos:prefLabel "Non-Executive Director"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10010142>
+  ns0:hasPermId "10010142"^^xsd:string ;
+  ns1:rank "87"^^xsd:string ;
+  skos:prefLabel "Trustee"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10010136>
+  ns0:hasPermId "10010136"^^xsd:string ;
+  ns1:rank "81"^^xsd:string ;
+  skos:prefLabel "Lead Director"^^xsd:string ;
+  a ns1:DirectorRole .
+
+<https://permid.org/1-10011900>
+  ns0:hasPermId "10011900"^^xsd:string ;
+  skos:prefLabel "Associate of Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011906>
+  ns0:hasPermId "10011906"^^xsd:string ;
+  skos:prefLabel "Bachelor of Commerce"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011897>
+  ns0:hasPermId "10011897"^^xsd:string ;
+  skos:prefLabel "Associate of Arts"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011924>
+  ns0:hasPermId "10011924"^^xsd:string ;
+  skos:prefLabel "Master of Education"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011929>
+  ns0:hasPermId "10011929"^^xsd:string ;
+  skos:prefLabel "Master of Philosophy"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010163>
+  ns0:hasPermId "10010163"^^xsd:string ;
+  skos:prefLabel "Master of Engineering"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011913>
+  ns0:hasPermId "10011913"^^xsd:string ;
+  skos:prefLabel "Bachelor of Technology"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011928>
+  ns0:hasPermId "10011928"^^xsd:string ;
+  skos:prefLabel "Master of Medicine"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010162>
+  ns0:hasPermId "10010162"^^xsd:string ;
+  skos:prefLabel "Doctor of Medicine"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011903>
+  ns0:hasPermId "10011903"^^xsd:string ;
+  skos:prefLabel "Bachelor of Business Studies"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011931>
+  ns0:hasPermId "10011931"^^xsd:string ;
+  skos:prefLabel "Doctor of Philosophy"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010149>
+  ns0:hasPermId "10010149"^^xsd:string ;
+  skos:prefLabel "Bachelor of Arts"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011918>
+  ns0:hasPermId "10011918"^^xsd:string ;
+  skos:prefLabel "Investment Counselor"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010152>
+  ns0:hasPermId "10010152"^^xsd:string ;
+  skos:prefLabel "Bachelor of Fine Arts"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011921>
+  ns0:hasPermId "10011921"^^xsd:string ;
+  skos:prefLabel "Masters of Business Management"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011927>
+  ns0:hasPermId "10011927"^^xsd:string ;
+  skos:prefLabel "Master of Music"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010167>
+  ns0:hasPermId "10010167"^^xsd:string ;
+  skos:prefLabel "Doctorate in Philosophy"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011930>
+  ns0:hasPermId "10011930"^^xsd:string ;
+  skos:prefLabel "Master of Social Work"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011899>
+  ns0:hasPermId "10011899"^^xsd:string ;
+  skos:prefLabel "Association for Investment Management & Research"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011917>
+  ns0:hasPermId "10011917"^^xsd:string ;
+  skos:prefLabel "Honour's Bachelor's of Business Administration"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010157>
+  ns0:hasPermId "10010157"^^xsd:string ;
+  skos:prefLabel "Bachelor of Law"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011920>
+  ns0:hasPermId "10011920"^^xsd:string ;
+  skos:prefLabel "Bachelor of Medicine and Bachelor of Surgery"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011907>
+  a ns1:AcademicDegree ;
+  skos:prefLabel "Bachelor of Economics"^^xsd:string ;
+  ns0:hasPermId "10011907"^^xsd:string .
+
+<https://permid.org/1-10011910>
+  ns0:hasPermId "10011910"^^xsd:string ;
+  skos:prefLabel "Bachelor of Music"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010156>
+  ns0:hasPermId "10010156"^^xsd:string ;
+  skos:prefLabel "Doctor of Law (Juris Doctor)"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010165>
+  ns0:hasPermId "10010165"^^xsd:string ;
+  skos:prefLabel "Master of Public Administration"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010146>
+  ns0:hasPermId "10010146"^^xsd:string ;
+  skos:prefLabel "Associate"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011915>
+  ns0:hasPermId "10011915"^^xsd:string ;
+  skos:prefLabel "Doctor of Education"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010164>
+  ns0:hasPermId "10010164"^^xsd:string ;
+  skos:prefLabel "Master of Fine Arts"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011905>
+  ns0:hasPermId "10011905"^^xsd:string ;
+  skos:prefLabel "Bachelor of Business Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010154>
+  ns0:hasPermId "10010154"^^xsd:string ;
+  skos:prefLabel "Bachelor of Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011923>
+  ns0:hasPermId "10011923"^^xsd:string ;
+  skos:prefLabel "Master of Economics"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010169>
+  ns0:hasPermId "10010169"^^xsd:string ;
+  skos:prefLabel "SM"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011904>
+  ns0:hasPermId "10011904"^^xsd:string ;
+  skos:prefLabel "Bachelor of Business"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011919>
+  ns0:hasPermId "10011919"^^xsd:string ;
+  skos:prefLabel "Master of Applied Finance"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010153>
+  ns0:hasPermId "10010153"^^xsd:string ;
+  skos:prefLabel "Bachelor of Public Administration"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010168>
+  ns0:hasPermId "10010168"^^xsd:string ;
+  skos:prefLabel "PMD"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011909>
+  ns0:hasPermId "10011909"^^xsd:string ;
+  skos:prefLabel "Bachelor of General Studies"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011912>
+  a ns1:AcademicDegree ;
+  skos:prefLabel "Bachelor of Social Science"^^xsd:string ;
+  ns0:hasPermId "10011912"^^xsd:string .
+
+<https://permid.org/1-10010158>
+  ns0:hasPermId "10010158"^^xsd:string ;
+  skos:prefLabel "Master of Law"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011902>
+  ns0:hasPermId "10011902"^^xsd:string ;
+  skos:prefLabel "Bachelor of Business Management"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010161>
+  ns0:hasPermId "10010161"^^xsd:string ;
+  skos:prefLabel "Master of Business Administration"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10016124>
+  ns0:hasPermId "10016124"^^xsd:string ;
+  skos:prefLabel "DBA"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011908>
+  ns0:hasPermId "10011908"^^xsd:string ;
+  skos:prefLabel "Bachelor of Economic Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010151>
+  ns0:hasPermId "10010151"^^xsd:string ;
+  skos:prefLabel "Bachelor of Engineering"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011926>
+  ns0:hasPermId "10011926"^^xsd:string ;
+  skos:prefLabel "Master of Engineering Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011901>
+  ns0:hasPermId "10011901"^^xsd:string ;
+  skos:prefLabel "Bachelor of Applied Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010147>
+  ns0:hasPermId "10010147"^^xsd:string ;
+  skos:prefLabel "AB"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011916>
+  ns0:hasPermId "10011916"^^xsd:string ;
+  skos:prefLabel "Esquire -  Law Degree"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010150>
+  ns0:hasPermId "10010150"^^xsd:string ;
+  skos:prefLabel "Bachelor of Business Administration"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011925>
+  ns0:hasPermId "10011925"^^xsd:string ;
+  skos:prefLabel "Master of Engineering"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011914>
+  ns0:hasPermId "10011914"^^xsd:string ;
+  skos:prefLabel "Certified Public Accountant"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010160>
+  ns0:hasPermId "10010160"^^xsd:string ;
+  skos:prefLabel "Master of Arts"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010159>
+  ns0:hasPermId "10010159"^^xsd:string ;
+  skos:prefLabel "Master's Degree"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010148>
+  a ns1:AcademicDegree ;
+  skos:prefLabel "Bachelor's Degree"^^xsd:string ;
+  ns0:hasPermId "10010148"^^xsd:string .
+
+<https://permid.org/1-10010166>
+  ns0:hasPermId "10010166"^^xsd:string ;
+  skos:prefLabel "Master of Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010155>
+  ns0:hasPermId "10010155"^^xsd:string ;
+  skos:prefLabel "Doctorate of Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011898>
+  ns0:hasPermId "10011898"^^xsd:string ;
+  skos:prefLabel "Associate of Applied Science"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011922>
+  ns0:hasPermId "10011922"^^xsd:string ;
+  skos:prefLabel "Master of Commerce"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10011911>
+  ns0:hasPermId "10011911"^^xsd:string ;
+  skos:prefLabel "Bachelor of Management Studies"^^xsd:string ;
+  a ns1:AcademicDegree .
+
+<https://permid.org/1-10010109>
+  ns0:hasPermId "10010109"^^xsd:string ;
+  ns1:rank "60"^^xsd:string ;
+  skos:prefLabel "Managing Executive Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010094>
+  ns0:hasPermId "10010094"^^xsd:string ;
+  ns1:rank "71"^^xsd:string ;
+  skos:prefLabel "Director of Investor Relations"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355595>
+  ns0:hasPermId "1000355595"^^xsd:string ;
+  ns1:rank "20"^^xsd:string ;
+  skos:prefLabel "General Partner"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010075>
+  ns0:hasPermId "10010075"^^xsd:string ;
+  ns1:rank "23"^^xsd:string ;
+  skos:prefLabel "Chief Financial Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010121>
+  ns0:hasPermId "10010121"^^xsd:string ;
+  ns1:rank "30"^^xsd:string ;
+  skos:prefLabel "Senior Vice President - Finance"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010127>
+  ns0:hasPermId "10010127"^^xsd:string ;
+  ns1:rank "41"^^xsd:string ;
+  skos:prefLabel "Vice President - Finance"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010130>
+  ns0:hasPermId "10010130"^^xsd:string ;
+  ns1:rank "43"^^xsd:string ;
+  skos:prefLabel "Vice President"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010065>
+  ns0:hasPermId "10010065"^^xsd:string ;
+  ns1:rank "80"^^xsd:string ;
+  skos:prefLabel "Assistant Secretary"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010083>
+  ns0:hasPermId "10010083"^^xsd:string ;
+  ns1:rank "7"^^xsd:string ;
+  skos:prefLabel "Co-President"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355602>
+  ns0:hasPermId "1000355602"^^xsd:string ;
+  ns1:rank "55"^^xsd:string ;
+  skos:prefLabel "Senior Director"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010125>
+  ns0:hasPermId "10010125"^^xsd:string ;
+  ns1:rank "46"^^xsd:string ;
+  skos:prefLabel "Vice President - Business Development"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010088>
+  ns0:hasPermId "10010088"^^xsd:string ;
+  ns1:rank "32"^^xsd:string ;
+  skos:prefLabel "Chief Technology Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010106>
+  ns0:hasPermId "10010106"^^xsd:string ;
+  ns1:rank "57"^^xsd:string ;
+  skos:prefLabel "General Manager"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010115>
+  ns0:hasPermId "10010115"^^xsd:string ;
+  ns1:rank "6"^^xsd:string ;
+  skos:prefLabel "President"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010072>
+  ns0:hasPermId "10010072"^^xsd:string ;
+  ns1:rank "39"^^xsd:string ;
+  skos:prefLabel "Chief Compliance Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010090>
+  ns0:hasPermId "10010090"^^xsd:string ;
+  ns1:rank "10"^^xsd:string ;
+  skos:prefLabel "Deputy Chief Executive Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355591>
+  ns0:hasPermId "1000355591"^^xsd:string ;
+  ns1:rank "16"^^xsd:string ;
+  skos:prefLabel "Co-Founder"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355597>
+  ns0:hasPermId "1000355597"^^xsd:string ;
+  ns1:rank "49"^^xsd:string ;
+  skos:prefLabel "Managing Principal"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010071>
+  ns0:hasPermId "10010071"^^xsd:string ;
+  ns1:rank "2"^^xsd:string ;
+  skos:prefLabel "Co-Chairman"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010104>
+  ns0:hasPermId "10010104"^^xsd:string ;
+  ns1:rank "51"^^xsd:string ;
+  skos:prefLabel "General Counsel"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010086>
+  ns0:hasPermId "10010086"^^xsd:string ;
+  ns1:rank "88"^^xsd:string ;
+  skos:prefLabel "Chairman of the Shariah Supervisory Board"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355605>
+  ns0:hasPermId "1000355605"^^xsd:string ;
+  ns1:rank "22"^^xsd:string ;
+  skos:prefLabel "Venture Partner"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010067>
+  ns0:hasPermId "10010067"^^xsd:string ;
+  ns1:rank "64"^^xsd:string ;
+  skos:prefLabel "Assistant Treasurer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010119>
+  a ns1:OfficerRole ;
+  skos:prefLabel "Senior Partner"^^xsd:string ;
+  ns1:rank "19"^^xsd:string ;
+  ns0:hasPermId "10010119"^^xsd:string .
+
+<https://permid.org/1-10010076>
+  ns0:hasPermId "10010076"^^xsd:string ;
+  ns1:rank "1"^^xsd:string ;
+  skos:prefLabel "Chairman"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355604>
+  ns0:hasPermId "1000355604"^^xsd:string ;
+  ns1:rank "47"^^xsd:string ;
+  skos:prefLabel "Senior Principal"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010131>
+  ns0:hasPermId "10010131"^^xsd:string ;
+  ns1:rank "44"^^xsd:string ;
+  skos:prefLabel "Vice President - Research & Development"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010108>
+  ns0:hasPermId "10010108"^^xsd:string ;
+  ns1:rank "53"^^xsd:string ;
+  skos:prefLabel "Managing Director"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010084>
+  ns0:hasPermId "10010084"^^xsd:string ;
+  ns1:rank "40"^^xsd:string ;
+  skos:prefLabel "Chief Risk Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355603>
+  ns0:hasPermId "1000355603"^^xsd:string ;
+  ns1:rank "61"^^xsd:string ;
+  skos:prefLabel "Senior Executive Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010099>
+  ns0:hasPermId "10010099"^^xsd:string ;
+  ns1:rank "29"^^xsd:string ;
+  skos:prefLabel "Executive Vice President"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010117>
+  ns0:hasPermId "10010117"^^xsd:string ;
+  ns1:rank "52"^^xsd:string ;
+  skos:prefLabel "Senior Managing Director"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010111>
+  ns0:hasPermId "10010111"^^xsd:string ;
+  ns1:rank "77"^^xsd:string ;
+  skos:prefLabel "Management Board"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355594>
+  ns0:hasPermId "1000355594"^^xsd:string ;
+  ns1:rank "15"^^xsd:string ;
+  skos:prefLabel "Founder"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010126>
+  ns0:hasPermId "10010126"^^xsd:string ;
+  ns1:rank "11"^^xsd:string ;
+  skos:prefLabel "Vice Chairman"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355593>
+  a ns1:OfficerRole ;
+  skos:prefLabel "Director General"^^xsd:string ;
+  ns1:rank "56"^^xsd:string ;
+  ns0:hasPermId "1000355593"^^xsd:string .
+
+<https://permid.org/1-10010116>
+  ns0:hasPermId "10010116"^^xsd:string ;
+  ns1:rank "79"^^xsd:string ;
+  skos:prefLabel "Secretary"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010092>
+  ns0:hasPermId "10010092"^^xsd:string ;
+  ns1:rank "58"^^xsd:string ;
+  skos:prefLabel "Deputy General Manager"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010098>
+  ns0:hasPermId "10010098"^^xsd:string ;
+  ns1:rank "28"^^xsd:string ;
+  skos:prefLabel "Executive Vice President - Finance"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010073>
+  ns0:hasPermId "10010073"^^xsd:string ;
+  ns1:rank "8"^^xsd:string ;
+  skos:prefLabel "Chief Executive Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010069>
+  ns0:hasPermId "10010069"^^xsd:string ;
+  ns1:rank "33"^^xsd:string ;
+  skos:prefLabel "Chief Accounting Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355598>
+  ns0:hasPermId "1000355598"^^xsd:string ;
+  ns1:rank "75"^^xsd:string ;
+  skos:prefLabel "Operating Partner"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010105>
+  ns0:hasPermId "10010105"^^xsd:string ;
+  ns1:rank "65"^^xsd:string ;
+  skos:prefLabel "General Director"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10011320>
+  ns0:hasPermId "10011320"^^xsd:string ;
+  ns1:rank "67"^^xsd:string ;
+  skos:prefLabel "Executive Director"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010114>
+  ns0:hasPermId "10010114"^^xsd:string ;
+  ns1:rank "21"^^xsd:string ;
+  skos:prefLabel "Partner"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010096>
+  ns0:hasPermId "10010096"^^xsd:string ;
+  ns1:rank "69"^^xsd:string ;
+  skos:prefLabel "Director of Marketing"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010080>
+  ns0:hasPermId "10010080"^^xsd:string ;
+  ns1:rank "37"^^xsd:string ;
+  skos:prefLabel "Chief Marketing Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010122>
+  ns0:hasPermId "10010122"^^xsd:string ;
+  ns1:rank "31"^^xsd:string ;
+  skos:prefLabel "Senior Vice President"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10018593>
+  ns0:hasPermId "10018593"^^xsd:string ;
+  ns1:rank "96"^^xsd:string ;
+  skos:prefLabel "Legal Representative"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010103>
+  ns0:hasPermId "10010103"^^xsd:string ;
+  ns1:rank "24"^^xsd:string ;
+  skos:prefLabel "Finance Director"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010077>
+  ns0:hasPermId "10010077"^^xsd:string ;
+  ns1:rank "35"^^xsd:string ;
+  skos:prefLabel "Chief Investment Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010081>
+  ns0:hasPermId "10010081"^^xsd:string ;
+  ns1:rank "94"^^xsd:string ;
+  skos:prefLabel "Contact Person"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010123>
+  ns0:hasPermId "10010123"^^xsd:string ;
+  ns1:rank "63"^^xsd:string ;
+  skos:prefLabel "Treasurer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010112>
+  ns0:hasPermId "10010112"^^xsd:string ;
+  ns1:rank "90"^^xsd:string ;
+  skos:prefLabel "Member of the Shariah Supervisory Board"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010101>
+  ns0:hasPermId "10010101"^^xsd:string ;
+  ns1:rank "74"^^xsd:string ;
+  skos:prefLabel "Executive Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010078>
+  ns0:hasPermId "10010078"^^xsd:string ;
+  ns1:rank "36"^^xsd:string ;
+  skos:prefLabel "Chief Information Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010082>
+  ns0:hasPermId "10010082"^^xsd:string ;
+  ns1:rank "26"^^xsd:string ;
+  skos:prefLabel "Chief Operating Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010124>
+  ns0:hasPermId "10010124"^^xsd:string ;
+  ns1:rank "45"^^xsd:string ;
+  skos:prefLabel "Vice President - Administration"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355590>
+  ns0:hasPermId "1000355590"^^xsd:string ;
+  ns1:rank "73"^^xsd:string ;
+  skos:prefLabel "Associate"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010091>
+  a ns1:OfficerRole ;
+  skos:prefLabel "Deputy General Director"^^xsd:string ;
+  ns1:rank "66"^^xsd:string ;
+  ns0:hasPermId "10010091"^^xsd:string .
+
+<https://permid.org/1-10010100>
+  ns0:hasPermId "10010100"^^xsd:string ;
+  ns1:rank "78"^^xsd:string ;
+  skos:prefLabel "Executive Board"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010120>
+  ns0:hasPermId "10010120"^^xsd:string ;
+  ns1:rank "92"^^xsd:string ;
+  skos:prefLabel "Secretary to the Shariah Supervisory Board"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010066>
+  ns0:hasPermId "10010066"^^xsd:string ;
+  ns1:rank "91"^^xsd:string ;
+  skos:prefLabel "Advisor to the Shariah Supervisory Board"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010118>
+  ns0:hasPermId "10010118"^^xsd:string ;
+  ns1:rank "59"^^xsd:string ;
+  skos:prefLabel "Senior Managing Executive Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010102>
+  ns0:hasPermId "10010102"^^xsd:string ;
+  ns1:rank "18"^^xsd:string ;
+  skos:prefLabel "Executive Partner"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010093>
+  ns0:hasPermId "10010093"^^xsd:string ;
+  ns1:rank "70"^^xsd:string ;
+  skos:prefLabel "Director of Human Resources"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010074>
+  ns0:hasPermId "10010074"^^xsd:string ;
+  ns1:rank "25"^^xsd:string ;
+  skos:prefLabel "Corporate Executive"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010107>
+  ns0:hasPermId "10010107"^^xsd:string ;
+  ns1:rank "93"^^xsd:string ;
+  skos:prefLabel "IR Contact"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010089>
+  ns0:hasPermId "10010089"^^xsd:string ;
+  ns1:rank "62"^^xsd:string ;
+  skos:prefLabel "Controller"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010110>
+  ns0:hasPermId "10010110"^^xsd:string ;
+  ns1:rank "17"^^xsd:string ;
+  skos:prefLabel "Managing Partner"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355599>
+  ns0:hasPermId "1000355599"^^xsd:string ;
+  ns1:rank "95"^^xsd:string ;
+  skos:prefLabel "Primary Contact"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010079>
+  ns0:hasPermId "10010079"^^xsd:string ;
+  ns1:rank "4"^^xsd:string ;
+  skos:prefLabel "Chairman - Management"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355601>
+  ns0:hasPermId "1000355601"^^xsd:string ;
+  ns1:rank "72"^^xsd:string ;
+  skos:prefLabel "Senior Associate"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355592>
+  ns0:hasPermId "1000355592"^^xsd:string ;
+  ns1:rank "27"^^xsd:string ;
+  skos:prefLabel "Chief Human Resource Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010097>
+  ns0:hasPermId "10010097"^^xsd:string ;
+  ns1:rank "68"^^xsd:string ;
+  skos:prefLabel "Director of Sales"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010087>
+  ns0:hasPermId "10010087"^^xsd:string ;
+  ns1:rank "3"^^xsd:string ;
+  skos:prefLabel "Chairman - Supervisory"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355600>
+  ns0:hasPermId "1000355600"^^xsd:string ;
+  ns1:rank "48"^^xsd:string ;
+  skos:prefLabel "Principal"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010133>
+  ns0:hasPermId "10010133"^^xsd:string ;
+  ns1:rank "12"^^xsd:string ;
+  skos:prefLabel "Vice Chairman - Supervisory"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010068>
+  ns0:hasPermId "10010068"^^xsd:string ;
+  ns1:rank "34"^^xsd:string ;
+  skos:prefLabel "Chief Administrative Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010129>
+  ns0:hasPermId "10010129"^^xsd:string ;
+  ns1:rank "42"^^xsd:string ;
+  skos:prefLabel "Vice President - Operations"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010132>
+  ns0:hasPermId "10010132"^^xsd:string ;
+  ns1:rank "89"^^xsd:string ;
+  skos:prefLabel "Vice Chairman of the Shariah Supervisory Board"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010095>
+  ns0:hasPermId "10010095"^^xsd:string ;
+  ns1:rank "54"^^xsd:string ;
+  skos:prefLabel "Deputy Managing Director"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010113>
+  ns0:hasPermId "10010113"^^xsd:string ;
+  ns1:rank "76"^^xsd:string ;
+  skos:prefLabel "Other"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-1000355596>
+  a ns1:OfficerRole ;
+  skos:prefLabel "Investment Manager"^^xsd:string ;
+  ns1:rank "50"^^xsd:string ;
+  ns0:hasPermId "1000355596"^^xsd:string .
+
+<https://permid.org/1-10010070>
+  ns0:hasPermId "10010070"^^xsd:string ;
+  ns1:rank "9"^^xsd:string ;
+  skos:prefLabel "Co-Chief Executive Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010128>
+  ns0:hasPermId "10010128"^^xsd:string ;
+  ns1:rank "13"^^xsd:string ;
+  skos:prefLabel "Vice Chairman - Management"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10010085>
+  ns0:hasPermId "10010085"^^xsd:string ;
+  ns1:rank "38"^^xsd:string ;
+  skos:prefLabel "Chief Scientific Officer"^^xsd:string ;
+  a ns1:OfficerRole .
+
+<https://permid.org/1-10017746>
+  ns0:hasPermId "10017746"^^xsd:string ;
+  skos:prefLabel "International Politics and Journalism"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015526>
+  ns0:hasPermId "10015526"^^xsd:string ;
+  skos:prefLabel "Physics & Mathematics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012052>
+  ns0:hasPermId "10012052"^^xsd:string ;
+  skos:prefLabel "Actuarial Mathematics and Statistics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10018257>
+  ns0:hasPermId "10018257"^^xsd:string ;
+  skos:prefLabel "Political Science in International Relations"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017887>
+  ns0:hasPermId "10017887"^^xsd:string ;
+  skos:prefLabel "Management and Organization"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017933>
+  ns0:hasPermId "10017933"^^xsd:string ;
+  skos:prefLabel "Marketing and Entrepreneurship"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10016609>
+  ns0:hasPermId "10016609"^^xsd:string ;
+  skos:prefLabel "Applied Quantitative Economics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10016755>
+  ns0:hasPermId "10016755"^^xsd:string ;
+  skos:prefLabel "Business Decision Analysis"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10018326>
+  ns0:hasPermId "10018326"^^xsd:string ;
+  skos:prefLabel "Public Management and Finance"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015719>
+  ns0:hasPermId "10015719"^^xsd:string ;
+  skos:prefLabel "Public Policy and Finance"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10018202>
+  ns0:hasPermId "10018202"^^xsd:string ;
+  skos:prefLabel "Physics and Environmental Science"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012992>
+  ns0:hasPermId "10012992"^^xsd:string ;
+  skos:prefLabel "Computing and Information System"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013441>
+  ns0:hasPermId "10013441"^^xsd:string ;
+  skos:prefLabel "Economics, Finance and Statistics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015827>
+  ns0:hasPermId "10015827"^^xsd:string ;
+  skos:prefLabel "Russian History"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015883>
+  ns0:hasPermId "10015883"^^xsd:string ;
+  skos:prefLabel "Social and Political Sciences"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015548>
+  ns0:hasPermId "10015548"^^xsd:string ;
+  skos:prefLabel "Physiological Psychology"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10011051>
+  a ns1:Major ;
+  skos:prefLabel "Clinical Science"^^xsd:string ;
+  ns0:hasPermId "10011051"^^xsd:string .
+
+<https://permid.org/1-10015074>
+  ns0:hasPermId "10015074"^^xsd:string ;
+  skos:prefLabel "Marketing and Mass Communications"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013087>
+  ns0:hasPermId "10013087"^^xsd:string ;
+  skos:prefLabel "East Asian Languages and Cultural Studies"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012981>
+  ns0:hasPermId "10012981"^^xsd:string ;
+  skos:prefLabel "Computer Sciences"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10010346>
+  ns0:hasPermId "10010346"^^xsd:string ;
+  skos:prefLabel "Operations Research"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012082>
+  ns0:hasPermId "10012082"^^xsd:string ;
+  skos:prefLabel "Administrative Science"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10014651>
+  ns0:hasPermId "10014651"^^xsd:string ;
+  skos:prefLabel "International Economic Relations, Middle Eastern A"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012044>
+  ns0:hasPermId "10012044"^^xsd:string ;
+  skos:prefLabel "Acctng & Finance"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012319>
+  ns0:hasPermId "10012319"^^xsd:string ;
+  skos:prefLabel "Banking and Corporate Finance"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012161>
+  ns0:hasPermId "10012161"^^xsd:string ;
+  skos:prefLabel "Analytic Finance and Statistics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012653>
+  ns0:hasPermId "10012653"^^xsd:string ;
+  skos:prefLabel "Business Economics and Organizational Behavior and"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10018139>
+  ns0:hasPermId "10018139"^^xsd:string ;
+  skos:prefLabel "Nonviolent Conflict and Change"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015142>
+  ns0:hasPermId "10015142"^^xsd:string ;
+  skos:prefLabel "Mathematics & Management Science"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012829>
+  ns0:hasPermId "10012829"^^xsd:string ;
+  skos:prefLabel "Civil Engineering, Operations Research and Econom"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10010737>
+  ns0:hasPermId "10010737"^^xsd:string ;
+  skos:prefLabel "Cell Biology and Immunology"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017509>
+  ns0:hasPermId "10017509"^^xsd:string ;
+  skos:prefLabel "German and Management"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013542>
+  ns0:hasPermId "10013542"^^xsd:string ;
+  skos:prefLabel "Electro-Mechanics Engineering"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10014620>
+  ns0:hasPermId "10014620"^^xsd:string ;
+  skos:prefLabel "International Business and Management"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015066>
+  ns0:hasPermId "10015066"^^xsd:string ;
+  skos:prefLabel "Marketing and Design"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10012713>
+  ns0:hasPermId "10012713"^^xsd:string ;
+  skos:prefLabel "Business Studies and European Studies"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015202>
+  ns0:hasPermId "10015202"^^xsd:string ;
+  skos:prefLabel "Mathematics, Economics and Computer Programming"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10010314>
+  ns0:hasPermId "10010314"^^xsd:string ;
+  skos:prefLabel "Management"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017678>
+  a ns1:Major ;
+  skos:prefLabel "International Affairs, International Law and Economics"^^xsd:string ;
+  ns0:hasPermId "10017678"^^xsd:string .
+
+<https://permid.org/1-10010196>
+  ns0:hasPermId "10010196"^^xsd:string ;
+  skos:prefLabel "Biomedical Engineering"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015820>
+  ns0:hasPermId "10015820"^^xsd:string ;
+  skos:prefLabel "Russian and French"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015736>
+  ns0:hasPermId "10015736"^^xsd:string ;
+  skos:prefLabel "Quantitative & Computational Finance"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017320>
+  ns0:hasPermId "10017320"^^xsd:string ;
+  skos:prefLabel "Experimental Nuclear Physics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10016913>
+  ns0:hasPermId "10016913"^^xsd:string ;
+  skos:prefLabel "Computational Chemistry"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015683>
+  ns0:hasPermId "10015683"^^xsd:string ;
+  skos:prefLabel "Psychology and German Literature"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10014709>
+  ns0:hasPermId "10014709"^^xsd:string ;
+  skos:prefLabel "International Monetary and Credit Economics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017220>
+  ns0:hasPermId "10017220"^^xsd:string ;
+  skos:prefLabel "Engineering and Manufacturing"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10016662>
+  ns0:hasPermId "10016662"^^xsd:string ;
+  skos:prefLabel "Biochemistry and Computer Science"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015769>
+  ns0:hasPermId "10015769"^^xsd:string ;
+  skos:prefLabel "Radio and Television Communication and Marketing"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017901>
+  ns0:hasPermId "10017901"^^xsd:string ;
+  skos:prefLabel "Management Services"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017647>
+  ns0:hasPermId "10017647"^^xsd:string ;
+  skos:prefLabel "Information Technology and Telecommunications"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013109>
+  ns0:hasPermId "10013109"^^xsd:string ;
+  skos:prefLabel "Economcis"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017315>
+  ns0:hasPermId "10017315"^^xsd:string ;
+  skos:prefLabel "Evaluation and Financial Engineering"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015251>
+  ns0:hasPermId "10015251"^^xsd:string ;
+  skos:prefLabel "Mechanics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10010883>
+  ns0:hasPermId "10010883"^^xsd:string ;
+  skos:prefLabel "Forest Industry"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013254>
+  ns0:hasPermId "10013254"^^xsd:string ;
+  skos:prefLabel "Economics and Entrepreneurial Finance"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013712>
+  ns0:hasPermId "10013712"^^xsd:string ;
+  skos:prefLabel "Entrepreneurship"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013225>
+  ns0:hasPermId "10013225"^^xsd:string ;
+  skos:prefLabel "Economics and Chemical Engineering"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015686>
+  ns0:hasPermId "10015686"^^xsd:string ;
+  skos:prefLabel "Psychology and Philosophy"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10014328>
+  ns0:hasPermId "10014328"^^xsd:string ;
+  skos:prefLabel "Government Administration"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10014049>
+  ns0:hasPermId "10014049"^^xsd:string ;
+  skos:prefLabel "Finance, Accounting and Marketing"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015846>
+  ns0:hasPermId "10015846"^^xsd:string ;
+  skos:prefLabel "Science in Economics and Finance"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10010744>
+  ns0:hasPermId "10010744"^^xsd:string ;
+  skos:prefLabel "Marketing Finance Quantitative Methods"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10011038>
+  ns0:hasPermId "10011038"^^xsd:string ;
+  skos:prefLabel "Polymerics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017984>
+  ns0:hasPermId "10017984"^^xsd:string ;
+  skos:prefLabel "Mathematics and History"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10017748>
+  ns0:hasPermId "10017748"^^xsd:string ;
+  skos:prefLabel "International Public Finance and Trade"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10014066>
+  ns0:hasPermId "10014066"^^xsd:string ;
+  skos:prefLabel "Finance, Economics & Accounting"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10016610>
+  ns0:hasPermId "10016610"^^xsd:string ;
+  skos:prefLabel "Applied Science and Chemical"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10016015>
+  ns0:hasPermId "10016015"^^xsd:string ;
+  skos:prefLabel "Technological Economics"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10014406>
+  ns0:hasPermId "10014406"^^xsd:string ;
+  skos:prefLabel "History and Religion"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10018011>
+  ns0:hasPermId "10018011"^^xsd:string ;
+  skos:prefLabel "Mechanical Engineering and Commerce"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013157>
+  ns0:hasPermId "10013157"^^xsd:string ;
+  skos:prefLabel "Economics - Accounting/Auditing"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10013597>
+  ns0:hasPermId "10013597"^^xsd:string ;
+  skos:prefLabel "Engineering and Management Studies"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10011074>
+  ns0:hasPermId "10011074"^^xsd:string ;
+  skos:prefLabel "Geography and Computer Science"^^xsd:string ;
+  a ns1:Major .
+
+<https://permid.org/1-10015422>
+  a ns1:Major ;
+  skos:prefLabel "Operational Research and Econometrics"^^xsd:string ;
+  ns0:hasPermId "10015422"^^xsd:string .
+
+<https://permid.org/2-38a4de80696cf77131ac44b7eeb9d8f20847df9dc0aa0ec37e5d4b77f922463e>
+  ns0:hasPermId "2-38a4de80696cf77131ac44b7eeb9d8f20847df9dc0aa0ec37e5d4b77f922463e"^^xsd:string ;
+  ns0:from "2010-07-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295875850> ;
+  ns1:hasReportedTitle "Chief Executive Officer, Executive Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413915464> ;
+  ns1:hasPositionType <https://permid.org/1-10010143> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-b617370c7330d7989ee0125d931f4fcac7e677224b95c34f4c497538a954683f>
+  ns0:hasPermId "2-b617370c7330d7989ee0125d931f4fcac7e677224b95c34f4c497538a954683f"^^xsd:string ;
+  ns0:from "2009-02-23T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295891074> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413917198> ;
+  ns0:to "2012-11-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-3e6c979ca208fba95818182485b101433b4b38807d3f90842642991f9976482d>
+  ns0:hasPermId "2-3e6c979ca208fba95818182485b101433b4b38807d3f90842642991f9976482d"^^xsd:string ;
+  ns0:from "2006-01-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295862011> ;
+  ns1:hasReportedTitle "Chairman of the Board, President, Chief Executive Officer"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413156725> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-97ec21df0d8fe443e4fe146ff8c57436aabb93786ddb3501df6621dc48d2292f>
+  ns0:hasPermId "2-97ec21df0d8fe443e4fe146ff8c57436aabb93786ddb3501df6621dc48d2292f"^^xsd:string ;
+  ns0:from "2014-12-15T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295858562> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34418300165> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-372bf99bbbf1be93ebb054ab45149c722687dd68e494b94a0aa60f6cf4d4181c>
+  a ns1:Directorship ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  ns1:hasHolder <https://permid.org/1-34417661687> ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296691696> ;
+  ns0:hasPermId "2-372bf99bbbf1be93ebb054ab45149c722687dd68e494b94a0aa60f6cf4d4181c"^^xsd:string .
+
+<https://permid.org/2-d4a1048232754f2973eb7ec32e82e7abd64b5d6a5407ef44a5e73f6322d044b6>
+  ns0:hasPermId "2-d4a1048232754f2973eb7ec32e82e7abd64b5d6a5407ef44a5e73f6322d044b6"^^xsd:string ;
+  ns0:from "2009-05-06T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295860442> ;
+  ns1:hasReportedTitle "Executive Chairman of the Board"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413295468> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-a736a342acedd7c49816dc133cbcf4e9cc8c64fff5b1c08e8a0542afdeb0d30e>
+  ns0:hasPermId "2-a736a342acedd7c49816dc133cbcf4e9cc8c64fff5b1c08e8a0542afdeb0d30e"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296513700> ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34414069391> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-87350d0c1303a5e753ef6dbbc45ecdb080d2cd5d23ec837bf717e1d32762020d>
+  ns0:hasPermId "2-87350d0c1303a5e753ef6dbbc45ecdb080d2cd5d23ec837bf717e1d32762020d"^^xsd:string ;
+  ns0:from "2010-05-20T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295904072> ;
+  ns1:hasReportedTitle "Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413147649> ;
+  ns1:hasPositionType <https://permid.org/1-10010135> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-204f106ba60e7eca1908555aace92dd62069678a13163eaa05bf6830f27912bb>
+  ns0:hasPermId "2-204f106ba60e7eca1908555aace92dd62069678a13163eaa05bf6830f27912bb"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296599936> ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34414070395> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-3a10c57c76274e6a6d77f6d35e8289efe6c72235229c3672a9e1f57f2afda71b>
+  ns0:hasPermId "2-3a10c57c76274e6a6d77f6d35e8289efe6c72235229c3672a9e1f57f2afda71b"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296470137> ;
+  ns1:hasReportedTitle "Vice Chairman"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34414070101> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-3841aee0cb3754ec0e0f801c79b9b4190aedd58b324b484462ef7063d29ac819>
+  ns0:hasPermId "2-3841aee0cb3754ec0e0f801c79b9b4190aedd58b324b484462ef7063d29ac819"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296086145> ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417661687> ;
+  ns0:to "2012-10-19T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-ae57909c66a45d11603934de91ec852ada5c9b5405792072b71bad4800b45802>
+  ns0:hasPermId "2-ae57909c66a45d11603934de91ec852ada5c9b5405792072b71bad4800b45802"^^xsd:string ;
+  ns0:from "2000-05-31T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295892202> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413917198> ;
+  ns0:to "2012-11-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-9911a806c47ebd3ae1c17b8a218b9fcf68fbb2c65895c6722974f969abb59593>
+  ns0:hasPermId "2-9911a806c47ebd3ae1c17b8a218b9fcf68fbb2c65895c6722974f969abb59593"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-5001101396> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413765366> ;
+  ns0:to "2015-01-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-35d93d83f89fe0489e8d405a6cef03fc6aa43ac9a8252c09c12c39b945dabc26>
+  ns0:hasPermId "2-35d93d83f89fe0489e8d405a6cef03fc6aa43ac9a8252c09c12c39b945dabc26"^^xsd:string ;
+  ns0:from "2011-07-15T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295908671> ;
+  ns1:hasReportedTitle "Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413153548> ;
+  ns1:hasPositionType <https://permid.org/1-10010135> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-57b9ba8fa7c04078277a77cd467cdf1d787ac195a19048b0a540cbaf1e1db67d>
+  ns0:hasPermId "2-57b9ba8fa7c04078277a77cd467cdf1d787ac195a19048b0a540cbaf1e1db67d"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-5000986220> ;
+  ns1:hasReportedTitle "Vice Chairman of the Board"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34418126518> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-02f2b6c098d3a3113eede60e8277507fd7e9e3666b9c94cf82bc81c3668d2cdc>
+  ns0:hasPermId "2-02f2b6c098d3a3113eede60e8277507fd7e9e3666b9c94cf82bc81c3668d2cdc"^^xsd:string ;
+  ns0:from "2014-09-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-5037437721> ;
+  ns1:hasReportedTitle "Member of the Supervisory Board"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417613112> ;
+  ns1:hasPositionType <https://permid.org/1-10010141> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-5cc6780e2cf9306c8008ceb71006d7ef9551ffe7d9c84203ea29040ddc59f2f1>
+  a ns1:Directorship ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  ns1:hasHolder <https://permid.org/1-34417176785> ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296319561> ;
+  ns0:from "2014-04-30T00:00:00Z"^^xsd:dateTime ;
+  ns0:hasPermId "2-5cc6780e2cf9306c8008ceb71006d7ef9551ffe7d9c84203ea29040ddc59f2f1"^^xsd:string .
+
+<https://permid.org/2-cdbfdd643eed158d83d9c40e7a78fdd93ed0e7606a9ab865889e8f4b5d6fcdd7>
+  ns0:hasPermId "2-cdbfdd643eed158d83d9c40e7a78fdd93ed0e7606a9ab865889e8f4b5d6fcdd7"^^xsd:string ;
+  ns0:from "2014-06-30T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4298246865> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417233074> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-a649146d34721c10a87c5fb9b09cc54e01eb9249a4e826c526ad02787d75032f>
+  ns0:hasPermId "2-a649146d34721c10a87c5fb9b09cc54e01eb9249a4e826c526ad02787d75032f"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4295904557> ;
+  ns1:hasReportedTitle "Lead Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413153250> ;
+  ns0:to "2014-02-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010136> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-5754cea141fd895b9b17f487581416082c82eb1bea1b377bb22c84d7df15dba6>
+  ns0:hasPermId "2-5754cea141fd895b9b17f487581416082c82eb1bea1b377bb22c84d7df15dba6"^^xsd:string ;
+  ns0:from "2012-01-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295887888> ;
+  ns1:hasReportedTitle "Non-Executive Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34414827882> ;
+  ns0:to "2012-02-13T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010138> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-35208fe73f6c81a5f9950c99e385b1ae954e4b8ce236e9af6d4acdf3ee96f42a>
+  ns0:hasPermId "2-35208fe73f6c81a5f9950c99e385b1ae954e4b8ce236e9af6d4acdf3ee96f42a"^^xsd:string ;
+  ns0:from "2012-02-13T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295887888> ;
+  ns1:hasReportedTitle "Executive Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34414827882> ;
+  ns0:to "2012-10-29T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010143> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-dd4c6f6dd9e18293916de637566b9da42568f8efb713cd54eb7cc3c616765b8c>
+  ns0:hasPermId "2-dd4c6f6dd9e18293916de637566b9da42568f8efb713cd54eb7cc3c616765b8c"^^xsd:string ;
+  ns0:from "2014-03-31T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295941327> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417177306> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-0d473f01fb41d1624e4aab17fe3921dfc7b3ee9f28f9c51fcf5bef77c73a3e47>
+  ns0:hasPermId "2-0d473f01fb41d1624e4aab17fe3921dfc7b3ee9f28f9c51fcf5bef77c73a3e47"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296583507> ;
+  ns1:hasReportedTitle "President, Chief Executive Officer, Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34418039970> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-07f3ba37f41548e4738ac7d3445702309134c93d30c9cad2aa7b23f926a0138e>
+  ns0:hasPermId "2-07f3ba37f41548e4738ac7d3445702309134c93d30c9cad2aa7b23f926a0138e"^^xsd:string ;
+  ns0:from "2014-05-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295873184> ;
+  ns1:hasReportedTitle "Non-Executive Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417175074> ;
+  ns1:hasPositionType <https://permid.org/1-10010139> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-1f2cc1429de6c0d3ac8c05f3373eedbd1fa9f00625f5e8b8ee880a6f1ac52f82>
+  ns0:hasPermId "2-1f2cc1429de6c0d3ac8c05f3373eedbd1fa9f00625f5e8b8ee880a6f1ac52f82"^^xsd:string ;
+  ns0:from "2014-07-15T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295887222> ;
+  ns1:hasReportedTitle "Chairman of the Board"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417220906> ;
+  ns0:to "2015-08-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-7efab9baead6a89e20ce09d9903b333042cc2eee87d5d025188a0ace652cd009>
+  ns0:hasPermId "2-7efab9baead6a89e20ce09d9903b333042cc2eee87d5d025188a0ace652cd009"^^xsd:string ;
+  ns0:from "2001-04-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295903611> ;
+  ns1:hasReportedTitle "Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413156202> ;
+  ns1:hasPositionType <https://permid.org/1-10010135> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-eef44cbbc744017f885d093faf13feb25af513d0c63a864e4c55be9a0f6d75af>
+  ns0:hasPermId "2-eef44cbbc744017f885d093faf13feb25af513d0c63a864e4c55be9a0f6d75af"^^xsd:string ;
+  ns0:from "2004-01-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295907751> ;
+  ns1:hasReportedTitle "Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413156202> ;
+  ns0:to "2016-04-21T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010135> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-f808714722d6665d9d6e718c9a01ba151f842cb612e3f6460584d97776092421>
+  ns0:hasPermId "2-f808714722d6665d9d6e718c9a01ba151f842cb612e3f6460584d97776092421"^^xsd:string ;
+  ns0:from "2014-04-23T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-5000727755> ;
+  ns1:hasReportedTitle "Member of the Supervisory Board"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417169049> ;
+  ns0:to "2015-02-11T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010141> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-7108f5e35ad940190cd6ba410f4b252a7d66c48c73d86bc1fe478cad4699ad98>
+  ns0:hasPermId "2-7108f5e35ad940190cd6ba410f4b252a7d66c48c73d86bc1fe478cad4699ad98"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-5000050762> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417167537> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-548e4d8e849b3e31d0b3ffaea858a6b5c18799c81155b4c44d0e8fffe9e7549c>
+  ns0:hasPermId "2-548e4d8e849b3e31d0b3ffaea858a6b5c18799c81155b4c44d0e8fffe9e7549c"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-5043952886> ;
+  ns1:hasReportedTitle "President, Representative Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34418236395> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-21e7d462d9ba11ec5de7b0f88aeecc0c4832ae99ec3fe28a06c6184573c58798>
+  ns0:hasPermId "2-21e7d462d9ba11ec5de7b0f88aeecc0c4832ae99ec3fe28a06c6184573c58798"^^xsd:string ;
+  ns0:from "2012-06-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-5001089520> ;
+  ns1:hasReportedTitle "Director, representing Metallic & Bicycles Industries"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34416793542> ;
+  ns0:to "2012-06-30T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-72ea5adf60bab7a0aa0914bfbec2c4705bdaec1c19f2649f3c4566d141a12c97>
+  ns0:hasPermId "2-72ea5adf60bab7a0aa0914bfbec2c4705bdaec1c19f2649f3c4566d141a12c97"^^xsd:string ;
+  ns0:from "2010-09-16T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295865529> ;
+  ns1:hasReportedTitle "Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34414837360> ;
+  ns0:to "2015-03-13T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010135> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-bc9d4faad144a01b697473986c10860adb2751aa1955b8b6a9d6dedb451cd88f>
+  ns0:hasPermId "2-bc9d4faad144a01b697473986c10860adb2751aa1955b8b6a9d6dedb451cd88f"^^xsd:string ;
+  ns0:from "2014-04-10T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295892168> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatussuperseded ;
+  ns1:hasHolder <https://permid.org/1-34417153055> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-b59cb8691687174c416788d2d401eee8a799ca123288ec27500a261e7574376b>
+  ns0:hasPermId "2-b59cb8691687174c416788d2d401eee8a799ca123288ec27500a261e7574376b"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296440235> ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417155003> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-dbd4ead7e1c70be4ee023c7966311bf9738438bf29755b778e731888afa4011a>
+  ns0:hasPermId "2-dbd4ead7e1c70be4ee023c7966311bf9738438bf29755b778e731888afa4011a"^^xsd:string ;
+  ns0:from "2012-12-20T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295861765> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417155576> ;
+  ns0:to "2014-10-15T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-aad5ca4d611eaa5b5d0205b4b5f030e74c5b69b33250123b619b4acb997e6c7f>
+  ns0:hasPermId "2-aad5ca4d611eaa5b5d0205b4b5f030e74c5b69b33250123b619b4acb997e6c7f"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296377008> ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417155003> ;
+  ns0:to "2012-10-19T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-22ca9f9e8ea2c7ca1188a77049d6bd72a8a4847020762a8b0d612badcbb02b67>
+  ns0:hasPermId "2-22ca9f9e8ea2c7ca1188a77049d6bd72a8a4847020762a8b0d612badcbb02b67"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-5042242520> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417151935> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-787c3db51386b50bee24de2b5a7ad3e74851c78a7f61b6c21169d5b645906d86>
+  ns0:hasPermId "2-787c3db51386b50bee24de2b5a7ad3e74851c78a7f61b6c21169d5b645906d86"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296349202> ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417155003> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-a02fc3986ae29cf8455bd3169afb5733db2d18f5d0570ddc7a48926c1e9b1cb2>
+  ns0:hasPermId "2-a02fc3986ae29cf8455bd3169afb5733db2d18f5d0570ddc7a48926c1e9b1cb2"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296575114> ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417155003> ;
+  ns0:to "2012-10-19T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-a7b9d4fac169e57d6b168bdea0b745bba18658a76c6cd66913ac8e125f2ccdba>
+  a ns1:Directorship ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  ns0:to "2012-12-31T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasHolder <https://permid.org/1-34414988062> ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4295881454> ;
+  ns0:from "2012-03-22T00:00:00Z"^^xsd:dateTime ;
+  ns0:hasPermId "2-a7b9d4fac169e57d6b168bdea0b745bba18658a76c6cd66913ac8e125f2ccdba"^^xsd:string .
+
+<https://permid.org/2-3ad184e8f360a1f05af4864c27afb5e1d5b86d621855202815bdb1e738ff277a>
+  ns0:hasPermId "2-3ad184e8f360a1f05af4864c27afb5e1d5b86d621855202815bdb1e738ff277a"^^xsd:string ;
+  ns0:from "2011-05-11T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-5037043318> ;
+  ns1:hasReportedTitle "Corporate Secretary, Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417155576> ;
+  ns0:to "2013-01-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-ebfe415efbba331f361cc002bdaaf950cb953201f26f6c21b8b1310a093c537b>
+  ns0:hasPermId "2-ebfe415efbba331f361cc002bdaaf950cb953201f26f6c21b8b1310a093c537b"^^xsd:string ;
+  ns0:from "2006-01-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4297134383> ;
+  ns1:hasReportedTitle "Non-Executive Non-Independent Director - Nominee of Mozart Limited"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34414837482> ;
+  ns1:hasPositionType <https://permid.org/1-10010138> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-1f95ea38473583202f3a15990e1ba682b2d2eb72f21c9ce20641a3e7dc360db7>
+  ns0:hasPermId "2-1f95ea38473583202f3a15990e1ba682b2d2eb72f21c9ce20641a3e7dc360db7"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296884733> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417224768> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-a7acd0d1e4aa17347978f951e8541f181d3d5b44649e45af41c178b83151ddaf>
+  ns0:hasPermId "2-a7acd0d1e4aa17347978f951e8541f181d3d5b44649e45af41c178b83151ddaf"^^xsd:string ;
+  ns0:from "1997-12-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295904458> ;
+  ns1:hasReportedTitle "Vice Chairman of the Board"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413149381> ;
+  ns0:to "2015-05-28T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-9db2ab3ca87f64b60065330843192af79e794434f9d5031e84fbc3e96aa4d077>
+  ns0:hasPermId "2-9db2ab3ca87f64b60065330843192af79e794434f9d5031e84fbc3e96aa4d077"^^xsd:string ;
+  ns0:from "2015-08-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295887222> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417220906> ;
+  ns0:to "2016-07-04T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-b49aeb8cb6e1bad0f08f028bb56130de0a6497674397f5ae09f87972bb173a94>
+  ns0:hasPermId "2-b49aeb8cb6e1bad0f08f028bb56130de0a6497674397f5ae09f87972bb173a94"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296241518> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413149363> ;
+  ns0:to "2014-05-06T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-b2581c0ed2b047ba93677b2316225c3df51798c8ab8ec0fc33edc47bf514347a>
+  ns0:hasPermId "2-b2581c0ed2b047ba93677b2316225c3df51798c8ab8ec0fc33edc47bf514347a"^^xsd:string ;
+  ns0:from "2014-01-15T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4296958524> ;
+  ns1:hasReportedTitle "Vice Chairman of the Board, representing Al Quds Bank"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34416780811> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-3718f81cf27687aadae23e96e852d1fad3307ceeea71c86f341776a9a605171a>
+  ns0:hasPermId "2-3718f81cf27687aadae23e96e852d1fad3307ceeea71c86f341776a9a605171a"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4296351884> ;
+  ns1:hasReportedTitle "Board Member"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417661687> ;
+  ns0:to "2012-10-19T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-5c3cc492e1f0d3266d51dbc6ae3a4625fc79cba24e15a1f82a21fa52bebfddff>
+  ns0:hasPermId "2-5c3cc492e1f0d3266d51dbc6ae3a4625fc79cba24e15a1f82a21fa52bebfddff"^^xsd:string ;
+  ns0:from "2013-11-29T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-5037449001> ;
+  ns1:hasReportedTitle "Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34416777284> ;
+  ns1:hasPositionType <https://permid.org/1-10010135> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-c3fa720314244e1bda639d2247df48872f1c9ee89cc70d812ee2ff4606e2d117>
+  ns0:hasPermId "2-c3fa720314244e1bda639d2247df48872f1c9ee89cc70d812ee2ff4606e2d117"^^xsd:string ;
+  ns0:from "2004-10-25T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295904392> ;
+  ns1:hasReportedTitle "Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413149363> ;
+  ns0:to "2014-05-06T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010135> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-c2ac9eda3283ccc0842aaab0d5cb60adc1c36560aee5f40b795f8135ae1beb43>
+  ns0:hasPermId "2-c2ac9eda3283ccc0842aaab0d5cb60adc1c36560aee5f40b795f8135ae1beb43"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-5042940046> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417199019> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-43659ef2833e039943ab2d0836ba5c50f71b8541267447203929352723864656>
+  ns0:hasPermId "2-43659ef2833e039943ab2d0836ba5c50f71b8541267447203929352723864656"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4297663691> ;
+  ns1:hasReportedTitle "Vice Chairman of the Board"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417207938> ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-a423b4785e7601ae02d9827a0afa84cae1d37c2f457a6d920a0b6bd7388340f0>
+  ns0:hasPermId "2-a423b4785e7601ae02d9827a0afa84cae1d37c2f457a6d920a0b6bd7388340f0"^^xsd:string ;
+  ns0:from "2014-06-27T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295887222> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417220906> ;
+  ns0:to "2014-07-15T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-1f141cc5dbdf41e080c43176f03e46812bb7b3043d5770484874842bda9a477a>
+  ns0:hasPermId "2-1f141cc5dbdf41e080c43176f03e46812bb7b3043d5770484874842bda9a477a"^^xsd:string ;
+  ns0:from "2014-02-01T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295904557> ;
+  ns1:hasReportedTitle "Independent Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413153250> ;
+  ns0:to "2015-05-19T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010135> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-dd393ae7c13e9dea35c9f37f5ce35330a6a35a5370c0d0ed05035596ce2534cf>
+  ns0:hasPermId "2-dd393ae7c13e9dea35c9f37f5ce35330a6a35a5370c0d0ed05035596ce2534cf"^^xsd:string ;
+  ns0:from "2014-06-27T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4298011023> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34417220906> ;
+  ns0:to "2015-06-29T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-57d49e7ff774bb323a6900b1caa1750566b0847250b0f97c053a8b970941406f>
+  a ns1:Directorship ;
+  ns1:hasPositionType <https://permid.org/1-10010138> ;
+  ns0:to "2012-08-09T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasHolder <https://permid.org/1-34414832801> ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasReportedTitle "Non-Executive Director"^^xsd:string ;
+  ns1:isPositionIn <https://permid.org/1-4295873809> ;
+  ns0:from "2011-05-10T00:00:00Z"^^xsd:dateTime ;
+  ns0:hasPermId "2-57d49e7ff774bb323a6900b1caa1750566b0847250b0f97c053a8b970941406f"^^xsd:string .
+
+<https://permid.org/2-1166102b8e9fe6c6b9d74d7331a9012a7d476bfd4d68bc963fa04e3e80aba92f>
+  ns0:hasPermId "2-1166102b8e9fe6c6b9d74d7331a9012a7d476bfd4d68bc963fa04e3e80aba92f"^^xsd:string ;
+  ns0:from "1984-06-27T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295891666> ;
+  ns1:hasReportedTitle "Director"^^xsd:string ;
+  ns0:hasPublicationStatus ns0:publicationstatuspublished ;
+  ns1:hasHolder <https://permid.org/1-34413917198> ;
+  ns0:to "2012-11-05T00:00:00Z"^^xsd:dateTime ;
+  ns1:hasPositionType <https://permid.org/1-10010134> ;
+  a ns1:Directorship .
+
+<https://permid.org/2-63a97aa6d435c0c6d5b443c4dbdf1920261f3f70f5385175802dd6f5d1c219af>
+  ns0:hasPermId "2-63a97aa6d435c0c6d5b443c4dbdf1920261f3f70f5385175802dd6f5d1c219af"^^xsd:string ;
+  ns0:from "2009-06-16T00:00:00Z"^^xsd:dateTime ;
+  ns1:isPositionIn <https://permid.org/1-4295892478> .

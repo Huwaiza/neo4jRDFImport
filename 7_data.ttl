@@ -1,0 +1,1864 @@
+@prefix ns0: <http://permid.org/ontology/common/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns1: <http://permid.org/ontology/financial/> .
+
+<https://permid.org/1-21611490115>
+  ns0:hasPermId "21611490115"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500230> ;
+  ns0:hasName "GMA HOLDINGS PDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590006477> ;
+  ns1:hasRic "GMAPol.PS"^^xsd:string ;
+  ns1:hasExchangeTicker "GMAP"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PHS"^^xsd:string .
+
+<https://permid.org/1-55838823469>
+  ns0:hasPermId "55838823469"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500230> ;
+  ns0:hasName "GMA HOLDINGS PDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590006477> ;
+  ns1:hasRic "GMAP.PS"^^xsd:string ;
+  ns1:hasExchangeTicker "GMAP"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PHS"^^xsd:string ;
+  ns1:hasMic "XPHS"^^xsd:string .
+
+<https://permid.org/1-21548249443>
+  ns0:hasPermId "21548249443"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "ABS CBN HOLDINGS PDR REP 1 ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589959406> ;
+  ns1:hasRic "ABSOF.PQ"^^xsd:string ;
+  ns1:hasExchangeTicker "ABSOF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OTC"^^xsd:string .
+
+<https://permid.org/1-55835382122>
+  ns0:hasPermId "55835382122"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "ABS CBN BROADCASTING GDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589959406> ;
+  ns1:hasRic "ACBNF.PK^H10"^^xsd:string ;
+  ns1:hasExchangeTicker "ACBNF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string .
+
+<https://permid.org/1-21529823612>
+  ns1:hasMic "OTCM"^^xsd:string ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeTicker "ABSOF"^^xsd:string ;
+  ns1:hasRic "ABSOF.PK"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589959406> ;
+  ns0:hasName "ABS CBN HOLDINGS PDR REP 1 ORD"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasPermId "21529823612"^^xsd:string .
+
+<https://permid.org/1-55838794243>
+  ns0:hasPermId "55838794243"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500230> ;
+  ns0:hasName "ABS-CBN HOLDINGS PDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589959406> ;
+  ns1:hasRic "ABSP.PS"^^xsd:string ;
+  ns1:hasExchangeTicker "ABSP"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PHS"^^xsd:string ;
+  ns1:hasMic "XPHS"^^xsd:string .
+
+<https://permid.org/1-21611490096>
+  ns0:hasPermId "21611490096"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500230> ;
+  ns0:hasName "ABS-CBN HOLDINGS PDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589959406> ;
+  ns1:hasRic "ABSPol.PS"^^xsd:string ;
+  ns1:hasExchangeTicker "ABSP"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PHS"^^xsd:string .
+
+<https://permid.org/1-21475012581>
+  ns0:hasPermId "21475012581"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500127> ;
+  ns0:hasName "STANDARD CHARTERED IDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475012580> ;
+  ns1:hasRic "STNCy.NS^G20"^^xsd:string ;
+  ns1:hasExchangeTicker "STAN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "NSI"^^xsd:string ;
+  ns1:hasMic "XNSE"^^xsd:string .
+
+<https://permid.org/1-21475720393>
+  ns1:hasExchangeCode "TDS"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasRic "JSHxq.rUSD^J09"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590054163> ;
+  ns0:hasName "JARDINE ST.IDR"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasPermId "21475720393"^^xsd:string .
+
+<https://permid.org/1-21475012582>
+  ns0:hasPermId "21475012582"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500127> ;
+  ns0:hasName "STANDARD CHARTERED IDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475012580> ;
+  ns1:hasRic "STNCy.BO^G20"^^xsd:string ;
+  ns1:hasExchangeTicker "580001"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BSE"^^xsd:string ;
+  ns1:hasMic "XBOM"^^xsd:string .
+
+<https://permid.org/1-21598866143>
+  ns0:hasPermId "21598866143"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500127> ;
+  ns0:hasName "STANDARD CHARTERED IDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475012580> ;
+  ns1:hasRic "STNCy.NSf^G20"^^xsd:string ;
+  ns1:hasExchangeTicker "STAN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "NSI"^^xsd:string .
+
+<https://permid.org/1-21503968190>
+  ns0:hasPermId "21503968190"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500127> ;
+  ns0:hasName "STANDARD CHARTERED IDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475012580> ;
+  ns1:hasRic "STNCy.INx^G20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "INC"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-55836047279>
+  ns0:hasPermId "55836047279"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "JARDINE ST.IDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590054163> ;
+  ns1:hasRic "JSHxq.L^J10"^^xsd:string ;
+  ns1:hasExchangeTicker "JDSI"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LSE"^^xsd:string .
+
+<https://permid.org/1-21475798673>
+  ns1:hasExchangeCode "LSE"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeTicker "JSSU"^^xsd:string ;
+  ns1:hasRic "JSS_u.L^J09"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns0:hasName "JUPITER ST UTS UNT"^^xsd:string ;
+  ns0:hasPermId "21475798673"^^xsd:string .
+
+<https://permid.org/1-21475798693>
+  ns0:hasPermId "21475798693"^^xsd:string ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_u.PO^D08"^^xsd:string ;
+  ns1:hasExchangeTicker "JSSU"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "POS"^^xsd:string .
+
+<https://permid.org/1-21475798674>
+  ns0:hasPermId "21475798674"^^xsd:string ;
+  ns0:hasName "JUPITER ST UNT"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_u.VX^B09"^^xsd:string ;
+  ns1:hasExchangeTicker "JSSU"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "VTX"^^xsd:string .
+
+<https://permid.org/1-21475798683>
+  ns0:hasPermId "21475798683"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uEUR.SGp^K09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "STU"^^xsd:string .
+
+<https://permid.org/1-21475798689>
+  ns0:hasPermId "21475798689"^^xsd:string ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBP.Ip^K09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ISE"^^xsd:string .
+
+<https://permid.org/1-21475798692>
+  ns0:hasPermId "21475798692"^^xsd:string ;
+  ns0:hasName "Jupiter Sec Split Tst Unit"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "LP71000989^J09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LIP"^^xsd:string .
+
+<https://permid.org/1-21475798679>
+  ns0:hasPermId "21475798679"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500269> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBP.PAp^A10"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PAR"^^xsd:string .
+
+<https://permid.org/1-21475798682>
+  ns0:hasPermId "21475798682"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500269> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBP.SGp^K09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "STU"^^xsd:string .
+
+<https://permid.org/1-21475798688>
+  ns0:hasPermId "21475798688"^^xsd:string ;
+  ns0:hasName "JUPITER 2NDSPTU"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_u.mGBP^I09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BDS"^^xsd:string .
+
+<https://permid.org/1-55838297585>
+  ns0:hasPermId "55838297585"^^xsd:string ;
+  ns0:hasName "JUPITER 2NDSPTU UNT"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_u.PZ^J09"^^xsd:string ;
+  ns1:hasExchangeTicker "JSSU.GB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PLU"^^xsd:string .
+
+<https://permid.org/1-21475798691>
+  ns0:hasPermId "21475798691"^^xsd:string ;
+  ns0:hasName "JUPITER ST UNT"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBP.PZp^B09"^^xsd:string ;
+  ns1:hasExchangeTicker "JSS_u"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PLU"^^xsd:string .
+
+<https://permid.org/1-21475798697>
+  ns0:hasPermId "21475798697"^^xsd:string ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_u.PO^L08"^^xsd:string ;
+  ns1:hasExchangeTicker "JSSU"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "POS"^^xsd:string .
+
+<https://permid.org/1-21475798678>
+  ns0:hasPermId "21475798678"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uEUR.STp^J09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "STO"^^xsd:string .
+
+<https://permid.org/1-21475798681>
+  ns0:hasPermId "21475798681"^^xsd:string ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBP.OLp^J09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OSL"^^xsd:string .
+
+<https://permid.org/1-21475798687>
+  ns0:hasPermId "21475798687"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "JUPITER 2NDSPTU"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_u.mEUR^I09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BDS"^^xsd:string .
+
+<https://permid.org/1-21475798690>
+  ns0:hasPermId "21475798690"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uEUR.Ip^K09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ISE"^^xsd:string .
+
+<https://permid.org/1-21475798696>
+  ns0:hasPermId "21475798696"^^xsd:string ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBX.OLp^G08"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OSL"^^xsd:string .
+
+<https://permid.org/1-21475798677>
+  ns0:hasPermId "21475798677"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uEUR.OLp^J09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OSL"^^xsd:string .
+
+<https://permid.org/1-21475798680>
+  ns0:hasPermId "21475798680"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uEUR.PAp^J09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PAR"^^xsd:string .
+
+<https://permid.org/1-21475798686>
+  ns0:hasPermId "21475798686"^^xsd:string ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBP.STp^J09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "STO"^^xsd:string .
+
+<https://permid.org/1-21475798695>
+  ns0:hasPermId "21475798695"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500269> ;
+  ns0:hasName "JUPITER ST UTS UNT"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBP.BUp^J09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BUD"^^xsd:string .
+
+<https://permid.org/1-21475798676>
+  ns1:hasExchangeCode "TDS"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasRic "JSS_u.rGBP^J09"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500269> ;
+  ns0:hasPermId "21475798676"^^xsd:string .
+
+<https://permid.org/1-21475798685>
+  ns0:hasPermId "21475798685"^^xsd:string ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uGBP.DEp^K09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "GER"^^xsd:string .
+
+<https://permid.org/1-21475798694>
+  ns0:hasPermId "21475798694"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "JUPITER ST UTS UNT"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uEUR.BUp^J09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BUD"^^xsd:string .
+
+<https://permid.org/1-21475798675>
+  ns0:hasPermId "21475798675"^^xsd:string ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_u.PO^C08"^^xsd:string ;
+  ns1:hasExchangeTicker "JSSU"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "POS"^^xsd:string .
+
+<https://permid.org/1-21475798684>
+  ns0:hasPermId "21475798684"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "JUPITER ST UTS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589994967> ;
+  ns1:hasRic "JSS_uEUR.DEp^K09"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "GER"^^xsd:string .
+
+<https://permid.org/1-25727312798>
+  ns0:hasPermId "25727312798"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500145> ;
+  ns0:hasName "NINEBOT CDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21772918517> ;
+  ns1:hasRic "689009.SSh"^^xsd:string ;
+  ns1:hasExchangeTicker "689009"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "SHH"^^xsd:string .
+
+<https://permid.org/1-21475418261>
+  ns0:hasPermId "21475418261"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500117> ;
+  ns0:hasName "STRUCTURAL MONITORING CDI"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475418260> ;
+  ns1:hasRic "SMNN.AX^L08"^^xsd:string ;
+  ns1:hasExchangeTicker "SMNN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ASX"^^xsd:string .
+
+<https://permid.org/1-25727312796>
+  ns0:hasPermId "25727312796"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500145> ;
+  ns0:hasName "NINEBOT CDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21772918517> ;
+  ns1:hasRic "689009ta.SS"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "SHH"^^xsd:string .
+
+<https://permid.org/1-25727312800>
+  ns0:hasPermId "25727312800"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500145> ;
+  ns0:hasName "NINEBOT CDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21772918517> ;
+  ns1:hasRic "689009.SH"^^xsd:string ;
+  ns1:hasExchangeTicker "689009"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "SHH"^^xsd:string .
+
+<https://permid.org/1-25727312799>
+  ns0:hasPermId "25727312799"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500145> ;
+  ns0:hasName "NINEBOT CDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21772918517> ;
+  ns1:hasRic "689009.SHh"^^xsd:string ;
+  ns1:hasExchangeTicker "689009"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "SHH"^^xsd:string .
+
+<https://permid.org/1-21475418262>
+  ns1:hasExchangeCode "ASX"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeTicker "SMNN"^^xsd:string ;
+  ns1:hasRic "SMNNstat.AX^L08"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475418260> ;
+  ns0:hasName "STRUCTURAL MONITORING CDI"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500117> ;
+  ns0:hasPermId "21475418262"^^xsd:string .
+
+<https://permid.org/1-25727312797>
+  ns0:hasPermId "25727312797"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500145> ;
+  ns0:hasName "NINEBOT CDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21772918517> ;
+  ns1:hasRic "689009ta.SH"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "SHH"^^xsd:string .
+
+<https://permid.org/1-25727312801>
+  ns0:hasPermId "25727312801"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500145> ;
+  ns0:hasName "NINEBOT CDR"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21772918517> ;
+  ns1:hasRic "689009.SS"^^xsd:string ;
+  ns1:hasExchangeTicker "689009"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "SHH"^^xsd:string ;
+  ns1:hasMic "XSHG"^^xsd:string .
+
+<https://permid.org/1-21475501803>
+  ns0:hasPermId "21475501803"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500140> ;
+  ns0:hasName "NEW FLYER INDUSTRIES UNT"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns1:hasRic "NFI_u.CXC^J08"^^xsd:string ;
+  ns1:hasExchangeTicker "NFI.UN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "CXC"^^xsd:string .
+
+<https://permid.org/1-21475861786>
+  ns0:hasPermId "21475861786"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500140> ;
+  ns0:hasName "NEW FLYER INDUSTRIES IDS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns1:hasRic "NFI_u.TMX^H12"^^xsd:string ;
+  ns1:hasExchangeTicker "NFI.UN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "TMX"^^xsd:string .
+
+<https://permid.org/1-55838840583>
+  ns0:hasPermId "55838840583"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500140> ;
+  ns0:hasName "NEW FLYER INDUSTRIES IDS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns1:hasRic "NFI_u.TO^H12"^^xsd:string ;
+  ns1:hasExchangeTicker "NFI.UN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "TOR"^^xsd:string .
+
+<https://permid.org/1-55835399857>
+  ns0:hasPermId "55835399857"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "NEW FLYER INDUSTRIES IDS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns1:hasRic "NFYIF.PK^H12"^^xsd:string ;
+  ns1:hasExchangeTicker "NFYIF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PKC"^^xsd:string .
+
+<https://permid.org/1-21488484569>
+  ns0:hasPermId "21488484569"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500140> ;
+  ns0:hasName "NEW FLYER INDUSTRIES IDS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns1:hasRic "NFI_u.OMG^H12"^^xsd:string ;
+  ns1:hasExchangeTicker "NFI.UN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OMG"^^xsd:string .
+
+<https://permid.org/1-55846944317>
+  ns0:hasPermId "55846944317"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500140> ;
+  ns0:hasName "NEW FLYER INDUSTRIES IDS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns1:hasRic "NFI_u.ALP^H12"^^xsd:string ;
+  ns1:hasExchangeTicker "NFI.UN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ALP"^^xsd:string .
+
+<https://permid.org/1-21475072730>
+  ns1:hasExchangeCode "CAQ"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeTicker "NFI.UN"^^xsd:string ;
+  ns1:hasRic "NFI_u.CCP^H12"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns0:hasName "NEW FLYER INDUSTRIES IDS"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500140> ;
+  ns0:hasPermId "21475072730"^^xsd:string .
+
+<https://permid.org/1-55838840585>
+  ns0:hasPermId "55838840585"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500140> ;
+  ns0:hasName "NEW FLYER INDUSTRIES IDS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns1:hasRic "NFI_u.CXC^H12"^^xsd:string ;
+  ns1:hasExchangeTicker "NFI.UN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "CXC"^^xsd:string .
+
+<https://permid.org/1-55838779764>
+  ns0:hasPermId "55838779764"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500140> ;
+  ns0:hasName "NEW FLYER INDUSTRIES IDS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589993343> ;
+  ns1:hasRic "NFI_u.GO^H12"^^xsd:string ;
+  ns1:hasExchangeTicker "NFI.UN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PTX"^^xsd:string .
+
+<https://permid.org/1-21475419598>
+  ns0:hasPermId "21475419598"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500117> ;
+  ns0:hasName "GUINNESS PEAT BNS"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475419597> ;
+  ns1:hasRic "GPGBA.AX^F08"^^xsd:string ;
+  ns1:hasExchangeTicker "GPGBA"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ASX"^^xsd:string .
+
+<https://permid.org/1-21475419596>
+  ns0:hasPermId "21475419596"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500117> ;
+  ns0:hasName "SUNSHINE HRT CDI"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475419594> ;
+  ns1:hasRic "SHCNstat.AX^H08"^^xsd:string ;
+  ns1:hasExchangeTicker "SHCN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ASX"^^xsd:string .
+
+<https://permid.org/1-21475419600>
+  ns0:hasPermId "21475419600"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500117> ;
+  ns0:hasName "SUNSHINE HEART CDI"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590975306> ;
+  ns1:hasRic "SHCNstat.AX^I09"^^xsd:string ;
+  ns1:hasExchangeTicker "SHCN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ASX"^^xsd:string .
+
+<https://permid.org/1-21475419599>
+  ns1:hasExchangeCode "ASX"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeTicker "GPGBA"^^xsd:string ;
+  ns1:hasRic "GPGBAstat.AX^F08"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475419597> ;
+  ns0:hasName "GUINNESS PEAT BNS"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500117> ;
+  ns0:hasPermId "21475419599"^^xsd:string .
+
+<https://permid.org/1-21475419595>
+  ns0:hasPermId "21475419595"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500117> ;
+  ns0:hasName "SUNSHINE HRT CDI"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21475419594> ;
+  ns1:hasRic "SHCN.AX^H08"^^xsd:string ;
+  ns1:hasExchangeTicker "SHCN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ASX"^^xsd:string .
+
+<https://permid.org/1-55843056139>
+  ns0:hasPermId "55843056139"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500117> ;
+  ns0:hasName "SUNSHINE HEART CDI"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590975306> ;
+  ns1:hasRic "SHCN.AX^I09"^^xsd:string ;
+  ns1:hasExchangeTicker "SHCN"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "ASX"^^xsd:string .
+
+<https://permid.org/1-21787059126>
+  ns0:hasPermId "21787059126"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "4GKf.DAp"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DBA"^^xsd:string .
+
+<https://permid.org/1-21788452440>
+  ns0:hasPermId "21788452440"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEXBf.DAp"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DBA"^^xsd:string .
+
+<https://permid.org/1-21760847940>
+  ns0:hasPermId "21760847940"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "4GKf.DAp^L20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DBA"^^xsd:string .
+
+<https://permid.org/1-21647575684>
+  ns1:hasExchangeCode "DBA"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasRic "CEXBf.DAp^K20"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasPermId "21647575684"^^xsd:string .
+
+<https://permid.org/1-21535196271>
+  ns0:hasPermId "21535196271"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500201> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CMXCPO.BN^L17"^^xsd:string ;
+  ns1:hasExchangeTicker "CEMEXCPO            "^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BRN"^^xsd:string ;
+  ns1:hasMic "XBRN"^^xsd:string .
+
+<https://permid.org/1-21535195074>
+  ns0:hasPermId "21535195074"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500201> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "AZTECACPO.BN^L17"^^xsd:string ;
+  ns1:hasExchangeTicker "AZTECACPO           "^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BRN"^^xsd:string ;
+  ns1:hasMic "XBRN"^^xsd:string .
+
+<https://permid.org/1-55840904062>
+  ns0:hasPermId "55840904062"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEXB.SG"^^xsd:string ;
+  ns1:hasExchangeTicker "CEXB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "STU"^^xsd:string ;
+  ns1:hasMic "XSTU"^^xsd:string .
+
+<https://permid.org/1-21546938409>
+  ns0:hasPermId "21546938409"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "1AZTECCPO.PIPB"^^xsd:string ;
+  ns1:hasExchangeTicker "1_AZTECA_CPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-21537981254>
+  ns0:hasPermId "21537981254"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "RASSINI ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "SNCVF.PQ"^^xsd:string ;
+  ns1:hasExchangeTicker "SNCVF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OTC"^^xsd:string .
+
+<https://permid.org/1-55835390628>
+  ns0:hasPermId "55835390628"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "AXTEL ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "AXTLF.PK"^^xsd:string ;
+  ns1:hasExchangeTicker "AXTLF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  ns1:hasMic "OTCM"^^xsd:string .
+
+<https://permid.org/1-21535197389>
+  ns0:hasPermId "21535197389"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500201> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLVACPO.BN^L17"^^xsd:string ;
+  ns1:hasExchangeTicker "TLEVISACPO          "^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BRN"^^xsd:string ;
+  ns1:hasMic "XBRN"^^xsd:string .
+
+<https://permid.org/1-21475696259>
+  ns0:hasPermId "21475696259"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "GRUPO TELEVISA STK Q"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "GRTMq.L^A98"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LSE"^^xsd:string .
+
+<https://permid.org/1-21475039029>
+  ns0:hasPermId "21475039029"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "PROTEAK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21474836500> ;
+  ns1:hasRic "TEAKCPO.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "TEAKCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-55835814791>
+  ns0:hasPermId "55835814791"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "MEGACABLE HOLDINGS CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "MEGACPO.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "MEGACPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-55836508739>
+  ns0:hasPermId "55836508739"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "GRPF.F"^^xsd:string ;
+  ns1:hasExchangeTicker "TLV1"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "FRA"^^xsd:string ;
+  ns1:hasMic "XFRA"^^xsd:string .
+
+<https://permid.org/1-21523296361>
+  ns0:hasPermId "21523296361"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "CEMEX ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CXMSF.PQ"^^xsd:string ;
+  ns1:hasExchangeTicker "CXMSF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OTC"^^xsd:string .
+
+<https://permid.org/1-21579918174>
+  ns0:hasPermId "21579918174"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "LA COMER ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095744> ;
+  ns1:hasRic "LCMRF.PK"^^xsd:string ;
+  ns1:hasExchangeTicker "LCMRF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  ns1:hasMic "OTCM"^^xsd:string .
+
+<https://permid.org/1-55835814507>
+  ns0:hasPermId "55835814507"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CABLEVISION CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589971061> ;
+  ns1:hasRic "CABLECPO.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "CABLECPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-21523287842>
+  ns0:hasPermId "21523287842"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "TV AZTECA ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "AZTEF.PQ"^^xsd:string ;
+  ns1:hasExchangeTicker "AZTEF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OTC"^^xsd:string .
+
+<https://permid.org/1-21523295476>
+  ns0:hasPermId "21523295476"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "GRUPO TELEVISA ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "GRPFF.PQ"^^xsd:string ;
+  ns1:hasExchangeTicker "GRPFF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OTC"^^xsd:string .
+
+<https://permid.org/1-55837357985>
+  ns0:hasPermId "55837357985"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEXB.DE^E11"^^xsd:string ;
+  ns1:hasExchangeTicker "CEXB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "GER"^^xsd:string .
+
+<https://permid.org/1-21632447450>
+  ns0:hasPermId "21632447450"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZ.LA1"^^xsd:string ;
+  ns1:hasExchangeTicker "XTZA"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LAT"^^xsd:string .
+
+<https://permid.org/1-21475568787>
+  ns0:hasPermId "21475568787"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZTCACOapl.LA^I07"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MAD"^^xsd:string .
+
+<https://permid.org/1-55838736435>
+  ns0:hasPermId "55838736435"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZ.LA"^^xsd:string ;
+  ns1:hasExchangeTicker "XTZA"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LAT"^^xsd:string ;
+  ns1:hasMic "XLAT"^^xsd:string .
+
+<https://permid.org/1-55840935112>
+  ns0:hasPermId "55840935112"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "GRPF.SG"^^xsd:string ;
+  ns1:hasExchangeTicker "TLV1"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "STU"^^xsd:string ;
+  ns1:hasMic "XSTU"^^xsd:string .
+
+<https://permid.org/1-21475665734>
+  ns0:hasPermId "21475665734"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CORP IND SANLUIS STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "SLSm.MX^J97"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21523296832>
+  ns1:hasExchangeCode "OTC"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeTicker "MHSDF"^^xsd:string ;
+  ns1:hasRic "MHSDF.PQ"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns0:hasName "MEGACABLE HOLDINGS CL A ORD"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasPermId "21523296832"^^xsd:string .
+
+<https://permid.org/1-55835819176>
+  ns0:hasPermId "55835819176"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "AZTECACPO.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "AZTECACPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-55835800351>
+  ns0:hasPermId "55835800351"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "AXTELCPO.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "AXTELCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-21546939941>
+  ns0:hasPermId "21546939941"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CABLEVISION CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589971061> ;
+  ns1:hasRic "1CABLECPO.PIPB"^^xsd:string ;
+  ns1:hasExchangeTicker "1_CABLE_CPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-55840872903>
+  ns0:hasPermId "55840872903"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEXB.MU^I19"^^xsd:string ;
+  ns1:hasExchangeTicker "CEXB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MUN"^^xsd:string ;
+  ns1:hasMic "XMUN"^^xsd:string .
+
+<https://permid.org/1-21731259334>
+  ns0:hasPermId "21731259334"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "MEGACABLE HOLDINGS CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "MX01ME090003.TRE"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LSE"^^xsd:string .
+
+<https://permid.org/1-55852875048>
+  ns0:hasPermId "55852875048"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "GRPF.BE^I19"^^xsd:string ;
+  ns1:hasExchangeTicker "TLV1"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BER"^^xsd:string ;
+  ns1:hasMic "XBER"^^xsd:string .
+
+<https://permid.org/1-21546943271>
+  ns0:hasPermId "21546943271"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "PROTEAK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21474836500> ;
+  ns1:hasRic "1TEAKCPO.PIPB"^^xsd:string ;
+  ns1:hasExchangeTicker "1_TEAK_CPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-21474936410>
+  ns0:hasPermId "21474936410"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "4GK.DEU"^^xsd:string ;
+  ns1:hasExchangeTicker "4GK"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DEU"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21474883112>
+  ns0:hasPermId "21474883112"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "GRPF.DEU"^^xsd:string ;
+  ns1:hasExchangeTicker "TLV1"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DEU"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-55840874160>
+  ns0:hasPermId "55840874160"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "GRPF.MU^I19"^^xsd:string ;
+  ns1:hasExchangeTicker "TLV1"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MUN"^^xsd:string ;
+  ns1:hasMic "XMUN"^^xsd:string .
+
+<https://permid.org/1-21474896186>
+  ns0:hasPermId "21474896186"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZ.DEU^J19"^^xsd:string ;
+  ns1:hasExchangeTicker "G4Z"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DEU"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-55836329621>
+  ns0:hasPermId "55836329621"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZ.BE^I19"^^xsd:string ;
+  ns1:hasExchangeTicker "G4Z"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BER"^^xsd:string ;
+  ns1:hasMic "XBER"^^xsd:string .
+
+<https://permid.org/1-21474864582>
+  ns0:hasPermId "21474864582"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEXB.DEU"^^xsd:string ;
+  ns1:hasExchangeTicker "CEXB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DEU"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21583871023>
+  ns0:hasPermId "21583871023"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "LA COMER UBC ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095744> ;
+  ns1:hasRic "LC9u.F^J19"^^xsd:string ;
+  ns1:hasExchangeTicker "LC9"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "FRA"^^xsd:string ;
+  ns1:hasMic "XFRA"^^xsd:string .
+
+<https://permid.org/1-21698783971>
+  ns0:hasPermId "21698783971"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEXBf.TRE^K19"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LSE"^^xsd:string .
+
+<https://permid.org/1-21546940322>
+  ns0:hasPermId "21546940322"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "MEGACABLE HOLDINGS CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "1MEGACPO.PIPB"^^xsd:string ;
+  ns1:hasExchangeTicker "1_MEGA_CPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-21685833003>
+  ns0:hasPermId "21685833003"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "MX01AZ060013.GTX^I19"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "GTX"^^xsd:string .
+
+<https://permid.org/1-55840861526>
+  ns0:hasPermId "55840861526"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZ.MU^I19"^^xsd:string ;
+  ns1:hasExchangeTicker "G4Z"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MUN"^^xsd:string ;
+  ns1:hasMic "XMUN"^^xsd:string .
+
+<https://permid.org/1-55837365111>
+  ns1:hasExchangeCode "GER"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeTicker "TLV1"^^xsd:string ;
+  ns1:hasRic "GRPF.DE^E11"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns0:hasName "GRUPO TELEVISA ORD"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasPermId "55837365111"^^xsd:string .
+
+<https://permid.org/1-21583872296>
+  ns0:hasPermId "21583872296"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "LA COMER UBC ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095744> ;
+  ns1:hasRic "LC9u.DEU^J19"^^xsd:string ;
+  ns1:hasExchangeTicker "LC9"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DEU"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21685835500>
+  ns0:hasPermId "21685835500"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "MXP225611567.GTX^I19"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "GTX"^^xsd:string .
+
+<https://permid.org/1-21546939366>
+  ns0:hasPermId "21546939366"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "1AXTELCPO.PIPB"^^xsd:string ;
+  ns1:hasExchangeTicker "1_AXTEL_CPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-55836394319>
+  ns0:hasPermId "55836394319"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEXB.F"^^xsd:string ;
+  ns1:hasExchangeTicker "CEXB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "FRA"^^xsd:string ;
+  ns1:hasMic "XFRA"^^xsd:string .
+
+<https://permid.org/1-55840911398>
+  ns0:hasPermId "55840911398"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZ.SG"^^xsd:string ;
+  ns1:hasExchangeTicker "G4Z"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "STU"^^xsd:string ;
+  ns1:hasMic "XSTU"^^xsd:string .
+
+<https://permid.org/1-21695198396>
+  ns0:hasPermId "21695198396"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLV1f.TRE^K19"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LSE"^^xsd:string .
+
+<https://permid.org/1-21685833602>
+  ns0:hasPermId "21685833602"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "MXP4987V1378.GTX^I19"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "GTX"^^xsd:string .
+
+<https://permid.org/1-55837356253>
+  ns0:hasPermId "55837356253"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZ.DE^E11"^^xsd:string ;
+  ns1:hasExchangeTicker "G4Z"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "GER"^^xsd:string .
+
+<https://permid.org/1-21664057719>
+  ns0:hasPermId "21664057719"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "LA COMER UBC ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095744> ;
+  ns1:hasRic "LC9f.DAp^E20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DBA"^^xsd:string .
+
+<https://permid.org/1-55835395733>
+  ns0:hasPermId "55835395733"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "GRUPO TELEVISA ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "GRPFF.PK"^^xsd:string ;
+  ns1:hasExchangeTicker "GRPFF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  ns1:hasMic "OTCM"^^xsd:string .
+
+<https://permid.org/1-21653977409>
+  ns0:hasPermId "21653977409"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEXBf.TWEA^I20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "TWA"^^xsd:string .
+
+<https://permid.org/1-55835390631>
+  ns0:hasPermId "55835390631"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "TV AZTECA ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "AZTEF.PK"^^xsd:string ;
+  ns1:hasExchangeTicker "AZTEF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  ns1:hasMic "OTCM"^^xsd:string .
+
+<https://permid.org/1-21685833049>
+  ns0:hasPermId "21685833049"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "MX01AX040009.GTX^H20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "GTX"^^xsd:string .
+
+<https://permid.org/1-21667705576>
+  ns0:hasPermId "21667705576"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "RASSINI CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "RASSINICPO.MCO^K20"^^xsd:string ;
+  ns1:hasExchangeTicker "RASSINICPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MXQ"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-55846148370>
+  ns0:hasPermId "55846148370"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "MEGACABLE HOLDINGS CL A ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "MHSDF.PK"^^xsd:string ;
+  ns1:hasExchangeTicker "MHSDF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  ns1:hasMic "OTCM"^^xsd:string .
+
+<https://permid.org/1-21652008399>
+  ns0:hasPermId "21652008399"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "LA COMER UBC ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095744> ;
+  ns1:hasRic "LC9f.TWEA^I20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "TWA"^^xsd:string .
+
+<https://permid.org/1-21747654977>
+  ns0:hasPermId "21747654977"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLV1f.TRE"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "LSE"^^xsd:string .
+
+<https://permid.org/1-55835820905>
+  ns0:hasPermId "55835820905"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "RASSINI CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "RASSINICPO.MX^K20"^^xsd:string ;
+  ns1:hasExchangeTicker "RASSINICPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-21656680218>
+  ns0:hasPermId "21656680218"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "RASSINI CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "RASSINICPO.BIV^K20"^^xsd:string ;
+  ns1:hasExchangeTicker "RASSINICPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21647560043>
+  ns0:hasPermId "21647560043"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLV1f.DAp^J20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DBA"^^xsd:string .
+
+<https://permid.org/1-21537968155>
+  ns0:hasPermId "21537968155"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "RASSINI ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "SNCVF.PK"^^xsd:string ;
+  ns1:hasExchangeTicker "SNCVF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  ns1:hasMic "OTCM"^^xsd:string .
+
+<https://permid.org/1-21647575681>
+  ns0:hasPermId "21647575681"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "4GKf.DAp^E20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DBA"^^xsd:string .
+
+<https://permid.org/1-21523287796>
+  ns0:hasPermId "21523287796"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "AXTEL ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "AXTLF.PQ"^^xsd:string ;
+  ns1:hasExchangeTicker "AXTLF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OTC"^^xsd:string .
+
+<https://permid.org/1-55840856623>
+  ns0:hasPermId "55840856623"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "4GK.MU^H20"^^xsd:string ;
+  ns1:hasExchangeTicker "4GK"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MUN"^^xsd:string ;
+  ns1:hasMic "XMUN"^^xsd:string .
+
+<https://permid.org/1-21638819545>
+  ns0:hasPermId "21638819545"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLV1f.TRXA^K20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "TMA"^^xsd:string .
+
+<https://permid.org/1-25727382166>
+  ns0:hasPermId "25727382166"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "PROTEAK UNO SAPIB DE CV MEXICO ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21474836500> ;
+  ns1:hasRic "PKNOF.PK"^^xsd:string ;
+  ns1:hasExchangeTicker "PKNOF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  ns1:hasMic "OTCM"^^xsd:string .
+
+<https://permid.org/1-21652734411>
+  ns0:hasPermId "21652734411"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLV1f.TWEA^I20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "TWA"^^xsd:string .
+
+<https://permid.org/1-55835392007>
+  ns0:hasPermId "55835392007"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "CEMEX ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CXMSF.PK"^^xsd:string ;
+  ns1:hasExchangeTicker "CXMSF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string ;
+  ns1:hasMic "OTCM"^^xsd:string .
+
+<https://permid.org/1-21579918191>
+  ns0:hasPermId "21579918191"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "LA COMER ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095744> ;
+  ns1:hasRic "LCMRF.PQ"^^xsd:string ;
+  ns1:hasExchangeTicker "LCMRF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OTC"^^xsd:string .
+
+<https://permid.org/1-55836448113>
+  ns1:hasMic "XFRA"^^xsd:string ;
+  ns1:hasExchangeCode "FRA"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeTicker "G4Z"^^xsd:string ;
+  ns1:hasRic "TVAZ.F^J19"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasPermId "55836448113"^^xsd:string .
+
+<https://permid.org/1-21646162683>
+  ns0:hasPermId "21646162683"^^xsd:string ;
+  ns0:hasName "MEGACABLE HOLDINGS CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "MEGACPOmx.TWEA^G20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "TWA"^^xsd:string .
+
+<https://permid.org/1-21730355379>
+  ns0:hasPermId "21730355379"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "G4Zf.DAp^E20"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DBA"^^xsd:string .
+
+<https://permid.org/1-55847314919>
+  ns0:hasPermId "55847314919"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "4GK.BE^H20"^^xsd:string ;
+  ns1:hasExchangeTicker "4GK"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BER"^^xsd:string ;
+  ns1:hasMic "XBER"^^xsd:string .
+
+<https://permid.org/1-21475665733>
+  ns0:hasPermId "21475665733"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CORP IND SANLUIS CPO ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "SANLUISCPOc.MX^J07"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21656680069>
+  ns0:hasPermId "21656680069"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEMEXCPO.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "CEMEXCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21656680239>
+  ns0:hasPermId "21656680239"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLEVISACPO.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "TLEVISACPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21656680053>
+  ns0:hasPermId "21656680053"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "TV AZTECA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "AZTECACPO.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "AZTECACPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21475568785>
+  ns0:hasPermId "21475568785"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "TV AZTECA STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TZAm.MX^J97"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21656680096>
+  ns0:hasPermId "21656680096"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "FOMENTO ECON MEX UB ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589937946> ;
+  ns1:hasRic "FEMSAUB.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "FEMSAUB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21475631419>
+  ns0:hasPermId "21475631419"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CABLE CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589971061> ;
+  ns1:hasRic "CABLECPOc.MX^J07"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21638819541>
+  ns1:hasExchangeCode "TMA"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasRic "CEXBf.TRXA"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasPermId "21638819541"^^xsd:string .
+
+<https://permid.org/1-21475568784>
+  ns0:hasPermId "21475568784"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "TV AZTECA C ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TVAZTCACPOc.MX^J07"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21546939775>
+  ns0:hasPermId "21546939775"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "FOMENTO ECON MEX UB ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589937946> ;
+  ns1:hasRic "1FEMSAUB.PIPB"^^xsd:string ;
+  ns1:hasExchangeTicker "1_FEMSA_UB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-21656680231>
+  ns0:hasPermId "21656680231"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "PROTEAK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21474836500> ;
+  ns1:hasRic "TEAKCPO.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "TEAKCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21475631418>
+  ns0:hasPermId "21475631418"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CABLEVISION STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589971061> ;
+  ns1:hasRic "CABLECPOc.MX^H03"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21656680175>
+  ns0:hasPermId "21656680175"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "MEGACABLE HOLDINGS CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "MEGACPO.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "MEGACPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21656680051>
+  ns0:hasPermId "21656680051"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "AXTELCPO.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "AXTELCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21475660092>
+  ns0:hasPermId "21475660092"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CEMEX STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CMXm.MX^J97"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21475696257>
+  ns0:hasPermId "21475696257"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "GRUPO TELEVISA STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLV.MX^E98"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21475660091>
+  ns0:hasPermId "21475660091"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CEMEX STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CMX.MX^E98"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21475696256>
+  ns0:hasPermId "21475696256"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "GRUPO TELEVISA CPO ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLEVISACPOc.MX^K06"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21656680065>
+  ns0:hasPermId "21656680065"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CABLEVISION CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589971061> ;
+  ns1:hasRic "CABLECPO.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "CABLECPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21475665735>
+  ns0:hasPermId "21475665735"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CORP IND SANLUIS STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "SLS.MX^E98"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21656680164>
+  ns0:hasPermId "21656680164"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "LA COMER UBC ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095744> ;
+  ns1:hasRic "LACOMERUBC.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "LACOMERUBC"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-21475660090>
+  ns0:hasPermId "21475660090"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CEMEX CPO ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEMEXCPOc.MX^K06"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21656680163>
+  ns0:hasPermId "21656680163"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "LA COMER UB ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095738> ;
+  ns1:hasRic "LACOMERUB.BIV"^^xsd:string ;
+  ns1:hasExchangeTicker "LACOMERUB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "BIV"^^xsd:string ;
+  ns1:hasMic "BIVA"^^xsd:string .
+
+<https://permid.org/1-55835821442>
+  ns0:hasPermId "55835821442"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "FOMENTO ECON MEX UB ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589937946> ;
+  ns1:hasRic "FEMSAUB.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "FEMSAUB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-21475568786>
+  ns0:hasPermId "21475568786"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "TV AZTECA STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590921995> ;
+  ns1:hasRic "TZA.MX^E98"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21546940193>
+  ns0:hasPermId "21546940193"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "1TLEVICPO.PIPB"^^xsd:string ;
+  ns1:hasExchangeTicker "1_TLEVISA_CPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-21546939659>
+  ns0:hasPermId "21546939659"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "SANLUIS CORP CPO ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "1SANLUCPO.PIPB^B15"^^xsd:string ;
+  ns1:hasExchangeTicker "1_SANLUIS_CPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-21475700975>
+  ns0:hasPermId "21475700975"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "FOMENTO ECON MEX STK UB"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589937946> ;
+  ns1:hasRic "FEMb.MX^F98"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21668791008>
+  ns0:hasPermId "21668791008"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "MEGACABLE HOLDINGS CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "MX01ME090003=TWEA^B19"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "TWA"^^xsd:string .
+
+<https://permid.org/1-21475700974>
+  ns0:hasPermId "21475700974"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "FOMENTO ECON MEX UB ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589937946> ;
+  ns1:hasRic "FEMSAUBc.MX^J07"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21579095737>
+  ns0:hasPermId "21579095737"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "LA COMER UB ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21579095738> ;
+  ns1:hasRic "LACOMERUB.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "LACOMERUB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-21475660093>
+  ns0:hasPermId "21475660093"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CEMEX STK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEMEXCPO.PIPB^H03"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string .
+
+<https://permid.org/1-21659279780>
+  ns0:hasPermId "21659279780"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500111> ;
+  ns0:hasName "MEGACABLE HOLDINGS CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "MX01ME090003=DAp^J18"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "DBA"^^xsd:string .
+
+<https://permid.org/1-21475696258>
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasRic "TLVm.MX^J97"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns0:hasName "GRUPO TELEVISA STK CPO"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasPermId "21475696258"^^xsd:string .
+
+<https://permid.org/1-55835818704>
+  ns0:hasPermId "55835818704"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLEVISACPO.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "TLEVISACPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-21667705348>
+  ns0:hasPermId "21667705348"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "MEGACABLE HOLDINGS CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590010462> ;
+  ns1:hasRic "MEGACPO.MCO"^^xsd:string ;
+  ns1:hasExchangeTicker "MEGACPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MXQ"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21475665736>
+  ns0:hasPermId "21475665736"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "CORP IND SANLUIS ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589978515> ;
+  ns1:hasRic "CISMF.PK^H09"^^xsd:string ;
+  ns1:hasExchangeTicker "CISMF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PNK"^^xsd:string .
+
+<https://permid.org/1-21667705806>
+  ns0:hasPermId "21667705806"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "GRUPO TELEVISA CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590928953> ;
+  ns1:hasRic "TLEVISACPO.MCO"^^xsd:string ;
+  ns1:hasExchangeTicker "TLEVISACPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MXQ"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21667704282>
+  ns0:hasPermId "21667704282"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "AXTEL CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590936883> ;
+  ns1:hasRic "AXTELCPO.MCO"^^xsd:string ;
+  ns1:hasExchangeTicker "AXTELCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MXQ"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21667704774>
+  ns0:hasPermId "21667704774"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "FOMENTO ECON MEX UB ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589937946> ;
+  ns1:hasRic "FEMSAUB.MCO"^^xsd:string ;
+  ns1:hasExchangeTicker "FEMSAUB"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MXQ"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21667705772>
+  ns0:hasPermId "21667705772"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "PROTEAK CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21474836500> ;
+  ns1:hasRic "TEAKCPO.MCO"^^xsd:string ;
+  ns1:hasExchangeTicker "TEAKCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MXQ"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-55835816267>
+  ns0:hasPermId "55835816267"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEMEXCPO.MX"^^xsd:string ;
+  ns1:hasExchangeTicker "CEMEXCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MEX"^^xsd:string ;
+  ns1:hasMic "XMEX"^^xsd:string .
+
+<https://permid.org/1-21667704386>
+  ns0:hasPermId "21667704386"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CABLEVISION CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8589971061> ;
+  ns1:hasRic "CABLECPO.MCO"^^xsd:string ;
+  ns1:hasExchangeTicker "CABLECPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MXQ"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21546939710>
+  ns0:hasPermId "21546939710"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "1CEMEXCPO.PIPB"^^xsd:string ;
+  ns1:hasExchangeTicker "1_CEMEX_CPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "PPB"^^xsd:string .
+
+<https://permid.org/1-25727382165>
+  ns0:hasPermId "25727382165"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500110> ;
+  ns0:hasName "PROTEAK UNO SAPIB DE CV MEXICO ORD"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-21474836500> ;
+  ns1:hasRic "PKNOF.PQ"^^xsd:string ;
+  ns1:hasExchangeTicker "PKNOF"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "OTC"^^xsd:string .
+
+<https://permid.org/1-21667704419>
+  ns0:hasPermId "21667704419"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "CEMEX CPO"^^xsd:string ;
+  ns1:isQuoteOf <https://permid.org/1-8590933160> ;
+  ns1:hasRic "CEMEXCPO.MCO"^^xsd:string ;
+  ns1:hasExchangeTicker "CEMEXCPO"^^xsd:string ;
+  a ns1:Quote ;
+  ns1:hasExchangeCode "MXQ"^^xsd:string ;
+  ns1:hasMic "XXXX"^^xsd:string .
+
+<https://permid.org/1-21579095743>
+  ns0:hasPermId "21579095743"^^xsd:string ;
+  ns1:isQuotedIn <https://permid.org/1-500212> ;
+  ns0:hasName "LA COMER UBC ORD"^^xsd:string .

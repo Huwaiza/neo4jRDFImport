@@ -1,0 +1,2010 @@
+@prefix ns0: <http://permid.org/ontology/common/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns1: <http://permid.org/ontology/mdaas/> .
+@prefix vcard: <http://www.w3.org/2006/vcard/ns#> .
+@prefix ns2: <http://permid.org/ontology/organization/> .
+@prefix ns3: <http://www.omg.org/spec/EDMC-FIBO/BE/LegalEntities/CorporateBodies/> .
+
+<https://permid.org/1-5050278620>
+  ns0:hasPermId "5050278620"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Hebei Electric Power Corp"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076809>
+  ns0:hasPermId "5001076809"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "City Of Zhuhai"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050266128>
+  ns0:hasPermId "5050266128"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing State Research Information Technology Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050273130>
+  ns0:hasPermId "5050273130"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Xinjiang Rongding Investment Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076799>
+  ns0:hasPermId "5001076799"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "City Of Fuzhou"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050279529>
+  ns0:hasPermId "5050279529"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Jiangxi Jiangzhong Property Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050278568>
+  ns0:hasPermId "5050278568"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Shenyang Aircraft Corp"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076810>
+  ns0:hasPermId "5001076810"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Dongguan Municipality People's Government Of"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076807>
+  ns0:hasPermId "5001076807"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "City Of Wenzhou"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5043441817>
+  ns0:hasPermId "5043441817"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Jingji Group Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036206244>
+  ns0:hasPermId "5036206244"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "ZTE Holdings Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5040056449>
+  ns0:hasPermId "5040056449"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Zhejiang Kasen Industrial Group Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050267967>
+  ns0:hasPermId "5050267967"^^xsd:string ;
+  vcard:organization-name "302 Military Hospital Of China"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://www.302hospital.com/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076798>
+  ns0:hasPermId "5001076798"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "City Of Dalian"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5038917138>
+  ns0:hasPermId "5038917138"^^xsd:string ;
+  vcard:organization-name "Actavis Foshan Pharmaceutical Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://www.actavis.cn/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasLatestOrganizationFoundedDate "1989-01-13T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035508437>
+  ns0:hasPermId "5035508437"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Zhengzhou Investment Holdings Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5043451870>
+  ns0:hasPermId "5043451870"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "OmniVision Holding Hong Kong Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037933086>
+  ns0:hasPermId "5037933086"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing Teheng Control Engineering Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-4297700321>
+  ns0:hasPermId "4297700321"^^xsd:string ;
+  vcard:organization-name "Shenzhen Fruit&Vegetable Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076806>
+  ns0:hasPermId "5001076806"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "City Of Shenzhen"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050278470>
+  ns0:hasPermId "5050278470"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Johnson Controls Asia Holdings Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037086576>
+  ns0:hasPermId "5037086576"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Hangzhou Nijiala Property Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035538122>
+  ns0:hasPermId "5035538122"^^xsd:string ;
+  vcard:organization-name "Qianjiang Pharmaceutical Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5048737422>
+  ns0:hasPermId "5048737422"^^xsd:string ;
+  vcard:organization-name "Chongqing Shanghui Microcredit Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://www.cqshdk.com/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasLatestOrganizationFoundedDate "2011-10-28T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037937045>
+  a ns2:Organization ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  vcard:organization-name "Zhejiang Zhuji Small and Medium Enterprises"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  ns0:hasPermId "5037937045"^^xsd:string .
+
+<https://permid.org/1-5001076875>
+  ns0:hasPermId "5001076875"^^xsd:string ;
+  vcard:organization-name "Shaanxi Municipality People's Government Of"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076812>
+  ns0:hasPermId "5001076812"^^xsd:string ;
+  vcard:organization-name "Fujian Municipality People's Government Of"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037930707>
+  ns0:hasPermId "5037930707"^^xsd:string ;
+  vcard:organization-name "Tianjin DG Membrane Tech Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://www.dgmembrane.com/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5014440280>
+  ns0:hasPermId "5014440280"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Carlisle Shanghai Management Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5040930952>
+  ns0:hasPermId "5040930952"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "People's Government of Haixi"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5016814682>
+  ns0:hasPermId "5016814682"^^xsd:string ;
+  ns1:HeadquartersAddress """China (PRC)
+"""^^xsd:string ;
+  vcard:organization-name "Shenzhen Fu Vtech Electronics Technology Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5042375438>
+  ns0:hasPermId "5042375438"^^xsd:string ;
+  vcard:organization-name "Beijing Fude Haobang Investment Center LP"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036786698>
+  ns0:hasPermId "5036786698"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing Jingxi Heavy Industry Co  Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050272902>
+  ns0:hasPermId "5050272902"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Strong Petrochemical Asia Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035943935>
+  ns0:hasPermId "5035943935"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Shenzhen Huiyi Nengda Intelligent Card Technology Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076872>
+  ns0:hasPermId "5001076872"^^xsd:string ;
+  vcard:organization-name "Province Of Zhejiang"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050304538>
+  ns0:hasPermId "5050304538"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Shenzhen Bak Power Battery Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050896606>
+  ns0:hasPermId "5050896606"^^xsd:string ;
+  ns1:HeadquartersAddress """28/F, Tax Free Business Bldg,
+#6, Fuhua 1st Rd., Futian Dist
+SHENZHEN
+GUANGDONG
+China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Shenzhen Tongsheng Venture Capital Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050916825>
+  ns0:hasPermId "5050916825"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Jiangyin Huaxin Special Alloy Materials Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076815>
+  ns0:hasPermId "5001076815"^^xsd:string ;
+  vcard:organization-name "Gansu Municipality People's Government Of"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076871>
+  ns0:hasPermId "5001076871"^^xsd:string ;
+  vcard:organization-name "Province Of Xinjiang"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050926085>
+  ns0:hasPermId "5050926085"^^xsd:string ;
+  vcard:organization-name "Evergrande Real Estate Group Shenzhen Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasLatestOrganizationFoundedDate "2011-10-25T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5045730639>
+  ns0:hasPermId "5045730639"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "South Zengcai Technology Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns1:RegisteredAddress """F Workshop, No. 31 3rd Ring West Road, Xiaotang Urban Area, Shishan Town, Nanhai District
+FOSHAN
+GUANGDONG
+China (Mainland)
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050913090>
+  a ns2:Organization ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  vcard:organization-name "Beijing Matsushita Color CRT Co Ltd"^^xsd:string ;
+  ns0:hasPermId "5050913090"^^xsd:string .
+
+<https://permid.org/1-5050698300>
+  ns0:hasPermId "5050698300"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Xinsheng Electronic Trading Shenzhen Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076876>
+  ns0:hasPermId "5001076876"^^xsd:string ;
+  vcard:organization-name "Shaanxi Province People's Government Of"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050916839>
+  ns0:hasPermId "5050916839"^^xsd:string ;
+  vcard:organization-name "XiAn Lvjing Technology Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046654842>
+  ns0:hasPermId "5046654842"^^xsd:string ;
+  vcard:organization-name "CCCC Real Estate Group Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050922488>
+  ns0:hasPermId "5050922488"^^xsd:string ;
+  vcard:organization-name "Chongqing Municipal Rongchang People's Government"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051005856>
+  ns0:hasPermId "5051005856"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "China Merchants Finance Investment Holdings Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035726025>
+  ns0:hasPermId "5035726025"^^xsd:string ;
+  vcard:organization-name "Process Lab Micron (Suzhou) Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050276127>
+  ns0:hasPermId "5050276127"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Itochu China Group Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037122479>
+  ns0:hasPermId "5037122479"^^xsd:string ;
+  vcard:organization-name "Shenzhen Jingzhen Cost Consulting Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050657569>
+  ns0:hasPermId "5050657569"^^xsd:string ;
+  vcard:organization-name "Jiangsu Xingyu Holding Group Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050659035>
+  ns0:hasPermId "5050659035"^^xsd:string ;
+  vcard:organization-name "Beijing BDG Water Design Academy Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5043428160>
+  ns0:hasPermId "5043428160"^^xsd:string ;
+  vcard:organization-name "Tongling Development Investment Group Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050276259>
+  ns0:hasPermId "5050276259"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Hainan Xinda Development Corp"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050309331>
+  ns0:hasPermId "5050309331"^^xsd:string ;
+  vcard:organization-name "Yanjing BreweryZhejiang XianduCo Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5040257723>
+  ns0:hasPermId "5040257723"^^xsd:string ;
+  vcard:organization-name "Dalian Golden Key Advertising Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5040257729>
+  ns0:hasPermId "5040257729"^^xsd:string ;
+  vcard:organization-name "Golden Key Beijing Advertising Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050276268>
+  a ns2:Organization ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:organization-name "Minmetals Mining Corp Ltd"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  ns0:hasPermId "5050276268"^^xsd:string .
+
+<https://permid.org/1-5050648491>
+  ns0:hasPermId "5050648491"^^xsd:string ;
+  vcard:organization-name "Tangshan Financial Holding Group Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035946135>
+  ns0:hasPermId "5035946135"^^xsd:string ;
+  vcard:organization-name "Huayu-Cooper Standard Sealing Systems Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036882363>
+  ns0:hasPermId "5036882363"^^xsd:string ;
+  vcard:organization-name "Capital Highway Development Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050291323>
+  ns0:hasPermId "5050291323"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Poly Technology Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050266191>
+  ns0:hasPermId "5050266191"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Vision Shenzhen Software Technology Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036888307>
+  ns0:hasPermId "5036888307"^^xsd:string ;
+  vcard:organization-name "Hainan White Horse Swan Bay Garden Properties Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050471271>
+  ns0:hasPermId "5050471271"^^xsd:string ;
+  vcard:organization-name "Mercuria China Investment Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035508464>
+  ns0:hasPermId "5035508464"^^xsd:string ;
+  vcard:organization-name "Zhongrong Life Insurance Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035487788>
+  ns0:hasPermId "5035487788"^^xsd:string ;
+  vcard:organization-name "Qingdao Guoxin Development (Group) Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035500532>
+  ns0:hasPermId "5035500532"^^xsd:string ;
+  vcard:organization-name "Henan Agricultural Synthesis Exploitation Co"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5038917146>
+  ns0:hasPermId "5038917146"^^xsd:string ;
+  vcard:organization-name "Beijing APC International Air & Sea Freight Forwarding Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5049102928>
+  ns0:hasPermId "5049102928"^^xsd:string ;
+  vcard:organization-name "Shouzheng Desheng Capital Management Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050391465>
+  ns0:hasPermId "5050391465"^^xsd:string ;
+  vcard:organization-name "Zhongfu Aging Industry Development Tianjin Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-4297087547>
+  ns0:hasPermId "4297087547"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "SHANGHAI RI YONG-UTA GATE"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036394374>
+  ns0:hasPermId "5036394374"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Wuxi Huada Gas Turbine Electric Power Co"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000846897>
+  ns0:hasPermId "5000846897"^^xsd:string ;
+  ns1:HeadquartersAddress """China (PRC)
+"""^^xsd:string ;
+  vcard:organization-name "Baofeng Network Technology Co  Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasLatestOrganizationFoundedDate "2007-01-18T00:00:00Z"^^xsd:dateTime ;
+  ns1:RegisteredAddress """Room 1267, No.3 Building
+No.3 Xijing Road
+Badachu Hi-Tech Scientific Park, Shijingshan District
+BEIJING
+BEIJING
+China (PRC)
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037123979>
+  ns0:hasPermId "5037123979"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing Bausch & Lomb Eye Care Products Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5039682565>
+  ns0:hasPermId "5039682565"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Inner Mongolia Huitengxile Wind Power Generator Testing Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035478506>
+  ns0:hasPermId "5035478506"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Gansu Jianxin Industry Group Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000127310>
+  ns0:hasPermId "5000127310"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Shenzhen Guangshen Railway Economic And Trade Enterprise Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasLatestOrganizationFoundedDate "2002-03-07T00:00:00Z"^^xsd:dateTime ;
+  ns1:RegisteredAddress """Room 405, 406, 4F, North React Building,Railway Station
+No. 1, Jianshe Road
+Luohu District
+SHENZHEN
+GUANGDONG
+China (PRC)
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035967837>
+  a ns2:Organization ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasInactiveDate "1800-01-01T00:00:00Z"^^xsd:dateTime ;
+  ns2:hasActivityStatus ns2:statusInActive ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  vcard:organization-name "Guangdong Neufashion Digital Technology Co Ltd"^^xsd:string ;
+  ns1:HeadquartersAddress """China (PRC)
+"""^^xsd:string ;
+  ns0:hasPermId "5035967837"^^xsd:string .
+
+<https://permid.org/1-4298362840>
+  ns0:hasPermId "4298362840"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Tetra Pak (BEIJING) Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-4298133463>
+  ns0:hasPermId "4298133463"^^xsd:string ;
+  ns1:HeadquartersAddress """Investment Co Office Bldg
+Fuhui Road City
+Gucheng District, Lijiang
+F4
+China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Lijiang Derun Real Estate Development Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000701492>
+  ns0:hasPermId "5000701492"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing JingMian Dragon Textile Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns1:RegisteredAddress """China (Mainland)
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035479290>
+  ns0:hasPermId "5035479290"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Heilongjiang Benma Industrial Investment Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000532625>
+  ns0:hasPermId "5000532625"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Tsingtao Beer (Changsha) Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000664008>
+  ns0:hasPermId "5000664008"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "BEIJING ANSHUN YUAN PPTY DVLP"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046037645>
+  ns0:hasPermId "5046037645"^^xsd:string ;
+  vcard:organization-name "Shanghai Eastbest & Lansheng International Group"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036211930>
+  ns0:hasPermId "5036211930"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing Wandong Software Technology Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5043430960>
+  ns0:hasPermId "5043430960"^^xsd:string ;
+  ns1:HeadquartersAddress """No. 516-1, Changyi District
+132000
+China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Jilin Chemical Fibre Import and Export Corp"^^xsd:string ;
+  ns2:hasHeadquartersFaxNumber "4323058445"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns2:hasHeadquartersPhoneNumber "4323058443"^^xsd:string ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036891741>
+  ns0:hasPermId "5036891741"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Shanghai Juancheng Real Estate Development Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036786729>
+  ns0:hasPermId "5036786729"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Jiaohe Shougang Real Estate Development Co  Ltd "^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076805>
+  ns0:hasPermId "5001076805"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "City Of Shanghai"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000132443>
+  ns0:hasPermId "5000132443"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Shenzhen Guangshen Railway Travel Service Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasLatestOrganizationFoundedDate "1995-08-16T00:00:00Z"^^xsd:dateTime ;
+  ns1:RegisteredAddress """Railway Station East Exit, B1, Shenzhen Railway Station East Building
+Luohu District
+SHENZHEN
+GUANGDONG
+China (PRC)
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-4296598676>
+  ns0:hasPermId "4296598676"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "HEBEI HIGHWAY DEVELOPMENT CO"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5043441251>
+  ns0:hasPermId "5043441251"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Henan Water Conservancy Investment Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035775336>
+  ns0:hasPermId "5035775336"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing Electronic Zone Electronics Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046438379>
+  ns0:hasPermId "5046438379"^^xsd:string ;
+  ns1:HeadquartersAddress """China (PRC)
+"""^^xsd:string ;
+  vcard:organization-name "CapitaLand Retail China Trust Management Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046389906>
+  ns2:hasHeadquartersPhoneNumber "16472584326"^^xsd:string ;
+  ns1:HeadquartersAddress """Mars Centre, South Tower
+101 College Street, Suite 217
+TORONTO
+ONTARIO
+M5G 1L7
+Canada
+"""^^xsd:string ;
+  ns0:hasPermId "5046389906"^^xsd:string ;
+  ns2:hasLatestOrganizationFoundedDate "2011-04-27T00:00:00Z"^^xsd:dateTime ;
+  vcard:organization-name "Formation Biologics Inc"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://www.formationbiologics.com/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns1:RegisteredAddress """Canada
+"""^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046050892>
+  ns0:hasPermId "5046050892"^^xsd:string ;
+  vcard:organization-name "Kissner Group Holdings LP"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000616177>
+  ns0:hasPermId "5000616177"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Lislet Sur Mer  Municipality Of"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-4297194248>
+  ns1:RegisteredAddress """1140 Bay St Suite 4000
+TORONTO
+ONTARIO
+M5S 2B4
+Canada
+"""^^xsd:string ;
+  ns2:hasRegisteredFaxNumber "14169605333"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://www.firstservice.com> ;
+  ns2:hasRegisteredPhoneNumber "14169609500"^^xsd:string ;
+  ns2:hasIPODate "2015-06-02T04:00:00Z"^^xsd:dateTime ;
+  ns2:hasHeadquartersFaxNumber "14169605333"^^xsd:string ;
+  vcard:organization-name "FirstService Corp"^^xsd:string ;
+  ns2:hasLEI "D3O8K13PHLEXXD1DT480"^^xsd:string ;
+  ns2:hasHeadquartersPhoneNumber "14169609500"^^xsd:string ;
+  a ns2:Organization ;
+  ns1:HeadquartersAddress """1140 Bay St Suite 4000
+TORONTO
+ONTARIO
+M5S 2B4
+Canada
+"""^^xsd:string ;
+  ns0:hasPermId "4297194248"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasLatestOrganizationFoundedDate "2015-01-06T00:00:00Z"^^xsd:dateTime .
+
+<https://permid.org/1-5020740955>
+  ns0:hasPermId "5020740955"^^xsd:string ;
+  vcard:organization-name "Equion Securities Canada Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050903454>
+  ns0:hasPermId "5050903454"^^xsd:string ;
+  vcard:organization-name "Thomson Reuters Corporation"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050712892>
+  ns0:hasPermId "5050712892"^^xsd:string ;
+  vcard:organization-name "Onex Capital Corp"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046041362>
+  ns0:hasPermId "5046041362"^^xsd:string ;
+  vcard:organization-name "Talisman Energy Canada"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036383721>
+  ns0:hasPermId "5036383721"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Dongguan Wan Hao Food Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050721376>
+  ns0:hasPermId "5050721376"^^xsd:string ;
+  vcard:organization-name "Procurify"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001095915>
+  ns0:hasPermId "5001095915"^^xsd:string ;
+  ns2:hasRegisteredPhoneNumber "14504341440"^^xsd:string ;
+  ns1:HeadquartersAddress """6, rue de l Eglise
+STE-THERESE
+QUEBEC
+J7E 3L1
+Canada
+"""^^xsd:string ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns1:RegisteredAddress """6, rue de l Eglise
+STE-THERESE
+QUEBEC
+J7E 3L1
+Canada
+"""^^xsd:string ;
+  ns2:hasHeadquartersPhoneNumber "14504341440"^^xsd:string ;
+  vcard:organization-name "Ville de Sainte Therese"^^xsd:string ;
+  a ns2:Organization ;
+  vcard:hasURL <http://www.sainte-therese.ca/> ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive .
+
+<https://permid.org/1-5047927420>
+  ns0:hasPermId "5047927420"^^xsd:string ;
+  vcard:organization-name "Municipalite de Sainte Barbe"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://www.ste-barbe.com/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-4298521492>
+  ns1:RegisteredAddress """281 Hillmount Rd
+MARKHAM
+ONTARIO
+L6C 2S3
+Canada
+"""^^xsd:string ;
+  ns2:hasLatestOrganizationFoundedDate "1978-12-20T00:00:00Z"^^xsd:dateTime ;
+  ns2:hasInactiveDate "2016-01-31T00:00:00Z"^^xsd:dateTime ;
+  ns1:HeadquartersAddress """281 Hillmount Rd
+MARKHAM
+ONTARIO
+L6C 2S3
+Canada
+"""^^xsd:string ;
+  vcard:organization-name "Philips Canada Ltd"^^xsd:string ;
+  a ns2:Organization ;
+  ns2:hasActivityStatus ns2:statusInActive ;
+  ns0:hasPermId "4298521492"^^xsd:string ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> .
+
+<https://permid.org/1-5000085436>
+  ns0:hasPermId "5000085436"^^xsd:string ;
+  vcard:organization-name "Rbc Capital Markets"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://www.rbccm.com/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001203197>
+  ns1:HeadquartersAddress """Suite 200
+6100 Cote de Liesse
+MONTREAL
+QUEBEC
+H4T 1E3
+Canada
+"""^^xsd:string ;
+  a ns2:Organization ;
+  ns2:hasHeadquartersPhoneNumber "15147313401"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  vcard:hasURL <http://unifood.com> ;
+  ns1:RegisteredAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Les Aliments Unifood Inc"^^xsd:string ;
+  ns2:hasHeadquartersFaxNumber "15143425959"^^xsd:string ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns0:hasPermId "5001203197"^^xsd:string .
+
+<https://permid.org/1-5047746569>
+  ns0:hasPermId "5047746569"^^xsd:string ;
+  vcard:organization-name "DCI Digital Communications Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050311640>
+  ns0:hasPermId "5050311640"^^xsd:string ;
+  vcard:organization-name "Primary Power of Western Canada Co"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-4297669789>
+  a ns2:Organization ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasHeadquartersPhoneNumber "1"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasHeadquartersFaxNumber "1"^^xsd:string ;
+  vcard:organization-name "Path Intl Inc"^^xsd:string ;
+  ns1:HeadquartersAddress """CANADA-NA
+Canada
+"""^^xsd:string ;
+  ns0:hasPermId "4297669789"^^xsd:string .
+
+<https://permid.org/1-5050704945>
+  ns0:hasPermId "5050704945"^^xsd:string ;
+  vcard:organization-name "Municipalite de Baie-Trinite"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:hasURL <http://baietrinite.com/> ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5048737424>
+  ns0:hasPermId "5048737424"^^xsd:string ;
+  vcard:organization-name "Supermax Health"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasLatestOrganizationFoundedDate "2012-04-02T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000823012>
+  ns0:hasPermId "5000823012"^^xsd:string ;
+  ns1:HeadquartersAddress """United States
+"""^^xsd:string ;
+  vcard:organization-name "Paccar Financial Services Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036855378>
+  ns0:hasPermId "5036855378"^^xsd:string ;
+  vcard:organization-name "Telebec Partnership Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050918877>
+  ns0:hasPermId "5050918877"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Veritas Pharma Inc"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050277874>
+  ns0:hasPermId "5050277874"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "MDI Achieve Inc"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050721632>
+  ns0:hasPermId "5050721632"^^xsd:string ;
+  vcard:organization-name "Lincoln Gold Corp"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050919955>
+  ns1:RegisteredAddress """549 Howe St Suite 900
+VANCOUVER
+BRITISH COLUMBIA
+V6C 2C2
+Canada
+"""^^xsd:string ;
+  a ns2:Organization ;
+  ns1:HeadquartersAddress """900-549 Howe St
+VANCOUVER
+BRITISH COLUMBIA
+V6C 2C2
+Canada
+"""^^xsd:string ;
+  ns0:hasPermId "5050919955"^^xsd:string ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns2:hasLatestOrganizationFoundedDate "2015-04-14T00:00:00Z"^^xsd:dateTime ;
+  vcard:organization-name "Cloud Nine Education Group Ltd"^^xsd:string ;
+  ns2:hasRegisteredPhoneNumber "16043775572"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasHeadquartersPhoneNumber "16043775572"^^xsd:string .
+
+<https://permid.org/1-5047642973>
+  ns0:hasPermId "5047642973"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Connected Car Solutions Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5040246043>
+  ns0:hasPermId "5040246043"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Karoo Exploration Corp"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasLatestOrganizationFoundedDate "2011-03-29T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000318907>
+  ns0:hasPermId "5000318907"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Deutsche Transnational Trustee Corporation Inc"^^xsd:string ;
+  ns2:hasLEI "5299009OOAUJ6DWXPS94"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000827597>
+  ns0:hasPermId "5000827597"^^xsd:string ;
+  vcard:organization-name "Pivotal Software"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036782960>
+  ns0:hasPermId "5036782960"^^xsd:string ;
+  ns1:HeadquartersAddress """Park Place
+666 Burrard St Suite 1700
+VANCOUVER
+BRITISH COLUMBIA
+V6C 2X8
+Canada
+"""^^xsd:string ;
+  vcard:organization-name "DAS Legal Protection Ltd"^^xsd:string ;
+  ns2:hasLEI "52990059UMCLMRPIHP18"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051001103>
+  ns0:hasPermId "5051001103"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Spok canada"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5042992774>
+  ns0:hasPermId "5042992774"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "NTT Data Vertex Software Inc"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035703514>
+  ns0:hasPermId "5035703514"^^xsd:string ;
+  ns1:HeadquartersAddress """Pacific Centre
+777 Dunsmuir Street
+Suite 1300
+VANCOUVER
+BRITISH COLUMBIA
+V7Y 1K2
+Canada
+"""^^xsd:string ;
+  vcard:organization-name "EDP Renewables Canada LTD"^^xsd:string ;
+  ns2:hasLEI "5493005T62UF7XQJVA14"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050899259>
+  ns0:hasPermId "5050899259"^^xsd:string ;
+  ns1:HeadquartersAddress """EDMONTON
+ALBERTA
+Canada
+"""^^xsd:string ;
+  vcard:organization-name "CU Power Canada Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050902598>
+  ns0:hasPermId "5050902598"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Oil States Energy Services Canada Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050899575>
+  ns0:hasPermId "5050899575"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Cometra Energy Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-4297078536>
+  ns0:hasPermId "4297078536"^^xsd:string ;
+  vcard:organization-name "0706906 BC Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046660174>
+  ns0:hasPermId "5046660174"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "SFS Ca I LP"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047748116>
+  ns0:hasPermId "5047748116"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "MAXIMUS BC Health Benefit"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047645319>
+  ns0:hasPermId "5047645319"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Sogeclair Aeroespace Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047642303>
+  ns0:hasPermId "5047642303"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Quindell Portfolio Canada Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000150086>
+  ns0:hasPermId "5000150086"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Blackstone Real Estate Holdings Europe III NQ LP"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns1:RegisteredAddress """Canada
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051001981>
+  ns0:hasPermId "5051001981"^^xsd:string ;
+  vcard:organization-name "Bell Aliant Regional Communications LP"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050925078>
+  ns0:hasPermId "5050925078"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Versant Energy Services LP"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050925090>
+  ns0:hasPermId "5050925090"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Sanitherm ULC"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-4297249649>
+  ns0:hasPermId "4297249649"^^xsd:string ;
+  vcard:organization-name "Cabletel Commun Distn Bus"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050925104>
+  ns0:hasPermId "5050925104"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Clean Harbors Production Services ULC"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051001951>
+  ns0:hasPermId "5051001951"^^xsd:string ;
+  vcard:organization-name "Gilead Ym ULC"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037846635>
+  ns0:hasPermId "5037846635"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Luxfer Canada Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076860>
+  ns0:hasPermId "5001076860"^^xsd:string ;
+  vcard:organization-name "Province Of Fujian"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051007580>
+  ns0:hasPermId "5051007580"^^xsd:string ;
+  vcard:organization-name "Huanggang Asset Management"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051001048>
+  ns0:hasPermId "5051001048"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing Tongrentang Tangshan Nutrition Dietary Supplement Co Ltd Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050277978>
+  ns0:hasPermId "5050277978"^^xsd:string ;
+  vcard:organization-name "Shijiazhuang Jianghuai Power Unit Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050986655>
+  ns0:hasPermId "5050986655"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Guangxi Hebabiz Pharmaceutical Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076865>
+  ns0:hasPermId "5001076865"^^xsd:string ;
+  vcard:organization-name "Province Of Heilongjiang"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050996819>
+  ns0:hasPermId "5050996819"^^xsd:string ;
+  vcard:organization-name "Beijing Ruiyuan Fengi Real Estate Deveopment Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046714441>
+  ns0:hasPermId "5046714441"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Yuyao Baili Special Spinng Dying Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5049968116>
+  ns0:hasPermId "5049968116"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Wuhan Nachuan Pipeline Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076864>
+  ns0:hasPermId "5001076864"^^xsd:string ;
+  vcard:organization-name "Province Of Hainan"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047640023>
+  ns0:hasPermId "5047640023"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Zhuhai Free Trade Zone Guyuan Software Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037243247>
+  ns0:hasPermId "5037243247"^^xsd:string ;
+  vcard:organization-name "Erdos Kangbashi Thermal Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076863>
+  ns0:hasPermId "5001076863"^^xsd:string ;
+  vcard:organization-name "Province Of Guizhou"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076869>
+  ns0:hasPermId "5001076869"^^xsd:string ;
+  vcard:organization-name "Province Of Jiangxi"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047292957>
+  ns0:hasPermId "5047292957"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Hainan Ruize Zhongqin Industries Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076844>
+  a ns2:Organization ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  vcard:organization-name "Jilin Province People's Government"^^xsd:string ;
+  ns0:hasPermId "5001076844"^^xsd:string .
+
+<https://permid.org/1-5050998469>
+  ns0:hasPermId "5050998469"^^xsd:string ;
+  vcard:organization-name "Ordos City BOE Energy Investment Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076859>
+  ns0:hasPermId "5001076859"^^xsd:string ;
+  vcard:organization-name "Province Of Anhui"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076862>
+  ns0:hasPermId "5001076862"^^xsd:string ;
+  vcard:organization-name "Province Of Guangxi"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037082941>
+  ns0:hasPermId "5037082941"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing Huatai Longan Property Managemetn Co Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047105435>
+  ns0:hasPermId "5047105435"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Beijing Esafenet Software Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5037078536>
+  ns0:hasPermId "5037078536"^^xsd:string ;
+  vcard:organization-name "Parkway (Shanghai) Hospital Management Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076861>
+  ns0:hasPermId "5001076861"^^xsd:string ;
+  vcard:organization-name "Province Of Guangdong"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5001076870>
+  ns0:hasPermId "5001076870"^^xsd:string ;
+  vcard:organization-name "Province Of Shandong"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5048021988>
+  ns0:hasPermId "5048021988"^^xsd:string ;
+  ns1:HeadquartersAddress """China (Mainland)
+"""^^xsd:string ;
+  vcard:organization-name "Hangzhou Yongtai New Material Co Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/1814991/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/1814991/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050719797>
+  ns0:hasPermId "5050719797"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Hotellus Montreal Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasLatestOrganizationFoundedDate "2008-06-10T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036887741>
+  ns0:hasPermId "5036887741"^^xsd:string ;
+  ns1:HeadquartersAddress """600 De la Gauchetiere St W 27th Floor 1100
+MONTREAL
+QUEBEC
+H3B 4L2
+Canada
+"""^^xsd:string ;
+  vcard:organization-name "NBC Financial Services Inc"^^xsd:string ;
+  ns2:hasLEI "549300H1M9Y32MERI335"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000322352>
+  ns0:hasPermId "5000322352"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Blackstone Real Estate Holdings IV (Alberta) LP"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns1:RegisteredAddress """Canada
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000301791>
+  ns0:hasPermId "5000301791"^^xsd:string ;
+  ns1:HeadquartersAddress """2711 PR Geo Pulpmill
+PRINCE GEORGE
+BRITISH COLUMBIA
+BC V2L 2K1
+Canada
+"""^^xsd:string ;
+  vcard:organization-name "Chemtrade Pulp Chemicals Ltd Partnership"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046437866>
+  ns0:hasPermId "5046437866"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Pla-Fit Canada Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046663775>
+  ns0:hasPermId "5046663775"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Fabricom Canada Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasLatestOrganizationFoundedDate "2007-03-08T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050640022>
+  ns0:hasPermId "5050640022"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Saskatchewan Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046657590>
+  ns0:hasPermId "5046657590"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Eharlequin ca Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050640174>
+  ns0:hasPermId "5050640174"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Invesco Global Direct Real Estate Feeder GP Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047442940>
+  ns0:hasPermId "5047442940"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "CIP Magnetite Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047644111>
+  ns0:hasPermId "5047644111"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "SRE North Kent 1 LP HLP"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050919664>
+  ns0:hasPermId "5050919664"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "1015776 B.C. Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasLatestOrganizationFoundedDate "2014-10-06T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051002679>
+  ns0:hasPermId "5051002679"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "PC HelpSoft"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5047644225>
+  ns0:hasPermId "5047644225"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "CELLEBRITE CANADA MOBILE DATA SOLUTIONS LTD."^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasLatestOrganizationFoundedDate "2015-03-16T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000118737>
+  ns0:hasPermId "5000118737"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "605681 NB Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns1:RegisteredAddress """Canada
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050312077>
+  ns0:hasPermId "5050312077"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "XRF Scientific Americas Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasLatestOrganizationFoundedDate "2013-06-18T00:00:00Z"^^xsd:dateTime ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050640351>
+  ns0:hasPermId "5050640351"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Invesco Global Direct Real Estate GP Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5036182776>
+  ns0:hasPermId "5036182776"^^xsd:string ;
+  ns1:HeadquartersAddress """6-60 Granton Dr
+RICHMOND HILL
+ONTARIO
+L4B 2N6
+Canada
+"""^^xsd:string ;
+  vcard:organization-name "Austco Marketing & Service Canada Ltd"^^xsd:string ;
+  ns2:hasHeadquartersFaxNumber "19057311816"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns2:hasHeadquartersPhoneNumber "18886709997"^^xsd:string ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5041980011>
+  ns0:hasPermId "5041980011"^^xsd:string ;
+  vcard:organization-name "Clean Harbors Surface Rentals Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051000988>
+  a ns2:Organization ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  vcard:organization-name "Babcock & Wilcox Power Generation Group Canada Corp"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  ns0:hasPermId "5051000988"^^xsd:string .
+
+<https://permid.org/1-5000143795>
+  ns0:hasPermId "5000143795"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Bell Sports Canada Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  ns1:RegisteredAddress """Canada
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050643960>
+  ns0:hasPermId "5050643960"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "HCN-Revera Lessee (Chatham) LP"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5051175925>
+  ns0:hasPermId "5051175925"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Maiclair Holdings ULC"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050699338>
+  ns0:hasPermId "5050699338"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "Galaxie Lithium Un Quebec Inc"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5046660688>
+  ns0:hasPermId "5046660688"^^xsd:string ;
+  ns1:HeadquartersAddress """Canada
+"""^^xsd:string ;
+  vcard:organization-name "SFS Ca II LP"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/6251999/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/6251999/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5043433822>
+  ns0:hasPermId "5043433822"^^xsd:string ;
+  ns1:HeadquartersAddress """Level 5, 379 Queens St.
+BRISBANE
+QUEENSLAND
+4000
+Australia
+"""^^xsd:string ;
+  vcard:organization-name "RLMS Pty Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050278716>
+  ns0:hasPermId "5050278716"^^xsd:string ;
+  ns1:HeadquartersAddress """Australia
+"""^^xsd:string ;
+  vcard:organization-name "Silverton Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050271807>
+  ns0:hasPermId "5050271807"^^xsd:string ;
+  ns1:HeadquartersAddress """Australia
+"""^^xsd:string ;
+  vcard:organization-name "South Pacific Power Pty Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5035561866>
+  ns0:hasPermId "5035561866"^^xsd:string ;
+  ns1:HeadquartersAddress """60-66 Hanover Street, Fitzroy, Victoria 3065
+Australia
+"""^^xsd:string ;
+  vcard:organization-name "Immunaid Pty Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/2077456/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  ns2:hasLatestOrganizationFoundedDate "2001-03-21T00:00:00Z"^^xsd:dateTime ;
+  ns1:RegisteredAddress """VICTORIA
+3065
+Australia
+"""^^xsd:string ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000190058>
+  ns0:hasPermId "5000190058"^^xsd:string ;
+  vcard:organization-name "Aon Financial Planning & Protection Pty Ltd"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/2077456/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000398657>
+  ns0:hasPermId "5000398657"^^xsd:string ;
+  vcard:organization-name "Commercial Property Monitor"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/2077456/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000857132>
+  ns0:hasPermId "5000857132"^^xsd:string ;
+  ns1:HeadquartersAddress """Australia
+"""^^xsd:string ;
+  vcard:organization-name "Moody's Investors Service Pty Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5000127119>
+  ns0:hasPermId "5000127119"^^xsd:string ;
+  ns1:HeadquartersAddress """Unit 3-4
+25 Frenchs Forest Road
+FRENCHS FOREST
+NEW SOUTH WALES
+Australia
+"""^^xsd:string ;
+  vcard:organization-name "Serono Australia Pty Ltd"^^xsd:string ;
+  ns2:hasHeadquartersFaxNumber "61299751516"^^xsd:string ;
+  ns2:isIncorporatedIn <http://sws.geonames.org/2077456/> ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns2:hasHeadquartersPhoneNumber "61289774100"^^xsd:string ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  a ns2:Organization .
+
+<https://permid.org/1-5050274234>
+  ns0:hasPermId "5050274234"^^xsd:string ;
+  ns1:HeadquartersAddress """Australia
+"""^^xsd:string ;
+  vcard:organization-name "Springsure Mining Pty Ltd"^^xsd:string ;
+  ns2:hasActivityStatus ns2:statusActive ;
+  ns3:isDomiciledIn <http://sws.geonames.org/2077456/> ;
+  a ns2:Organization .
